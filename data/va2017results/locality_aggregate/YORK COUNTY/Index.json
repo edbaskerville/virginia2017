@@ -1,0 +1,221 @@
+{
+  "ElectionName": "2017 November General",
+  "ElectionDate": "2017-11-07T00:00:00",
+  "CreateDate": "2017-11-13T19:06:15.2600235-05:00",
+  "Locality": {
+    "LocalityName": "YORK COUNTY",
+    "LocalityCode": "199"
+  },
+  "Races": [
+    {
+      "RaceName": "Governor",
+      "PrecinctsReporting": 14,
+      "PrecinctsParticipating": 14,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ralph S. Northam",
+          "BallotOrder": 1,
+          "Votes": 10068,
+          "Percentage": "43.66%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward W. \"Ed\" Gillespie",
+          "BallotOrder": 2,
+          "Votes": 12708,
+          "Percentage": "55.11%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Clifford D. Hyra",
+          "BallotOrder": 3,
+          "Votes": 269,
+          "Percentage": "1.17%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 14,
+          "Percentage": "0.06%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Lieutenant Governor",
+      "PrecinctsReporting": 14,
+      "PrecinctsParticipating": 14,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Justin E. Fairfax",
+          "BallotOrder": 1,
+          "Votes": 9612,
+          "Percentage": "41.81%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jill H. Vogel",
+          "BallotOrder": 2,
+          "Votes": 13357,
+          "Percentage": "58.10%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 20,
+          "Percentage": "0.09%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Attorney General",
+      "PrecinctsReporting": 14,
+      "PrecinctsParticipating": 14,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark R. Herring",
+          "BallotOrder": 1,
+          "Votes": 9700,
+          "Percentage": "42.21%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John D. Adams",
+          "BallotOrder": 2,
+          "Votes": 13246,
+          "Percentage": "57.64%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 35,
+          "Percentage": "0.15%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (091)",
+      "PrecinctsReporting": 5,
+      "PrecinctsParticipating": 5,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Michael B. Wade",
+          "BallotOrder": 1,
+          "Votes": 2889,
+          "Percentage": "40.31%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Gordon C. Helsel, Jr.",
+          "BallotOrder": 2,
+          "Votes": 4264,
+          "Percentage": "59.49%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 14,
+          "Percentage": "0.20%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (093)",
+      "PrecinctsReporting": 4,
+      "PrecinctsParticipating": 4,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Michael P. Mullin",
+          "BallotOrder": 1,
+          "Votes": 1362,
+          "Percentage": "41.21%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Heather L. Cordasco",
+          "BallotOrder": 2,
+          "Votes": 1936,
+          "Percentage": "58.58%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 7,
+          "Percentage": "0.21%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (096)",
+      "PrecinctsReporting": 9,
+      "PrecinctsParticipating": 9,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Kelly A. DeLucia",
+          "BallotOrder": 1,
+          "Votes": 5026,
+          "Percentage": "40.60%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Brenda L. Pogge",
+          "BallotOrder": 2,
+          "Votes": 7330,
+          "Percentage": "59.21%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 23,
+          "Percentage": "0.19%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (DISTRICT 2)",
+      "PrecinctsReporting": 3,
+      "PrecinctsParticipating": 3,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Michael D. Anderson",
+          "BallotOrder": 1,
+          "Votes": 1861,
+          "Percentage": "63.49%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Nathan C. Kaw-uh",
+          "BallotOrder": 2,
+          "Votes": 1049,
+          "Percentage": "35.79%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 21,
+          "Percentage": "0.72%",
+          "PoliticalParty": ""
+        }
+      ]
+    }
+  ]
+}

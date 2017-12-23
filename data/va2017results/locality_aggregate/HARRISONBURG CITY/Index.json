@@ -1,0 +1,178 @@
+{
+  "ElectionName": "2017 November General",
+  "ElectionDate": "2017-11-07T00:00:00",
+  "CreateDate": "2017-11-13T19:06:13.2808256-05:00",
+  "Locality": {
+    "LocalityName": "HARRISONBURG CITY",
+    "LocalityCode": "660"
+  },
+  "Races": [
+    {
+      "RaceName": "Governor",
+      "PrecinctsReporting": 9,
+      "PrecinctsParticipating": 9,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ralph S. Northam",
+          "BallotOrder": 1,
+          "Votes": 6555,
+          "Percentage": "63.57%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward W. \"Ed\" Gillespie",
+          "BallotOrder": 2,
+          "Votes": 3596,
+          "Percentage": "34.87%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Clifford D. Hyra",
+          "BallotOrder": 3,
+          "Votes": 154,
+          "Percentage": "1.49%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 7,
+          "Percentage": "0.07%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Lieutenant Governor",
+      "PrecinctsReporting": 9,
+      "PrecinctsParticipating": 9,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Justin E. Fairfax",
+          "BallotOrder": 1,
+          "Votes": 6431,
+          "Percentage": "62.93%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jill H. Vogel",
+          "BallotOrder": 2,
+          "Votes": 3772,
+          "Percentage": "36.91%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 17,
+          "Percentage": "0.17%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Attorney General",
+      "PrecinctsReporting": 9,
+      "PrecinctsParticipating": 9,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark R. Herring",
+          "BallotOrder": 1,
+          "Votes": 6430,
+          "Percentage": "62.95%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John D. Adams",
+          "BallotOrder": 2,
+          "Votes": 3769,
+          "Percentage": "36.90%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 15,
+          "Percentage": "0.15%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (026)",
+      "PrecinctsReporting": 9,
+      "PrecinctsParticipating": 9,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Brent M. Finnegan",
+          "BallotOrder": 1,
+          "Votes": 6475,
+          "Percentage": "63.53%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Tony O. Wilt",
+          "BallotOrder": 2,
+          "Votes": 3700,
+          "Percentage": "36.30%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 17,
+          "Percentage": "0.17%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Commissioner of Revenue (HARRISONBURG CITY)",
+      "PrecinctsReporting": 9,
+      "PrecinctsParticipating": 9,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Karen I. Rose",
+          "BallotOrder": 1,
+          "Votes": 7902,
+          "Percentage": "97.68%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 188,
+          "Percentage": "2.32%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Treasurer (HARRISONBURG CITY)",
+      "PrecinctsReporting": 9,
+      "PrecinctsParticipating": 9,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Jeffrey L. Shafer",
+          "BallotOrder": 1,
+          "Votes": 7854,
+          "Percentage": "97.52%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 200,
+          "Percentage": "2.48%",
+          "PoliticalParty": ""
+        }
+      ]
+    }
+  ]
+}

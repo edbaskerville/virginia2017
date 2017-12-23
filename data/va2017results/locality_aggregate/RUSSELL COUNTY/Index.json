@@ -1,0 +1,178 @@
+{
+  "ElectionName": "2017 November General",
+  "ElectionDate": "2017-11-07T00:00:00",
+  "CreateDate": "2017-11-13T19:06:14.6209596-05:00",
+  "Locality": {
+    "LocalityName": "RUSSELL COUNTY",
+    "LocalityCode": "167"
+  },
+  "Races": [
+    {
+      "RaceName": "Governor",
+      "PrecinctsReporting": 16,
+      "PrecinctsParticipating": 16,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ralph S. Northam",
+          "BallotOrder": 1,
+          "Votes": 1506,
+          "Percentage": "22.44%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward W. \"Ed\" Gillespie",
+          "BallotOrder": 2,
+          "Votes": 5144,
+          "Percentage": "76.65%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Clifford D. Hyra",
+          "BallotOrder": 3,
+          "Votes": 60,
+          "Percentage": "0.89%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 1,
+          "Percentage": "0.01%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Lieutenant Governor",
+      "PrecinctsReporting": 16,
+      "PrecinctsParticipating": 16,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Justin E. Fairfax",
+          "BallotOrder": 1,
+          "Votes": 1543,
+          "Percentage": "23.26%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jill H. Vogel",
+          "BallotOrder": 2,
+          "Votes": 5084,
+          "Percentage": "76.64%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 7,
+          "Percentage": "0.11%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Attorney General",
+      "PrecinctsReporting": 16,
+      "PrecinctsParticipating": 16,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark R. Herring",
+          "BallotOrder": 1,
+          "Votes": 1483,
+          "Percentage": "22.30%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John D. Adams",
+          "BallotOrder": 2,
+          "Votes": 5160,
+          "Percentage": "77.59%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 7,
+          "Percentage": "0.11%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (003)",
+      "PrecinctsReporting": 4,
+      "PrecinctsParticipating": 4,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "W. C. \"Bill\" Bunch, Jr.",
+          "BallotOrder": 1,
+          "Votes": 229,
+          "Percentage": "24.00%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "James W. \"Will\" Morefield",
+          "BallotOrder": 2,
+          "Votes": 723,
+          "Percentage": "75.79%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 2,
+          "Percentage": "0.21%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (004)",
+      "PrecinctsReporting": 14,
+      "PrecinctsParticipating": 14,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Todd E. Pillion",
+          "BallotOrder": 1,
+          "Votes": 4427,
+          "Percentage": "97.34%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 121,
+          "Percentage": "2.66%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Town Council - Cleveland - Special (CLEVELAND)",
+      "PrecinctsReporting": 2,
+      "PrecinctsParticipating": 2,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Bobby L. Campbell, Jr.",
+          "BallotOrder": 1,
+          "Votes": 20,
+          "Percentage": "95.24%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 1,
+          "Percentage": "4.76%",
+          "PoliticalParty": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,331 @@
+{
+  "ElectionName": "2017 November General",
+  "ElectionDate": "2017-11-07T00:00:00",
+  "CreateDate": "2017-11-13T19:06:12.1027078-05:00",
+  "Locality": {
+    "LocalityName": "BEDFORD COUNTY",
+    "LocalityCode": "019"
+  },
+  "Races": [
+    {
+      "RaceName": "Governor",
+      "PrecinctsReporting": 32,
+      "PrecinctsParticipating": 32,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ralph S. Northam",
+          "BallotOrder": 1,
+          "Votes": 6985,
+          "Percentage": "25.12%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward W. \"Ed\" Gillespie",
+          "BallotOrder": 2,
+          "Votes": 20573,
+          "Percentage": "73.98%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Clifford D. Hyra",
+          "BallotOrder": 3,
+          "Votes": 243,
+          "Percentage": "0.87%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 6,
+          "Percentage": "0.02%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Lieutenant Governor",
+      "PrecinctsReporting": 32,
+      "PrecinctsParticipating": 32,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Justin E. Fairfax",
+          "BallotOrder": 1,
+          "Votes": 6348,
+          "Percentage": "22.97%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jill H. Vogel",
+          "BallotOrder": 2,
+          "Votes": 21276,
+          "Percentage": "76.98%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 15,
+          "Percentage": "0.05%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Attorney General",
+      "PrecinctsReporting": 32,
+      "PrecinctsParticipating": 32,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark R. Herring",
+          "BallotOrder": 1,
+          "Votes": 6804,
+          "Percentage": "24.63%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John D. Adams",
+          "BallotOrder": 2,
+          "Votes": 20800,
+          "Percentage": "75.28%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 26,
+          "Percentage": "0.09%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (019)",
+      "PrecinctsReporting": 12,
+      "PrecinctsParticipating": 12,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Terry L. Austin",
+          "BallotOrder": 1,
+          "Votes": 7211,
+          "Percentage": "96.31%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 276,
+          "Percentage": "3.69%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (022)",
+      "PrecinctsReporting": 13,
+      "PrecinctsParticipating": 13,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Kathy J. Byron",
+          "BallotOrder": 1,
+          "Votes": 9542,
+          "Percentage": "97.32%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 263,
+          "Percentage": "2.68%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (023)",
+      "PrecinctsReporting": 12,
+      "PrecinctsParticipating": 12,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Natalie A. Short",
+          "BallotOrder": 1,
+          "Votes": 1729,
+          "Percentage": "23.61%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "T. Scott Garrett",
+          "BallotOrder": 2,
+          "Votes": 5583,
+          "Percentage": "76.25%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 10,
+          "Percentage": "0.14%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (DISTRICT 2)",
+      "PrecinctsReporting": 6,
+      "PrecinctsParticipating": 6,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Fred D. Sylvester",
+          "BallotOrder": 1,
+          "Votes": 600,
+          "Percentage": "16.55%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Brian J. O'Connor",
+          "BallotOrder": 2,
+          "Votes": 974,
+          "Percentage": "26.87%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Edgar R. Tuck",
+          "BallotOrder": 3,
+          "Votes": 2040,
+          "Percentage": "56.28%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 11,
+          "Percentage": "0.30%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (DISTRICT 3)",
+      "PrecinctsReporting": 6,
+      "PrecinctsParticipating": 6,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Charla Faye Bansley",
+          "BallotOrder": 1,
+          "Votes": 3363,
+          "Percentage": "96.78%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 112,
+          "Percentage": "3.22%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (DISTRICT 4)",
+      "PrecinctsReporting": 5,
+      "PrecinctsParticipating": 5,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "John R. Sharp",
+          "BallotOrder": 1,
+          "Votes": 3838,
+          "Percentage": "96.36%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 145,
+          "Percentage": "3.64%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (DISTRICT 2)",
+      "PrecinctsReporting": 6,
+      "PrecinctsParticipating": 6,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Jason W. Johnson",
+          "BallotOrder": 1,
+          "Votes": 3016,
+          "Percentage": "98.34%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 51,
+          "Percentage": "1.66%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (DISTRICT 3)",
+      "PrecinctsReporting": 6,
+      "PrecinctsParticipating": 6,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "John H. Hicks, Jr.",
+          "BallotOrder": 1,
+          "Votes": 3177,
+          "Percentage": "98.21%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 58,
+          "Percentage": "1.79%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (DISTRICT 4)",
+      "PrecinctsReporting": 5,
+      "PrecinctsParticipating": 5,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Marcus S. Hill",
+          "BallotOrder": 1,
+          "Votes": 2698,
+          "Percentage": "59.68%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Isaiah J. \"Izzy\" Knight",
+          "BallotOrder": 2,
+          "Votes": 1803,
+          "Percentage": "39.88%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 20,
+          "Percentage": "0.44%",
+          "PoliticalParty": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,375 @@
+{
+  "ElectionName": "2017 November General",
+  "ElectionDate": "2017-11-07T00:00:00",
+  "CreateDate": "2017-11-13T19:06:12.4537429-05:00",
+  "Locality": {
+    "LocalityName": "CHESAPEAKE CITY",
+    "LocalityCode": "550"
+  },
+  "Races": [
+    {
+      "RaceName": "Governor",
+      "PrecinctsReporting": 64,
+      "PrecinctsParticipating": 64,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ralph S. Northam",
+          "BallotOrder": 1,
+          "Votes": 38459,
+          "Percentage": "53.09%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward W. \"Ed\" Gillespie",
+          "BallotOrder": 2,
+          "Votes": 33108,
+          "Percentage": "45.70%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Clifford D. Hyra",
+          "BallotOrder": 3,
+          "Votes": 849,
+          "Percentage": "1.17%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 28,
+          "Percentage": "0.04%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Lieutenant Governor",
+      "PrecinctsReporting": 64,
+      "PrecinctsParticipating": 64,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Justin E. Fairfax",
+          "BallotOrder": 1,
+          "Votes": 37034,
+          "Percentage": "51.31%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jill H. Vogel",
+          "BallotOrder": 2,
+          "Votes": 35086,
+          "Percentage": "48.61%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 54,
+          "Percentage": "0.07%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Attorney General",
+      "PrecinctsReporting": 64,
+      "PrecinctsParticipating": 64,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark R. Herring",
+          "BallotOrder": 1,
+          "Votes": 37506,
+          "Percentage": "52.06%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John D. Adams",
+          "BallotOrder": 2,
+          "Votes": 34486,
+          "Percentage": "47.86%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 58,
+          "Percentage": "0.08%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (021)",
+      "PrecinctsReporting": 2,
+      "PrecinctsParticipating": 2,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Kelly K. Convirs-Fowler",
+          "BallotOrder": 1,
+          "Votes": 1120,
+          "Percentage": "46.34%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Ron A. Villanueva",
+          "BallotOrder": 2,
+          "Votes": 1293,
+          "Percentage": "53.50%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 4,
+          "Percentage": "0.17%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (076)",
+      "PrecinctsReporting": 11,
+      "PrecinctsParticipating": 11,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "S. Chris Jones",
+          "BallotOrder": 1,
+          "Votes": 9164,
+          "Percentage": "92.88%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 703,
+          "Percentage": "7.12%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (077)",
+      "PrecinctsReporting": 19,
+      "PrecinctsParticipating": 19,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "C. E. \"Cliff\" Hayes, Jr.",
+          "BallotOrder": 1,
+          "Votes": 13075,
+          "Percentage": "80.84%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jeff B. Staples",
+          "BallotOrder": 2,
+          "Votes": 2999,
+          "Percentage": "18.54%",
+          "PoliticalParty": "Green"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 99,
+          "Percentage": "0.61%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (078)",
+      "PrecinctsReporting": 24,
+      "PrecinctsParticipating": 24,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "J. A. \"Jay\" Leftwich, Jr.",
+          "BallotOrder": 1,
+          "Votes": 20768,
+          "Percentage": "94.74%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 1152,
+          "Percentage": "5.26%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (080)",
+      "PrecinctsReporting": 3,
+      "PrecinctsParticipating": 3,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Matthew James",
+          "BallotOrder": 1,
+          "Votes": 1530,
+          "Percentage": "95.45%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 73,
+          "Percentage": "4.55%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (081)",
+      "PrecinctsReporting": 11,
+      "PrecinctsParticipating": 11,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Kimberly Anne Tucker",
+          "BallotOrder": 1,
+          "Votes": 4412,
+          "Percentage": "41.93%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Barry D. Knight",
+          "BallotOrder": 2,
+          "Votes": 6092,
+          "Percentage": "57.89%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 19,
+          "Percentage": "0.18%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Clerk of Court (CHESAPEAKE CITY)",
+      "PrecinctsReporting": 64,
+      "PrecinctsParticipating": 64,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Kevin E. O'Brien",
+          "BallotOrder": 1,
+          "Votes": 29132,
+          "Percentage": "42.80%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Alan P. Krasnoff",
+          "BallotOrder": 2,
+          "Votes": 38547,
+          "Percentage": "56.63%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 387,
+          "Percentage": "0.57%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Commonwealth's Attorney (CHESAPEAKE CITY)",
+      "PrecinctsReporting": 64,
+      "PrecinctsParticipating": 64,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Nancy G. Parr",
+          "BallotOrder": 1,
+          "Votes": 58641,
+          "Percentage": "97.82%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 1304,
+          "Percentage": "2.18%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Sheriff (CHESAPEAKE CITY)",
+      "PrecinctsReporting": 64,
+      "PrecinctsParticipating": 64,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Jim J. O'Sullivan",
+          "BallotOrder": 1,
+          "Votes": 60666,
+          "Percentage": "97.94%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 1278,
+          "Percentage": "2.06%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Commissioner of Revenue (CHESAPEAKE CITY)",
+      "PrecinctsReporting": 64,
+      "PrecinctsParticipating": 64,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Francis X. \"Frank\" King",
+          "BallotOrder": 1,
+          "Votes": 57809,
+          "Percentage": "97.93%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 1224,
+          "Percentage": "2.07%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Treasurer (CHESAPEAKE CITY)",
+      "PrecinctsReporting": 64,
+      "PrecinctsParticipating": 64,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Barbara O. Carraway",
+          "BallotOrder": 1,
+          "Votes": 60806,
+          "Percentage": "97.92%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 1291,
+          "Percentage": "2.08%",
+          "PoliticalParty": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "ElectionName": "2017 November General",
+  "ElectionDate": "2017-11-07T00:00:00",
+  "CreateDate": "2017-11-13T19:06:13.7058681-05:00",
+  "Locality": {
+    "LocalityName": "MADISON COUNTY",
+    "LocalityCode": "113"
+  },
+  "Races": [
+    {
+      "RaceName": "Governor",
+      "PrecinctsReporting": 10,
+      "PrecinctsParticipating": 10,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ralph S. Northam",
+          "BallotOrder": 1,
+          "Votes": 1789,
+          "Percentage": "36.28%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward W. \"Ed\" Gillespie",
+          "BallotOrder": 2,
+          "Votes": 3082,
+          "Percentage": "62.50%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Clifford D. Hyra",
+          "BallotOrder": 3,
+          "Votes": 59,
+          "Percentage": "1.20%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 1,
+          "Percentage": "0.02%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Lieutenant Governor",
+      "PrecinctsReporting": 10,
+      "PrecinctsParticipating": 10,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Justin E. Fairfax",
+          "BallotOrder": 1,
+          "Votes": 1739,
+          "Percentage": "35.56%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jill H. Vogel",
+          "BallotOrder": 2,
+          "Votes": 3147,
+          "Percentage": "64.36%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 4,
+          "Percentage": "0.08%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Attorney General",
+      "PrecinctsReporting": 10,
+      "PrecinctsParticipating": 10,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark R. Herring",
+          "BallotOrder": 1,
+          "Votes": 1756,
+          "Percentage": "35.93%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John D. Adams",
+          "BallotOrder": 2,
+          "Votes": 3126,
+          "Percentage": "63.97%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 5,
+          "Percentage": "0.10%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (030)",
+      "PrecinctsReporting": 10,
+      "PrecinctsParticipating": 10,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Samuel Ben Hixon",
+          "BallotOrder": 1,
+          "Votes": 1741,
+          "Percentage": "35.66%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Nick J. Freitas",
+          "BallotOrder": 2,
+          "Votes": 3135,
+          "Percentage": "64.22%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 6,
+          "Percentage": "0.12%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors At Large (MADISON COUNTY DISTRICT)",
+      "PrecinctsReporting": 10,
+      "PrecinctsParticipating": 10,
+      "NumberOfSeats": 3,
+      "Candidates": [
+        {
+          "BallotName": "Amber D. Foster",
+          "BallotOrder": 1,
+          "Votes": 2337,
+          "Percentage": "22.29%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "R. Clay Jackson",
+          "BallotOrder": 2,
+          "Votes": 2695,
+          "Percentage": "25.71%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Kevin K. McGhee",
+          "BallotOrder": 3,
+          "Votes": 2423,
+          "Percentage": "23.11%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Mike Mosko, Jr.",
+          "BallotOrder": 4,
+          "Votes": 1040,
+          "Percentage": "9.92%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Kimberly A. Pumphrey",
+          "BallotOrder": 5,
+          "Votes": 1943,
+          "Percentage": "18.53%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 46,
+          "Percentage": "0.44%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (MADISON COUNTY DISTRICT)",
+      "PrecinctsReporting": 10,
+      "PrecinctsParticipating": 10,
+      "NumberOfSeats": 3,
+      "Candidates": [
+        {
+          "BallotName": "Susan G. Bramley",
+          "BallotOrder": 1,
+          "Votes": 1777,
+          "Percentage": "17.81%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Nita D. Collier",
+          "BallotOrder": 2,
+          "Votes": 2067,
+          "Percentage": "20.71%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Arthur L. Greene, Jr.",
+          "BallotOrder": 3,
+          "Votes": 2399,
+          "Percentage": "24.04%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Barry Penn Hollar",
+          "BallotOrder": 4,
+          "Votes": 2040,
+          "Percentage": "20.44%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Joseph E. \"Joe\" Parker, Jr.",
+          "BallotOrder": 5,
+          "Votes": 1660,
+          "Percentage": "16.63%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 36,
+          "Percentage": "0.36%",
+          "PoliticalParty": ""
+        }
+      ]
+    }
+  ]
+}

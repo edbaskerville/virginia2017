@@ -1,0 +1,236 @@
+{
+  "ElectionName": "2017 November General",
+  "ElectionDate": "2017-11-07T00:00:00",
+  "CreateDate": "2017-11-13T19:06:15.0139989-05:00",
+  "Locality": {
+    "LocalityName": "TAZEWELL COUNTY",
+    "LocalityCode": "185"
+  },
+  "Races": [
+    {
+      "RaceName": "Governor",
+      "PrecinctsReporting": 25,
+      "PrecinctsParticipating": 25,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ralph S. Northam",
+          "BallotOrder": 1,
+          "Votes": 1657,
+          "Percentage": "16.42%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward W. \"Ed\" Gillespie",
+          "BallotOrder": 2,
+          "Votes": 8373,
+          "Percentage": "82.96%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Clifford D. Hyra",
+          "BallotOrder": 3,
+          "Votes": 57,
+          "Percentage": "0.56%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 6,
+          "Percentage": "0.06%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Lieutenant Governor",
+      "PrecinctsReporting": 25,
+      "PrecinctsParticipating": 25,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Justin E. Fairfax",
+          "BallotOrder": 1,
+          "Votes": 1837,
+          "Percentage": "18.41%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jill H. Vogel",
+          "BallotOrder": 2,
+          "Votes": 8130,
+          "Percentage": "81.50%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 9,
+          "Percentage": "0.09%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Attorney General",
+      "PrecinctsReporting": 25,
+      "PrecinctsParticipating": 25,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark R. Herring",
+          "BallotOrder": 1,
+          "Votes": 1890,
+          "Percentage": "18.91%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John D. Adams",
+          "BallotOrder": 2,
+          "Votes": 8087,
+          "Percentage": "80.93%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 16,
+          "Percentage": "0.16%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (003)",
+      "PrecinctsReporting": 25,
+      "PrecinctsParticipating": 25,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "W. C. \"Bill\" Bunch, Jr.",
+          "BallotOrder": 1,
+          "Votes": 1987,
+          "Percentage": "19.94%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "James W. \"Will\" Morefield",
+          "BallotOrder": 2,
+          "Votes": 7947,
+          "Percentage": "79.77%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 29,
+          "Percentage": "0.29%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (SOUTHERN DISTRICT)",
+      "PrecinctsReporting": 6,
+      "PrecinctsParticipating": 6,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "D. M. \"Mike\" Hymes",
+          "BallotOrder": 1,
+          "Votes": 1459,
+          "Percentage": "60.94%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Matthew W. \"Matt\" Wynn",
+          "BallotOrder": 2,
+          "Votes": 924,
+          "Percentage": "38.60%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 11,
+          "Percentage": "0.46%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (WESTERN DISTRICT)",
+      "PrecinctsReporting": 5,
+      "PrecinctsParticipating": 5,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "N. Regina Sayers",
+          "BallotOrder": 1,
+          "Votes": 787,
+          "Percentage": "36.67%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Tom A. Lester, Jr.",
+          "BallotOrder": 2,
+          "Votes": 1357,
+          "Percentage": "63.23%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 2,
+          "Percentage": "0.09%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (SOUTHERN DISTRICT)",
+      "PrecinctsReporting": 6,
+      "PrecinctsParticipating": 6,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "B. Irene Mullins",
+          "BallotOrder": 1,
+          "Votes": 2020,
+          "Percentage": "96.14%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 81,
+          "Percentage": "3.86%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (WESTERN DISTRICT)",
+      "PrecinctsReporting": 5,
+      "PrecinctsParticipating": 5,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "N. Chris Moir",
+          "BallotOrder": 1,
+          "Votes": 1587,
+          "Percentage": "96.77%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 53,
+          "Percentage": "3.23%",
+          "PoliticalParty": ""
+        }
+      ]
+    }
+  ]
+}

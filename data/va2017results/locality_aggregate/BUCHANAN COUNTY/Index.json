@@ -1,0 +1,192 @@
+{
+  "ElectionName": "2017 November General",
+  "ElectionDate": "2017-11-07T00:00:00",
+  "CreateDate": "2017-11-13T19:06:12.2277203-05:00",
+  "Locality": {
+    "LocalityName": "BUCHANAN COUNTY",
+    "LocalityCode": "027"
+  },
+  "Races": [
+    {
+      "RaceName": "Governor",
+      "PrecinctsReporting": 18,
+      "PrecinctsParticipating": 18,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ralph S. Northam",
+          "BallotOrder": 1,
+          "Votes": 1062,
+          "Percentage": "23.38%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward W. \"Ed\" Gillespie",
+          "BallotOrder": 2,
+          "Votes": 3449,
+          "Percentage": "75.94%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Clifford D. Hyra",
+          "BallotOrder": 3,
+          "Votes": 28,
+          "Percentage": "0.62%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 3,
+          "Percentage": "0.07%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Lieutenant Governor",
+      "PrecinctsReporting": 18,
+      "PrecinctsParticipating": 18,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Justin E. Fairfax",
+          "BallotOrder": 1,
+          "Votes": 1183,
+          "Percentage": "26.83%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jill H. Vogel",
+          "BallotOrder": 2,
+          "Votes": 3220,
+          "Percentage": "73.02%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 7,
+          "Percentage": "0.16%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Attorney General",
+      "PrecinctsReporting": 18,
+      "PrecinctsParticipating": 18,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark R. Herring",
+          "BallotOrder": 1,
+          "Votes": 1106,
+          "Percentage": "25.00%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John D. Adams",
+          "BallotOrder": 2,
+          "Votes": 3314,
+          "Percentage": "74.91%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 4,
+          "Percentage": "0.09%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (003)",
+      "PrecinctsReporting": 18,
+      "PrecinctsParticipating": 18,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "W. C. \"Bill\" Bunch, Jr.",
+          "BallotOrder": 1,
+          "Votes": 1139,
+          "Percentage": "25.74%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "James W. \"Will\" Morefield",
+          "BallotOrder": 2,
+          "Votes": 3279,
+          "Percentage": "74.10%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 7,
+          "Percentage": "0.16%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (GARDEN DISTRICT)",
+      "PrecinctsReporting": 3,
+      "PrecinctsParticipating": 3,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Janice L. Davis",
+          "BallotOrder": 1,
+          "Votes": 160,
+          "Percentage": "20.83%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Jerry D. Honaker",
+          "BallotOrder": 2,
+          "Votes": 431,
+          "Percentage": "56.12%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Easter Rife",
+          "BallotOrder": 3,
+          "Votes": 176,
+          "Percentage": "22.92%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 1,
+          "Percentage": "0.13%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (HURRICANE DISTRICT)",
+      "PrecinctsReporting": 4,
+      "PrecinctsParticipating": 4,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Michael E. Thompson",
+          "BallotOrder": 1,
+          "Votes": 513,
+          "Percentage": "97.34%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 14,
+          "Percentage": "2.66%",
+          "PoliticalParty": ""
+        }
+      ]
+    }
+  ]
+}

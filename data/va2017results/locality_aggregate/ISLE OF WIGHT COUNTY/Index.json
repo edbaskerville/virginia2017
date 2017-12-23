@@ -1,0 +1,251 @@
+{
+  "ElectionName": "2017 November General",
+  "ElectionDate": "2017-11-07T00:00:00",
+  "CreateDate": "2017-11-13T19:06:13.404838-05:00",
+  "Locality": {
+    "LocalityName": "ISLE OF WIGHT COUNTY",
+    "LocalityCode": "093"
+  },
+  "Races": [
+    {
+      "RaceName": "Governor",
+      "PrecinctsReporting": 15,
+      "PrecinctsParticipating": 15,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ralph S. Northam",
+          "BallotOrder": 1,
+          "Votes": 5957,
+          "Percentage": "42.18%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward W. \"Ed\" Gillespie",
+          "BallotOrder": 2,
+          "Votes": 8039,
+          "Percentage": "56.92%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Clifford D. Hyra",
+          "BallotOrder": 3,
+          "Votes": 124,
+          "Percentage": "0.88%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 3,
+          "Percentage": "0.02%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Lieutenant Governor",
+      "PrecinctsReporting": 15,
+      "PrecinctsParticipating": 15,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Justin E. Fairfax",
+          "BallotOrder": 1,
+          "Votes": 5648,
+          "Percentage": "40.18%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jill H. Vogel",
+          "BallotOrder": 2,
+          "Votes": 8404,
+          "Percentage": "59.78%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 6,
+          "Percentage": "0.04%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Attorney General",
+      "PrecinctsReporting": 15,
+      "PrecinctsParticipating": 15,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark R. Herring",
+          "BallotOrder": 1,
+          "Votes": 5758,
+          "Percentage": "40.95%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John D. Adams",
+          "BallotOrder": 2,
+          "Votes": 8289,
+          "Percentage": "58.95%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 14,
+          "Percentage": "0.10%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (064)",
+      "PrecinctsReporting": 15,
+      "PrecinctsParticipating": 15,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Rebecca S. Colaw",
+          "BallotOrder": 1,
+          "Votes": 5351,
+          "Percentage": "38.95%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Emily M. Brewer",
+          "BallotOrder": 2,
+          "Votes": 8373,
+          "Percentage": "60.95%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 13,
+          "Percentage": "0.09%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (075)",
+      "PrecinctsReporting": 3,
+      "PrecinctsParticipating": 3,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Roslyn C. Tyler",
+          "BallotOrder": 1,
+          "Votes": 212,
+          "Percentage": "94.22%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 13,
+          "Percentage": "5.78%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (CARRSVILLE DISTRICT)",
+      "PrecinctsReporting": 6,
+      "PrecinctsParticipating": 6,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Don G. Rosie II",
+          "BallotOrder": 1,
+          "Votes": 1790,
+          "Percentage": "97.34%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 49,
+          "Percentage": "2.66%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (HARDY DISTRICT)",
+      "PrecinctsReporting": 3,
+      "PrecinctsParticipating": 3,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Rudolph Jefferson",
+          "BallotOrder": 1,
+          "Votes": 1667,
+          "Percentage": "66.34%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Herbert W. DeGroft",
+          "BallotOrder": 2,
+          "Votes": 835,
+          "Percentage": "33.23%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 11,
+          "Percentage": "0.44%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (CARRSVILLE DISTRICT)",
+      "PrecinctsReporting": 6,
+      "PrecinctsParticipating": 6,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Jacqueline W. Carr",
+          "BallotOrder": 1,
+          "Votes": 1914,
+          "Percentage": "98.76%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 24,
+          "Percentage": "1.24%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (HARDY DISTRICT)",
+      "PrecinctsReporting": 3,
+      "PrecinctsParticipating": 3,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Alvin W. Wilson",
+          "BallotOrder": 1,
+          "Votes": 2271,
+          "Percentage": "98.10%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 44,
+          "Percentage": "1.90%",
+          "PoliticalParty": ""
+        }
+      ]
+    }
+  ]
+}

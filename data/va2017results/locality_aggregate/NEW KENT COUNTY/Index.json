@@ -1,0 +1,134 @@
+{
+  "ElectionName": "2017 November General",
+  "ElectionDate": "2017-11-07T00:00:00",
+  "CreateDate": "2017-11-13T19:06:13.9318907-05:00",
+  "Locality": {
+    "LocalityName": "NEW KENT COUNTY",
+    "LocalityCode": "127"
+  },
+  "Races": [
+    {
+      "RaceName": "Governor",
+      "PrecinctsReporting": 11,
+      "PrecinctsParticipating": 11,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ralph S. Northam",
+          "BallotOrder": 1,
+          "Votes": 2729,
+          "Percentage": "31.91%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward W. \"Ed\" Gillespie",
+          "BallotOrder": 2,
+          "Votes": 5711,
+          "Percentage": "66.79%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Clifford D. Hyra",
+          "BallotOrder": 3,
+          "Votes": 108,
+          "Percentage": "1.26%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 3,
+          "Percentage": "0.04%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Lieutenant Governor",
+      "PrecinctsReporting": 11,
+      "PrecinctsParticipating": 11,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Justin E. Fairfax",
+          "BallotOrder": 1,
+          "Votes": 2624,
+          "Percentage": "30.77%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jill H. Vogel",
+          "BallotOrder": 2,
+          "Votes": 5902,
+          "Percentage": "69.21%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 2,
+          "Percentage": "0.02%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Attorney General",
+      "PrecinctsReporting": 11,
+      "PrecinctsParticipating": 11,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark R. Herring",
+          "BallotOrder": 1,
+          "Votes": 2637,
+          "Percentage": "30.97%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John D. Adams",
+          "BallotOrder": 2,
+          "Votes": 5868,
+          "Percentage": "68.91%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 11,
+          "Percentage": "0.13%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (097)",
+      "PrecinctsReporting": 11,
+      "PrecinctsParticipating": 11,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Cori E. Johnson",
+          "BallotOrder": 1,
+          "Votes": 2463,
+          "Percentage": "29.02%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Christopher K. Peace",
+          "BallotOrder": 2,
+          "Votes": 6015,
+          "Percentage": "70.86%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 10,
+          "Percentage": "0.12%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    }
+  ]
+}

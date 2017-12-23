@@ -1,0 +1,324 @@
+{
+  "ElectionName": "2017 November General",
+  "ElectionDate": "2017-11-07T00:00:00",
+  "CreateDate": "2017-11-13T19:06:14.3059281-05:00",
+  "Locality": {
+    "LocalityName": "PRINCE EDWARD COUNTY",
+    "LocalityCode": "147"
+  },
+  "Races": [
+    {
+      "RaceName": "Governor",
+      "PrecinctsReporting": 11,
+      "PrecinctsParticipating": 11,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ralph S. Northam",
+          "BallotOrder": 1,
+          "Votes": 2881,
+          "Percentage": "50.96%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward W. \"Ed\" Gillespie",
+          "BallotOrder": 2,
+          "Votes": 2708,
+          "Percentage": "47.90%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Clifford D. Hyra",
+          "BallotOrder": 3,
+          "Votes": 63,
+          "Percentage": "1.11%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 2,
+          "Percentage": "0.04%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Lieutenant Governor",
+      "PrecinctsReporting": 11,
+      "PrecinctsParticipating": 11,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Justin E. Fairfax",
+          "BallotOrder": 1,
+          "Votes": 2809,
+          "Percentage": "50.10%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jill H. Vogel",
+          "BallotOrder": 2,
+          "Votes": 2789,
+          "Percentage": "49.74%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 9,
+          "Percentage": "0.16%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Attorney General",
+      "PrecinctsReporting": 11,
+      "PrecinctsParticipating": 11,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark R. Herring",
+          "BallotOrder": 1,
+          "Votes": 2831,
+          "Percentage": "50.47%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John D. Adams",
+          "BallotOrder": 2,
+          "Votes": 2767,
+          "Percentage": "49.33%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 11,
+          "Percentage": "0.20%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (060)",
+      "PrecinctsReporting": 11,
+      "PrecinctsParticipating": 11,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Jamaal M. Johnston",
+          "BallotOrder": 1,
+          "Votes": 2693,
+          "Percentage": "48.62%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "James E. Edmunds II",
+          "BallotOrder": 2,
+          "Votes": 2840,
+          "Percentage": "51.27%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 6,
+          "Percentage": "0.11%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (DISTRICT 3)",
+      "PrecinctsReporting": 3,
+      "PrecinctsParticipating": 3,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Jerry R. Townsend",
+          "BallotOrder": 1,
+          "Votes": 724,
+          "Percentage": "97.84%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 16,
+          "Percentage": "2.16%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (DISTRICT 5)",
+      "PrecinctsReporting": 3,
+      "PrecinctsParticipating": 3,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "C. R. \"Bob\" Timmons, Jr.",
+          "BallotOrder": 1,
+          "Votes": 526,
+          "Percentage": "96.87%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 17,
+          "Percentage": "3.13%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (DISTRICT 6)",
+      "PrecinctsReporting": 2,
+      "PrecinctsParticipating": 2,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Calvin L. Gray",
+          "BallotOrder": 1,
+          "Votes": 439,
+          "Percentage": "49.66%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "J. David Emert",
+          "BallotOrder": 2,
+          "Votes": 444,
+          "Percentage": "50.23%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 1,
+          "Percentage": "0.11%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (DISTRICT 7)",
+      "PrecinctsReporting": 2,
+      "PrecinctsParticipating": 2,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Jim R. Wilck",
+          "BallotOrder": 1,
+          "Votes": 562,
+          "Percentage": "96.73%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 19,
+          "Percentage": "3.27%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (DISTRICT 3)",
+      "PrecinctsReporting": 3,
+      "PrecinctsParticipating": 3,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Timothy Wiley Corbett, Sr.",
+          "BallotOrder": 1,
+          "Votes": 631,
+          "Percentage": "98.29%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 11,
+          "Percentage": "1.71%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (DISTRICT 5)",
+      "PrecinctsReporting": 3,
+      "PrecinctsParticipating": 3,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Lucy B. Carson",
+          "BallotOrder": 1,
+          "Votes": 524,
+          "Percentage": "97.94%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 11,
+          "Percentage": "2.06%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (DISTRICT 6)",
+      "PrecinctsReporting": 2,
+      "PrecinctsParticipating": 2,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Dione Scott Jennings",
+          "BallotOrder": 1,
+          "Votes": 327,
+          "Percentage": "39.88%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Elzora Glenice Stiff",
+          "BallotOrder": 2,
+          "Votes": 478,
+          "Percentage": "58.29%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 15,
+          "Percentage": "1.83%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (DISTRICT 7)",
+      "PrecinctsReporting": 2,
+      "PrecinctsParticipating": 2,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Cainan D. Townsend",
+          "BallotOrder": 1,
+          "Votes": 578,
+          "Percentage": "98.63%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 8,
+          "Percentage": "1.37%",
+          "PoliticalParty": ""
+        }
+      ]
+    }
+  ]
+}

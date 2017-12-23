@@ -1,0 +1,229 @@
+{
+  "ElectionName": "2017 November General",
+  "ElectionDate": "2017-11-07T00:00:00",
+  "CreateDate": "2017-11-13T19:06:13.4788454-05:00",
+  "Locality": {
+    "LocalityName": "KING GEORGE COUNTY",
+    "LocalityCode": "099"
+  },
+  "Races": [
+    {
+      "RaceName": "Governor",
+      "PrecinctsReporting": 6,
+      "PrecinctsParticipating": 6,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ralph S. Northam",
+          "BallotOrder": 1,
+          "Votes": 2658,
+          "Percentage": "37.18%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward W. \"Ed\" Gillespie",
+          "BallotOrder": 2,
+          "Votes": 4396,
+          "Percentage": "61.49%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Clifford D. Hyra",
+          "BallotOrder": 3,
+          "Votes": 90,
+          "Percentage": "1.26%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 5,
+          "Percentage": "0.07%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Lieutenant Governor",
+      "PrecinctsReporting": 6,
+      "PrecinctsParticipating": 6,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Justin E. Fairfax",
+          "BallotOrder": 1,
+          "Votes": 2577,
+          "Percentage": "36.19%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jill H. Vogel",
+          "BallotOrder": 2,
+          "Votes": 4537,
+          "Percentage": "63.71%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 7,
+          "Percentage": "0.10%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Attorney General",
+      "PrecinctsReporting": 6,
+      "PrecinctsParticipating": 6,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark R. Herring",
+          "BallotOrder": 1,
+          "Votes": 2611,
+          "Percentage": "36.69%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John D. Adams",
+          "BallotOrder": 2,
+          "Votes": 4499,
+          "Percentage": "63.21%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 7,
+          "Percentage": "0.10%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (099)",
+      "PrecinctsReporting": 6,
+      "PrecinctsParticipating": 6,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Francis Nicholas Edwards",
+          "BallotOrder": 1,
+          "Votes": 2531,
+          "Percentage": "35.62%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Margaret Bevans Ransone",
+          "BallotOrder": 2,
+          "Votes": 4566,
+          "Percentage": "64.26%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 8,
+          "Percentage": "0.11%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (JAMES MONROE DISTRICT)",
+      "PrecinctsReporting": 2,
+      "PrecinctsParticipating": 2,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Jeffrey L. \"Jeff\"  Bueche",
+          "BallotOrder": 1,
+          "Votes": 1509,
+          "Percentage": "96.67%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 52,
+          "Percentage": "3.33%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (SHILOH DISTRICT)",
+      "PrecinctsReporting": 2,
+      "PrecinctsParticipating": 2,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Steven M. \"Steve\" Wido",
+          "BallotOrder": 1,
+          "Votes": 775,
+          "Percentage": "47.37%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Cathy E. Binder",
+          "BallotOrder": 2,
+          "Votes": 818,
+          "Percentage": "50.00%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 43,
+          "Percentage": "2.63%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (JAMES MONROE DISTRICT)",
+      "PrecinctsReporting": 2,
+      "PrecinctsParticipating": 2,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Terence P. \"T.C.\" Collins",
+          "BallotOrder": 1,
+          "Votes": 1504,
+          "Percentage": "95.86%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 65,
+          "Percentage": "4.14%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (SHILOH DISTRICT)",
+      "PrecinctsReporting": 2,
+      "PrecinctsParticipating": 2,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Gina M. Panciera",
+          "BallotOrder": 1,
+          "Votes": 1138,
+          "Percentage": "73.37%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 413,
+          "Percentage": "26.63%",
+          "PoliticalParty": ""
+        }
+      ]
+    }
+  ]
+}

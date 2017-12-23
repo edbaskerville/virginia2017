@@ -1,0 +1,127 @@
+{
+  "ElectionName": "2017 November General",
+  "ElectionDate": "2017-11-07T00:00:00",
+  "CreateDate": "2017-11-13T19:06:12.6327608-05:00",
+  "Locality": {
+    "LocalityName": "CUMBERLAND COUNTY",
+    "LocalityCode": "049"
+  },
+  "Races": [
+    {
+      "RaceName": "Governor",
+      "PrecinctsReporting": 6,
+      "PrecinctsParticipating": 6,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ralph S. Northam",
+          "BallotOrder": 1,
+          "Votes": 1292,
+          "Percentage": "41.21%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward W. \"Ed\" Gillespie",
+          "BallotOrder": 2,
+          "Votes": 1810,
+          "Percentage": "57.74%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Clifford D. Hyra",
+          "BallotOrder": 3,
+          "Votes": 33,
+          "Percentage": "1.05%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 0,
+          "Percentage": "0.00%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Lieutenant Governor",
+      "PrecinctsReporting": 6,
+      "PrecinctsParticipating": 6,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Justin E. Fairfax",
+          "BallotOrder": 1,
+          "Votes": 1279,
+          "Percentage": "40.99%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jill H. Vogel",
+          "BallotOrder": 2,
+          "Votes": 1839,
+          "Percentage": "58.94%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 2,
+          "Percentage": "0.06%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Attorney General",
+      "PrecinctsReporting": 6,
+      "PrecinctsParticipating": 6,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark R. Herring",
+          "BallotOrder": 1,
+          "Votes": 1258,
+          "Percentage": "40.36%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John D. Adams",
+          "BallotOrder": 2,
+          "Votes": 1856,
+          "Percentage": "59.54%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 3,
+          "Percentage": "0.10%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (061)",
+      "PrecinctsReporting": 6,
+      "PrecinctsParticipating": 6,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Thomas C. Wright, Jr.",
+          "BallotOrder": 1,
+          "Votes": 2191,
+          "Percentage": "93.99%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 140,
+          "Percentage": "6.01%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    }
+  ]
+}

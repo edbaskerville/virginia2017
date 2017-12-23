@@ -1,0 +1,301 @@
+{
+  "ElectionName": "2017 November General",
+  "ElectionDate": "2017-11-07T00:00:00",
+  "CreateDate": "2017-11-13T19:06:15.235021-05:00",
+  "Locality": {
+    "LocalityName": "WYTHE COUNTY",
+    "LocalityCode": "197"
+  },
+  "Races": [
+    {
+      "RaceName": "Governor",
+      "PrecinctsReporting": 12,
+      "PrecinctsParticipating": 12,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ralph S. Northam",
+          "BallotOrder": 1,
+          "Votes": 2114,
+          "Percentage": "24.84%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward W. \"Ed\" Gillespie",
+          "BallotOrder": 2,
+          "Votes": 6321,
+          "Percentage": "74.27%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Clifford D. Hyra",
+          "BallotOrder": 3,
+          "Votes": 71,
+          "Percentage": "0.83%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 5,
+          "Percentage": "0.06%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Lieutenant Governor",
+      "PrecinctsReporting": 12,
+      "PrecinctsParticipating": 12,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Justin E. Fairfax",
+          "BallotOrder": 1,
+          "Votes": 1974,
+          "Percentage": "23.40%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jill H. Vogel",
+          "BallotOrder": 2,
+          "Votes": 6449,
+          "Percentage": "76.45%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 13,
+          "Percentage": "0.15%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Attorney General",
+      "PrecinctsReporting": 12,
+      "PrecinctsParticipating": 12,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark R. Herring",
+          "BallotOrder": 1,
+          "Votes": 2146,
+          "Percentage": "25.44%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John D. Adams",
+          "BallotOrder": 2,
+          "Votes": 6280,
+          "Percentage": "74.43%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 11,
+          "Percentage": "0.13%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (006)",
+      "PrecinctsReporting": 12,
+      "PrecinctsParticipating": 12,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Jeffrey L. Campbell",
+          "BallotOrder": 1,
+          "Votes": 6507,
+          "Percentage": "80.03%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Kenneth D. Browning",
+          "BallotOrder": 2,
+          "Votes": 1562,
+          "Percentage": "19.21%",
+          "PoliticalParty": "Independent"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 62,
+          "Percentage": "0.76%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (DISTRICT 1)",
+      "PrecinctsReporting": 3,
+      "PrecinctsParticipating": 3,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Michael P. Reardon",
+          "BallotOrder": 1,
+          "Votes": 194,
+          "Percentage": "13.27%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Brian W. \"Cheese\" Vaught",
+          "BallotOrder": 2,
+          "Votes": 767,
+          "Percentage": "52.46%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Timothy W. Carter",
+          "BallotOrder": 3,
+          "Votes": 500,
+          "Percentage": "34.20%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 1,
+          "Percentage": "0.07%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (DISTRICT 3)",
+      "PrecinctsReporting": 2,
+      "PrecinctsParticipating": 2,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "George L. Bailey",
+          "BallotOrder": 1,
+          "Votes": 546,
+          "Percentage": "36.28%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "John P \"Big John\" Manuel",
+          "BallotOrder": 2,
+          "Votes": 200,
+          "Percentage": "13.29%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Ryan Michelle Lawson",
+          "BallotOrder": 3,
+          "Votes": 756,
+          "Percentage": "50.23%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 3,
+          "Percentage": "0.20%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (DISTRICT 5)",
+      "PrecinctsReporting": 3,
+      "PrecinctsParticipating": 3,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Coy Layne McRoberts",
+          "BallotOrder": 1,
+          "Votes": 931,
+          "Percentage": "96.98%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 29,
+          "Percentage": "3.02%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (DISTRICT 1)",
+      "PrecinctsReporting": 3,
+      "PrecinctsParticipating": 3,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Stephen R. Sage",
+          "BallotOrder": 1,
+          "Votes": 1209,
+          "Percentage": "96.26%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 47,
+          "Percentage": "3.74%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (DISTRICT 3)",
+      "PrecinctsReporting": 2,
+      "PrecinctsParticipating": 2,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Peggy A. Wagy",
+          "BallotOrder": 1,
+          "Votes": 888,
+          "Percentage": "60.12%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Kerry A. Eans",
+          "BallotOrder": 2,
+          "Votes": 585,
+          "Percentage": "39.61%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 4,
+          "Percentage": "0.27%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (DISTRICT 5)",
+      "PrecinctsReporting": 3,
+      "PrecinctsParticipating": 3,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ann H. Manley",
+          "BallotOrder": 1,
+          "Votes": 989,
+          "Percentage": "98.90%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 11,
+          "Percentage": "1.10%",
+          "PoliticalParty": ""
+        }
+      ]
+    }
+  ]
+}

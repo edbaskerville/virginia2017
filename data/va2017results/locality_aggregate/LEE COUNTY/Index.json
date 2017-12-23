@@ -1,0 +1,156 @@
+{
+  "ElectionName": "2017 November General",
+  "ElectionDate": "2017-11-07T00:00:00",
+  "CreateDate": "2017-11-13T19:06:13.5538529-05:00",
+  "Locality": {
+    "LocalityName": "LEE COUNTY",
+    "LocalityCode": "105"
+  },
+  "Races": [
+    {
+      "RaceName": "Governor",
+      "PrecinctsReporting": 17,
+      "PrecinctsParticipating": 17,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ralph S. Northam",
+          "BallotOrder": 1,
+          "Votes": 1304,
+          "Percentage": "19.53%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward W. \"Ed\" Gillespie",
+          "BallotOrder": 2,
+          "Votes": 5289,
+          "Percentage": "79.20%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Clifford D. Hyra",
+          "BallotOrder": 3,
+          "Votes": 82,
+          "Percentage": "1.23%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 3,
+          "Percentage": "0.04%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Lieutenant Governor",
+      "PrecinctsReporting": 17,
+      "PrecinctsParticipating": 17,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Justin E. Fairfax",
+          "BallotOrder": 1,
+          "Votes": 1430,
+          "Percentage": "21.99%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jill H. Vogel",
+          "BallotOrder": 2,
+          "Votes": 5065,
+          "Percentage": "77.89%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 8,
+          "Percentage": "0.12%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Attorney General",
+      "PrecinctsReporting": 17,
+      "PrecinctsParticipating": 17,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark R. Herring",
+          "BallotOrder": 1,
+          "Votes": 1336,
+          "Percentage": "20.31%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John D. Adams",
+          "BallotOrder": 2,
+          "Votes": 5235,
+          "Percentage": "79.58%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 7,
+          "Percentage": "0.11%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (001)",
+      "PrecinctsReporting": 17,
+      "PrecinctsParticipating": 17,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Alicia D. Kallen",
+          "BallotOrder": 1,
+          "Votes": 1496,
+          "Percentage": "22.45%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Terry G. Kilgore",
+          "BallotOrder": 2,
+          "Votes": 5157,
+          "Percentage": "77.40%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 10,
+          "Percentage": "0.15%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Lee County Public Schools (LEE COUNTY)",
+      "PrecinctsReporting": 17,
+      "PrecinctsParticipating": 17,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Yes",
+          "BallotOrder": 1,
+          "Votes": 668,
+          "Percentage": "9.99%",
+          "PoliticalParty": null
+        },
+        {
+          "BallotName": "No",
+          "BallotOrder": 2,
+          "Votes": 6022,
+          "Percentage": "90.01%",
+          "PoliticalParty": null
+        }
+      ]
+    }
+  ]
+}

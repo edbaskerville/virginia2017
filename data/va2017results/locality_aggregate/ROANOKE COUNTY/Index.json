@@ -1,0 +1,302 @@
+{
+  "ElectionName": "2017 November General",
+  "ElectionDate": "2017-11-07T00:00:00",
+  "CreateDate": "2017-11-13T19:06:14.5339509-05:00",
+  "Locality": {
+    "LocalityName": "ROANOKE COUNTY",
+    "LocalityCode": "161"
+  },
+  "Races": [
+    {
+      "RaceName": "Governor",
+      "PrecinctsReporting": 33,
+      "PrecinctsParticipating": 33,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ralph S. Northam",
+          "BallotOrder": 1,
+          "Votes": 12650,
+          "Percentage": "37.51%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward W. \"Ed\" Gillespie",
+          "BallotOrder": 2,
+          "Votes": 20648,
+          "Percentage": "61.23%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Clifford D. Hyra",
+          "BallotOrder": 3,
+          "Votes": 408,
+          "Percentage": "1.21%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 16,
+          "Percentage": "0.05%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Lieutenant Governor",
+      "PrecinctsReporting": 33,
+      "PrecinctsParticipating": 33,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Justin E. Fairfax",
+          "BallotOrder": 1,
+          "Votes": 11574,
+          "Percentage": "34.50%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jill H. Vogel",
+          "BallotOrder": 2,
+          "Votes": 21946,
+          "Percentage": "65.42%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 28,
+          "Percentage": "0.08%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Attorney General",
+      "PrecinctsReporting": 33,
+      "PrecinctsParticipating": 33,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark R. Herring",
+          "BallotOrder": 1,
+          "Votes": 12182,
+          "Percentage": "36.78%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John D. Adams",
+          "BallotOrder": 2,
+          "Votes": 20904,
+          "Percentage": "63.12%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 32,
+          "Percentage": "0.10%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (008)",
+      "PrecinctsReporting": 14,
+      "PrecinctsParticipating": 14,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Steve G. McBride ",
+          "BallotOrder": 1,
+          "Votes": 4638,
+          "Percentage": "34.38%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Gregory D. Habeeb",
+          "BallotOrder": 2,
+          "Votes": 8836,
+          "Percentage": "65.49%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 18,
+          "Percentage": "0.13%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (017)",
+      "PrecinctsReporting": 20,
+      "PrecinctsParticipating": 20,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Djuna L. Osborne",
+          "BallotOrder": 1,
+          "Votes": 7582,
+          "Percentage": "38.05%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Christopher T. Head",
+          "BallotOrder": 2,
+          "Votes": 12313,
+          "Percentage": "61.80%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 29,
+          "Percentage": "0.15%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (HOLLINS DISTRICT)",
+      "PrecinctsReporting": 7,
+      "PrecinctsParticipating": 7,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Phil C. North",
+          "BallotOrder": 1,
+          "Votes": 5372,
+          "Percentage": "97.85%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 118,
+          "Percentage": "2.15%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (VINTON DISTRICT)",
+      "PrecinctsReporting": 6,
+      "PrecinctsParticipating": 6,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ben J. Shepherd",
+          "BallotOrder": 1,
+          "Votes": 1495,
+          "Percentage": "30.01%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "P. Jason Peters",
+          "BallotOrder": 2,
+          "Votes": 3456,
+          "Percentage": "69.37%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 31,
+          "Percentage": "0.62%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (WINDSOR HILLS DISTRICT)",
+      "PrecinctsReporting": 7,
+      "PrecinctsParticipating": 7,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Joseph P. McNamara",
+          "BallotOrder": 1,
+          "Votes": 6216,
+          "Percentage": "97.57%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 155,
+          "Percentage": "2.43%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (HOLLINS DISTRICT)",
+      "PrecinctsReporting": 7,
+      "PrecinctsParticipating": 7,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "David M. Linden",
+          "BallotOrder": 1,
+          "Votes": 5136,
+          "Percentage": "98.35%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 86,
+          "Percentage": "1.65%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (VINTON DISTRICT)",
+      "PrecinctsReporting": 6,
+      "PrecinctsParticipating": 6,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Timothy D. \"Tim\" Greenway",
+          "BallotOrder": 1,
+          "Votes": 4513,
+          "Percentage": "97.90%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 97,
+          "Percentage": "2.10%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (WINDSOR HILLS DISTRICT)",
+      "PrecinctsReporting": 7,
+      "PrecinctsParticipating": 7,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Jason B. Moretz",
+          "BallotOrder": 1,
+          "Votes": 5868,
+          "Percentage": "98.11%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 113,
+          "Percentage": "1.89%",
+          "PoliticalParty": ""
+        }
+      ]
+    }
+  ]
+}

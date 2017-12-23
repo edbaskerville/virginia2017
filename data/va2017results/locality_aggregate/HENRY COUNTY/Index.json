@@ -1,0 +1,353 @@
+{
+  "ElectionName": "2017 November General",
+  "ElectionDate": "2017-11-07T00:00:00",
+  "CreateDate": "2017-11-13T19:06:13.3318307-05:00",
+  "Locality": {
+    "LocalityName": "HENRY COUNTY",
+    "LocalityCode": "089"
+  },
+  "Races": [
+    {
+      "RaceName": "Governor",
+      "PrecinctsReporting": 25,
+      "PrecinctsParticipating": 25,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ralph S. Northam",
+          "BallotOrder": 1,
+          "Votes": 4895,
+          "Percentage": "34.82%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward W. \"Ed\" Gillespie",
+          "BallotOrder": 2,
+          "Votes": 9046,
+          "Percentage": "64.35%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Clifford D. Hyra",
+          "BallotOrder": 3,
+          "Votes": 113,
+          "Percentage": "0.80%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 3,
+          "Percentage": "0.02%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Lieutenant Governor",
+      "PrecinctsReporting": 25,
+      "PrecinctsParticipating": 25,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Justin E. Fairfax",
+          "BallotOrder": 1,
+          "Votes": 4706,
+          "Percentage": "33.70%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jill H. Vogel",
+          "BallotOrder": 2,
+          "Votes": 9244,
+          "Percentage": "66.19%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 15,
+          "Percentage": "0.11%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Attorney General",
+      "PrecinctsReporting": 25,
+      "PrecinctsParticipating": 25,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark R. Herring",
+          "BallotOrder": 1,
+          "Votes": 4870,
+          "Percentage": "34.92%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John D. Adams",
+          "BallotOrder": 2,
+          "Votes": 9073,
+          "Percentage": "65.05%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 5,
+          "Percentage": "0.04%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (009)",
+      "PrecinctsReporting": 7,
+      "PrecinctsParticipating": 7,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Stephanie C. Cook ",
+          "BallotOrder": 1,
+          "Votes": 1098,
+          "Percentage": "31.30%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Charles D. Poindexter",
+          "BallotOrder": 2,
+          "Votes": 2408,
+          "Percentage": "68.64%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 2,
+          "Percentage": "0.06%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (014)",
+      "PrecinctsReporting": 8,
+      "PrecinctsParticipating": 8,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "D. W. \"Danny\" Marshall III",
+          "BallotOrder": 1,
+          "Votes": 3223,
+          "Percentage": "97.02%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 99,
+          "Percentage": "2.98%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (016)",
+      "PrecinctsReporting": 13,
+      "PrecinctsParticipating": 13,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Les R. Adams",
+          "BallotOrder": 1,
+          "Votes": 4435,
+          "Percentage": "96.75%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 149,
+          "Percentage": "3.25%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (BLACKBERRY DISTRICT)",
+      "PrecinctsReporting": 4,
+      "PrecinctsParticipating": 4,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Jimmie L. \"Jim\" Adams",
+          "BallotOrder": 1,
+          "Votes": 1551,
+          "Percentage": "98.85%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 18,
+          "Percentage": "1.15%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (COLLINSVILLE DISTRICT)",
+      "PrecinctsReporting": 5,
+      "PrecinctsParticipating": 5,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Joseph A. \"Joe\" Bryant ",
+          "BallotOrder": 1,
+          "Votes": 1408,
+          "Percentage": "64.29%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Brad S. Kinkema",
+          "BallotOrder": 2,
+          "Votes": 774,
+          "Percentage": "35.34%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 8,
+          "Percentage": "0.37%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (IRISWOOD DISTRICT)",
+      "PrecinctsReporting": 5,
+      "PrecinctsParticipating": 5,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "J. David Martin",
+          "BallotOrder": 1,
+          "Votes": 1601,
+          "Percentage": "59.69%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Naomi L. Hodge-Muse",
+          "BallotOrder": 2,
+          "Votes": 1074,
+          "Percentage": "40.04%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 7,
+          "Percentage": "0.26%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (BLACKBERRY DISTRICT)",
+      "PrecinctsReporting": 4,
+      "PrecinctsParticipating": 4,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Thomas E. \"Tom\" Auker",
+          "BallotOrder": 1,
+          "Votes": 1409,
+          "Percentage": "98.88%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 16,
+          "Percentage": "1.12%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (COLLINSVILLE DISTRICT)",
+      "PrecinctsReporting": 5,
+      "PrecinctsParticipating": 5,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Merris A. Stambaugh",
+          "BallotOrder": 1,
+          "Votes": 1810,
+          "Percentage": "98.37%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 30,
+          "Percentage": "1.63%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (IRISWOOD DISTRICT)",
+      "PrecinctsReporting": 5,
+      "PrecinctsParticipating": 5,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Benjamin E. \"Ben\" Gravely",
+          "BallotOrder": 1,
+          "Votes": 2084,
+          "Percentage": "79.45%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Makunda Abdul-Mbacke",
+          "BallotOrder": 2,
+          "Votes": 536,
+          "Percentage": "20.43%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 3,
+          "Percentage": "0.11%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (REED CREEK DISTRICT)",
+      "PrecinctsReporting": 6,
+      "PrecinctsParticipating": 6,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Teddy Doyle Martin II",
+          "BallotOrder": 1,
+          "Votes": 1695,
+          "Percentage": "97.75%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 39,
+          "Percentage": "2.25%",
+          "PoliticalParty": ""
+        }
+      ]
+    }
+  ]
+}

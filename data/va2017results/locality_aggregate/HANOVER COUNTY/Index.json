@@ -1,0 +1,163 @@
+{
+  "ElectionName": "2017 November General",
+  "ElectionDate": "2017-11-07T00:00:00",
+  "CreateDate": "2017-11-13T19:06:13.2578233-05:00",
+  "Locality": {
+    "LocalityName": "HANOVER COUNTY",
+    "LocalityCode": "085"
+  },
+  "Races": [
+    {
+      "RaceName": "Governor",
+      "PrecinctsReporting": 37,
+      "PrecinctsParticipating": 37,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ralph S. Northam",
+          "BallotOrder": 1,
+          "Votes": 14755,
+          "Percentage": "34.20%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward W. \"Ed\" Gillespie",
+          "BallotOrder": 2,
+          "Votes": 27779,
+          "Percentage": "64.38%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Clifford D. Hyra",
+          "BallotOrder": 3,
+          "Votes": 599,
+          "Percentage": "1.39%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 16,
+          "Percentage": "0.04%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Lieutenant Governor",
+      "PrecinctsReporting": 37,
+      "PrecinctsParticipating": 37,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Justin E. Fairfax",
+          "BallotOrder": 1,
+          "Votes": 14236,
+          "Percentage": "33.10%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jill H. Vogel",
+          "BallotOrder": 2,
+          "Votes": 28726,
+          "Percentage": "66.78%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 53,
+          "Percentage": "0.12%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Attorney General",
+      "PrecinctsReporting": 37,
+      "PrecinctsParticipating": 37,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark R. Herring",
+          "BallotOrder": 1,
+          "Votes": 14365,
+          "Percentage": "33.40%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John D. Adams",
+          "BallotOrder": 2,
+          "Votes": 28590,
+          "Percentage": "66.48%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 53,
+          "Percentage": "0.12%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (055)",
+      "PrecinctsReporting": 20,
+      "PrecinctsParticipating": 20,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Morgan K. Goodman",
+          "BallotOrder": 1,
+          "Votes": 8225,
+          "Percentage": "37.57%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "H. F. \"Buddy\" Fowler, Jr.",
+          "BallotOrder": 2,
+          "Votes": 13618,
+          "Percentage": "62.20%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 50,
+          "Percentage": "0.23%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (097)",
+      "PrecinctsReporting": 18,
+      "PrecinctsParticipating": 18,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Cori E. Johnson",
+          "BallotOrder": 1,
+          "Votes": 5532,
+          "Percentage": "26.42%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Christopher K. Peace",
+          "BallotOrder": 2,
+          "Votes": 15359,
+          "Percentage": "73.37%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 44,
+          "Percentage": "0.21%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    }
+  ]
+}

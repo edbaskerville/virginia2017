@@ -1,0 +1,214 @@
+{
+  "ElectionName": "2017 November General",
+  "ElectionDate": "2017-11-07T00:00:00",
+  "CreateDate": "2017-11-13T19:06:13.7298705-05:00",
+  "Locality": {
+    "LocalityName": "MANASSAS CITY",
+    "LocalityCode": "683"
+  },
+  "Races": [
+    {
+      "RaceName": "Governor",
+      "PrecinctsReporting": 7,
+      "PrecinctsParticipating": 7,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ralph S. Northam",
+          "BallotOrder": 1,
+          "Votes": 5295,
+          "Percentage": "56.86%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward W. \"Ed\" Gillespie",
+          "BallotOrder": 2,
+          "Votes": 3899,
+          "Percentage": "41.87%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Clifford D. Hyra",
+          "BallotOrder": 3,
+          "Votes": 112,
+          "Percentage": "1.20%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 6,
+          "Percentage": "0.06%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Lieutenant Governor",
+      "PrecinctsReporting": 7,
+      "PrecinctsParticipating": 7,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Justin E. Fairfax",
+          "BallotOrder": 1,
+          "Votes": 5211,
+          "Percentage": "56.36%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jill H. Vogel",
+          "BallotOrder": 2,
+          "Votes": 4025,
+          "Percentage": "43.53%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 10,
+          "Percentage": "0.11%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Attorney General",
+      "PrecinctsReporting": 7,
+      "PrecinctsParticipating": 7,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark R. Herring",
+          "BallotOrder": 1,
+          "Votes": 5255,
+          "Percentage": "56.75%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John D. Adams",
+          "BallotOrder": 2,
+          "Votes": 3999,
+          "Percentage": "43.19%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 6,
+          "Percentage": "0.06%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (050)",
+      "PrecinctsReporting": 7,
+      "PrecinctsParticipating": 7,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Lee J. Carter",
+          "BallotOrder": 1,
+          "Votes": 4855,
+          "Percentage": "52.47%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jackson Hunter Miller",
+          "BallotOrder": 2,
+          "Votes": 4380,
+          "Percentage": "47.34%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 18,
+          "Percentage": "0.19%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Commissioner of Revenue (MANASSAS CITY)",
+      "PrecinctsReporting": 7,
+      "PrecinctsParticipating": 7,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Alonita L. Vannoy",
+          "BallotOrder": 1,
+          "Votes": 4226,
+          "Percentage": "47.78%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Douglas S. Waldron",
+          "BallotOrder": 2,
+          "Votes": 4580,
+          "Percentage": "51.78%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 39,
+          "Percentage": "0.44%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Treasurer (MANASSAS CITY)",
+      "PrecinctsReporting": 7,
+      "PrecinctsParticipating": 7,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Patricia E. Richie-Folks",
+          "BallotOrder": 1,
+          "Votes": 4875,
+          "Percentage": "55.02%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Russell T. Harrison",
+          "BallotOrder": 2,
+          "Votes": 3955,
+          "Percentage": "44.64%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 30,
+          "Percentage": "0.34%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board - Special (MANASSAS CITY)",
+      "PrecinctsReporting": 7,
+      "PrecinctsParticipating": 7,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Peter B. O'Hanlon",
+          "BallotOrder": 1,
+          "Votes": 7165,
+          "Percentage": "96.71%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 244,
+          "Percentage": "3.29%",
+          "PoliticalParty": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "ElectionName": "2017 November General",
+  "ElectionDate": "2017-11-07T00:00:00",
+  "CreateDate": "2017-11-13T19:06:13.8538829-05:00",
+  "Locality": {
+    "LocalityName": "MIDDLESEX COUNTY",
+    "LocalityCode": "119"
+  },
+  "Races": [
+    {
+      "RaceName": "Governor",
+      "PrecinctsReporting": 7,
+      "PrecinctsParticipating": 7,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ralph S. Northam",
+          "BallotOrder": 1,
+          "Votes": 1606,
+          "Percentage": "37.18%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward W. \"Ed\" Gillespie",
+          "BallotOrder": 2,
+          "Votes": 2673,
+          "Percentage": "61.88%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Clifford D. Hyra",
+          "BallotOrder": 3,
+          "Votes": 41,
+          "Percentage": "0.95%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 0,
+          "Percentage": "0.00%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Lieutenant Governor",
+      "PrecinctsReporting": 7,
+      "PrecinctsParticipating": 7,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Justin E. Fairfax",
+          "BallotOrder": 1,
+          "Votes": 1534,
+          "Percentage": "35.81%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jill H. Vogel",
+          "BallotOrder": 2,
+          "Votes": 2748,
+          "Percentage": "64.15%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 2,
+          "Percentage": "0.05%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Attorney General",
+      "PrecinctsReporting": 7,
+      "PrecinctsParticipating": 7,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark R. Herring",
+          "BallotOrder": 1,
+          "Votes": 1567,
+          "Percentage": "36.48%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John D. Adams",
+          "BallotOrder": 2,
+          "Votes": 2725,
+          "Percentage": "63.43%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 4,
+          "Percentage": "0.09%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (098)",
+      "PrecinctsReporting": 7,
+      "PrecinctsParticipating": 7,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Sheila Crowley",
+          "BallotOrder": 1,
+          "Votes": 1511,
+          "Percentage": "35.13%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "M. Keith Hodges",
+          "BallotOrder": 2,
+          "Votes": 2784,
+          "Percentage": "64.73%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 6,
+          "Percentage": "0.14%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (HARTFIELD)",
+      "PrecinctsReporting": 2,
+      "PrecinctsParticipating": 2,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "John B. Koontz, Jr.",
+          "BallotOrder": 1,
+          "Votes": 478,
+          "Percentage": "51.45%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Robert L. \"Bob\" LeBoeuf",
+          "BallotOrder": 2,
+          "Votes": 447,
+          "Percentage": "48.12%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 4,
+          "Percentage": "0.43%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (SALUDA DISTRICT)",
+      "PrecinctsReporting": 3,
+      "PrecinctsParticipating": 3,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Marcia S. Jones",
+          "BallotOrder": 1,
+          "Votes": 334,
+          "Percentage": "37.61%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Peter W. \"Pete\" Mansfield",
+          "BallotOrder": 2,
+          "Votes": 552,
+          "Percentage": "62.16%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 2,
+          "Percentage": "0.23%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (HARTFIELD)",
+      "PrecinctsReporting": 2,
+      "PrecinctsParticipating": 2,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "James W. Goforth",
+          "BallotOrder": 1,
+          "Votes": 821,
+          "Percentage": "98.09%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 16,
+          "Percentage": "1.91%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (SALUDA DISTRICT)",
+      "PrecinctsReporting": 3,
+      "PrecinctsParticipating": 3,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Richard J. Shores",
+          "BallotOrder": 1,
+          "Votes": 778,
+          "Percentage": "98.98%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 8,
+          "Percentage": "1.02%",
+          "PoliticalParty": ""
+        }
+      ]
+    }
+  ]
+}

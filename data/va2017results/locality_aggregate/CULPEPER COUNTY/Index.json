@@ -1,0 +1,388 @@
+{
+  "ElectionName": "2017 November General",
+  "ElectionDate": "2017-11-07T00:00:00",
+  "CreateDate": "2017-11-13T19:06:12.6067582-05:00",
+  "Locality": {
+    "LocalityName": "CULPEPER COUNTY",
+    "LocalityCode": "047"
+  },
+  "Races": [
+    {
+      "RaceName": "Governor",
+      "PrecinctsReporting": 16,
+      "PrecinctsParticipating": 16,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ralph S. Northam",
+          "BallotOrder": 1,
+          "Votes": 4990,
+          "Percentage": "36.74%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward W. \"Ed\" Gillespie",
+          "BallotOrder": 2,
+          "Votes": 8423,
+          "Percentage": "62.01%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Clifford D. Hyra",
+          "BallotOrder": 3,
+          "Votes": 162,
+          "Percentage": "1.19%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 8,
+          "Percentage": "0.06%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Lieutenant Governor",
+      "PrecinctsReporting": 16,
+      "PrecinctsParticipating": 16,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Justin E. Fairfax",
+          "BallotOrder": 1,
+          "Votes": 4842,
+          "Percentage": "35.82%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jill H. Vogel",
+          "BallotOrder": 2,
+          "Votes": 8660,
+          "Percentage": "64.07%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 15,
+          "Percentage": "0.11%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Attorney General",
+      "PrecinctsReporting": 16,
+      "PrecinctsParticipating": 16,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark R. Herring",
+          "BallotOrder": 1,
+          "Votes": 4938,
+          "Percentage": "36.56%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John D. Adams",
+          "BallotOrder": 2,
+          "Votes": 8553,
+          "Percentage": "63.33%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 15,
+          "Percentage": "0.11%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (018)",
+      "PrecinctsReporting": 6,
+      "PrecinctsParticipating": 6,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Tristan D. Shields",
+          "BallotOrder": 1,
+          "Votes": 1247,
+          "Percentage": "27.79%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Michael J. Webert",
+          "BallotOrder": 2,
+          "Votes": 3092,
+          "Percentage": "68.89%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Wilton King",
+          "BallotOrder": 3,
+          "Votes": 143,
+          "Percentage": "3.19%",
+          "PoliticalParty": "Green"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 6,
+          "Percentage": "0.13%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (030)",
+      "PrecinctsReporting": 13,
+      "PrecinctsParticipating": 13,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Samuel Ben Hixon",
+          "BallotOrder": 1,
+          "Votes": 3472,
+          "Percentage": "38.51%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Nick J. Freitas",
+          "BallotOrder": 2,
+          "Votes": 5540,
+          "Percentage": "61.44%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 5,
+          "Percentage": "0.06%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (CEDAR MOUNTAIN DISTRICT)",
+      "PrecinctsReporting": 4,
+      "PrecinctsParticipating": 4,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "C. Jack Frazier",
+          "BallotOrder": 1,
+          "Votes": 1592,
+          "Percentage": "98.51%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 24,
+          "Percentage": "1.49%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (JEFFERSON DISTRICT)",
+      "PrecinctsReporting": 3,
+      "PrecinctsParticipating": 3,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "C. V. \"Chuck\" Duncan III",
+          "BallotOrder": 1,
+          "Votes": 904,
+          "Percentage": "38.34%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Brad C. Rosenberger",
+          "BallotOrder": 2,
+          "Votes": 1446,
+          "Percentage": "61.32%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 8,
+          "Percentage": "0.34%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (STEVENSBURG DISTRICT)",
+      "PrecinctsReporting": 4,
+      "PrecinctsParticipating": 4,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "William C. \"Bill\" Chase, Jr.",
+          "BallotOrder": 1,
+          "Votes": 1672,
+          "Percentage": "96.59%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 59,
+          "Percentage": "3.41%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (CEDAR MOUNTAIN DISTRICT)",
+      "PrecinctsReporting": 4,
+      "PrecinctsParticipating": 4,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Betsy Howard Smith",
+          "BallotOrder": 1,
+          "Votes": 1580,
+          "Percentage": "98.44%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 25,
+          "Percentage": "1.56%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (JEFFERSON DISTRICT)",
+      "PrecinctsReporting": 3,
+      "PrecinctsParticipating": 3,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Michelle D. North",
+          "BallotOrder": 1,
+          "Votes": 2049,
+          "Percentage": "97.90%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 44,
+          "Percentage": "2.10%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (STEVENSBURG DISTRICT)",
+      "PrecinctsReporting": 4,
+      "PrecinctsParticipating": 4,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Marshall D. Keene",
+          "BallotOrder": 1,
+          "Votes": 1257,
+          "Percentage": "62.94%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Elizabeth S. Hutchins",
+          "BallotOrder": 2,
+          "Votes": 736,
+          "Percentage": "36.86%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 4,
+          "Percentage": "0.20%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Mayor (CULPEPER)",
+      "PrecinctsReporting": 5,
+      "PrecinctsParticipating": 5,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Michael T. Olinger",
+          "BallotOrder": 1,
+          "Votes": 3003,
+          "Percentage": "96.96%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 94,
+          "Percentage": "3.04%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Town Council (CULPEPER)",
+      "PrecinctsReporting": 5,
+      "PrecinctsParticipating": 5,
+      "NumberOfSeats": 4,
+      "Candidates": [
+        {
+          "BallotName": "Keith D. Price",
+          "BallotOrder": 1,
+          "Votes": 1759,
+          "Percentage": "19.82%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Pranas A. Rimeikis",
+          "BallotOrder": 2,
+          "Votes": 1584,
+          "Percentage": "17.85%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "William M. \"Bill\" Yowell",
+          "BallotOrder": 3,
+          "Votes": 2027,
+          "Percentage": "22.84%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Hank G. Milans III",
+          "BallotOrder": 4,
+          "Votes": 1436,
+          "Percentage": "16.18%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Jon D. Russell",
+          "BallotOrder": 5,
+          "Votes": 1964,
+          "Percentage": "22.13%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 103,
+          "Percentage": "1.16%",
+          "PoliticalParty": ""
+        }
+      ]
+    }
+  ]
+}

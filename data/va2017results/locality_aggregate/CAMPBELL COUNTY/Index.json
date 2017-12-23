@@ -1,0 +1,381 @@
+{
+  "ElectionName": "2017 November General",
+  "ElectionDate": "2017-11-07T00:00:00",
+  "CreateDate": "2017-11-13T19:06:12.3017277-05:00",
+  "Locality": {
+    "LocalityName": "CAMPBELL COUNTY",
+    "LocalityCode": "031"
+  },
+  "Races": [
+    {
+      "RaceName": "Governor",
+      "PrecinctsReporting": 17,
+      "PrecinctsParticipating": 17,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ralph S. Northam",
+          "BallotOrder": 1,
+          "Votes": 4415,
+          "Percentage": "25.41%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward W. \"Ed\" Gillespie",
+          "BallotOrder": 2,
+          "Votes": 12791,
+          "Percentage": "73.63%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Clifford D. Hyra",
+          "BallotOrder": 3,
+          "Votes": 156,
+          "Percentage": "0.90%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 10,
+          "Percentage": "0.06%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Lieutenant Governor",
+      "PrecinctsReporting": 17,
+      "PrecinctsParticipating": 17,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Justin E. Fairfax",
+          "BallotOrder": 1,
+          "Votes": 4070,
+          "Percentage": "23.53%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jill H. Vogel",
+          "BallotOrder": 2,
+          "Votes": 13206,
+          "Percentage": "76.34%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 22,
+          "Percentage": "0.13%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Attorney General",
+      "PrecinctsReporting": 17,
+      "PrecinctsParticipating": 17,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark R. Herring",
+          "BallotOrder": 1,
+          "Votes": 4364,
+          "Percentage": "25.29%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John D. Adams",
+          "BallotOrder": 2,
+          "Votes": 12879,
+          "Percentage": "74.63%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 14,
+          "Percentage": "0.08%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (022)",
+      "PrecinctsReporting": 6,
+      "PrecinctsParticipating": 6,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Kathy J. Byron",
+          "BallotOrder": 1,
+          "Votes": 4645,
+          "Percentage": "96.43%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 172,
+          "Percentage": "3.57%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (059)",
+      "PrecinctsReporting": 14,
+      "PrecinctsParticipating": 14,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Tracy L. Carver",
+          "BallotOrder": 1,
+          "Votes": 2241,
+          "Percentage": "22.99%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "C. Matthew Fariss",
+          "BallotOrder": 2,
+          "Votes": 6958,
+          "Percentage": "71.39%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Marcus T. Sutphin",
+          "BallotOrder": 3,
+          "Votes": 120,
+          "Percentage": "1.23%",
+          "PoliticalParty": "Green"
+        },
+        {
+          "BallotName": "David Wade Ball",
+          "BallotOrder": 4,
+          "Votes": 400,
+          "Percentage": "4.10%",
+          "PoliticalParty": "Independent"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 27,
+          "Percentage": "0.28%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (060)",
+      "PrecinctsReporting": 4,
+      "PrecinctsParticipating": 4,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Jamaal M. Johnston",
+          "BallotOrder": 1,
+          "Votes": 544,
+          "Percentage": "29.28%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "James E. Edmunds II",
+          "BallotOrder": 2,
+          "Votes": 1312,
+          "Percentage": "70.61%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 2,
+          "Percentage": "0.11%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Clerk of Court (CAMPBELL COUNTY)",
+      "PrecinctsReporting": 17,
+      "PrecinctsParticipating": 17,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Valerie P. Younger",
+          "BallotOrder": 1,
+          "Votes": 14470,
+          "Percentage": "98.63%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 201,
+          "Percentage": "1.37%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (BROOKNEAL DISTRICT)",
+      "PrecinctsReporting": 4,
+      "PrecinctsParticipating": 4,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Charlie A. Watts II",
+          "BallotOrder": 1,
+          "Votes": 1707,
+          "Percentage": "93.74%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 114,
+          "Percentage": "6.26%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (RUSTBURG DISTRICT)",
+      "PrecinctsReporting": 3,
+      "PrecinctsParticipating": 3,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Eric R. Zehr",
+          "BallotOrder": 1,
+          "Votes": 1308,
+          "Percentage": "48.86%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Jon R. Hardie",
+          "BallotOrder": 2,
+          "Votes": 1363,
+          "Percentage": "50.92%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 6,
+          "Percentage": "0.22%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (TIMBERLAKE DISTRICT)",
+      "PrecinctsReporting": 3,
+      "PrecinctsParticipating": 3,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mike P. Rousseau",
+          "BallotOrder": 1,
+          "Votes": 1266,
+          "Percentage": "42.81%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Susan R. Hogg",
+          "BallotOrder": 2,
+          "Votes": 1680,
+          "Percentage": "56.81%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 11,
+          "Percentage": "0.37%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (BROOKNEAL DISTRICT)",
+      "PrecinctsReporting": 4,
+      "PrecinctsParticipating": 4,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Scott A. Miller",
+          "BallotOrder": 1,
+          "Votes": 1729,
+          "Percentage": "97.52%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 44,
+          "Percentage": "2.48%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (RUSTBURG DISTRICT)",
+      "PrecinctsReporting": 3,
+      "PrecinctsParticipating": 3,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "H. Douglas Barringer",
+          "BallotOrder": 1,
+          "Votes": 1237,
+          "Percentage": "46.56%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "David W. Phillips",
+          "BallotOrder": 2,
+          "Votes": 1416,
+          "Percentage": "53.29%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 4,
+          "Percentage": "0.15%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (TIMBERLAKE DISTRICT)",
+      "PrecinctsReporting": 3,
+      "PrecinctsParticipating": 3,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "John D. Kinchen III",
+          "BallotOrder": 1,
+          "Votes": 1432,
+          "Percentage": "48.64%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Barbara A. Rypkema",
+          "BallotOrder": 2,
+          "Votes": 1505,
+          "Percentage": "51.12%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 7,
+          "Percentage": "0.24%",
+          "PoliticalParty": ""
+        }
+      ]
+    }
+  ]
+}

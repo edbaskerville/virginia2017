@@ -1,0 +1,287 @@
+{
+  "ElectionName": "2017 November General",
+  "ElectionDate": "2017-11-07T00:00:00",
+  "CreateDate": "2017-11-13T19:06:13.084806-05:00",
+  "Locality": {
+    "LocalityName": "GLOUCESTER COUNTY",
+    "LocalityCode": "073"
+  },
+  "Races": [
+    {
+      "RaceName": "Governor",
+      "PrecinctsReporting": 12,
+      "PrecinctsParticipating": 12,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ralph S. Northam",
+          "BallotOrder": 1,
+          "Votes": 4356,
+          "Percentage": "34.41%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward W. \"Ed\" Gillespie",
+          "BallotOrder": 2,
+          "Votes": 8159,
+          "Percentage": "64.45%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Clifford D. Hyra",
+          "BallotOrder": 3,
+          "Votes": 140,
+          "Percentage": "1.11%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 4,
+          "Percentage": "0.03%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Lieutenant Governor",
+      "PrecinctsReporting": 12,
+      "PrecinctsParticipating": 12,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Justin E. Fairfax",
+          "BallotOrder": 1,
+          "Votes": 4103,
+          "Percentage": "32.62%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jill H. Vogel",
+          "BallotOrder": 2,
+          "Votes": 8470,
+          "Percentage": "67.34%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 5,
+          "Percentage": "0.04%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Attorney General",
+      "PrecinctsReporting": 12,
+      "PrecinctsParticipating": 12,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark R. Herring",
+          "BallotOrder": 1,
+          "Votes": 4134,
+          "Percentage": "32.92%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John D. Adams",
+          "BallotOrder": 2,
+          "Votes": 8418,
+          "Percentage": "67.03%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 6,
+          "Percentage": "0.05%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (098)",
+      "PrecinctsReporting": 12,
+      "PrecinctsParticipating": 12,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Sheila Crowley",
+          "BallotOrder": 1,
+          "Votes": 3992,
+          "Percentage": "31.79%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "M. Keith Hodges",
+          "BallotOrder": 2,
+          "Votes": 8558,
+          "Percentage": "68.14%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 9,
+          "Percentage": "0.07%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors - At Large (GLOUCESTER COUNTY)",
+      "PrecinctsReporting": 12,
+      "PrecinctsParticipating": 12,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "John C. Meyer, Jr.",
+          "BallotOrder": 1,
+          "Votes": 5569,
+          "Percentage": "48.94%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Kevin M. Smith",
+          "BallotOrder": 2,
+          "Votes": 5731,
+          "Percentage": "50.36%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 79,
+          "Percentage": "0.69%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (PETSWORTH DISTRICT)",
+      "PrecinctsReporting": 4,
+      "PrecinctsParticipating": 4,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Michael R. Winebarger",
+          "BallotOrder": 1,
+          "Votes": 1795,
+          "Percentage": "97.03%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 55,
+          "Percentage": "2.97%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (YORK DISTRICT)",
+      "PrecinctsReporting": 3,
+      "PrecinctsParticipating": 3,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Phillip N. Bazzani",
+          "BallotOrder": 1,
+          "Votes": 1427,
+          "Percentage": "55.10%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Kevin S. Farmer",
+          "BallotOrder": 2,
+          "Votes": 1158,
+          "Percentage": "44.71%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 5,
+          "Percentage": "0.19%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board At Large (GLOUCESTER COUNTY)",
+      "PrecinctsReporting": 12,
+      "PrecinctsParticipating": 12,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Damien Joseph Homer Kelly",
+          "BallotOrder": 1,
+          "Votes": 4603,
+          "Percentage": "42.31%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Brenda F. Mack",
+          "BallotOrder": 2,
+          "Votes": 6163,
+          "Percentage": "56.65%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 114,
+          "Percentage": "1.05%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (PETSWORTH DISTRICT)",
+      "PrecinctsReporting": 4,
+      "PrecinctsParticipating": 4,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Anita F. Parker",
+          "BallotOrder": 1,
+          "Votes": 1818,
+          "Percentage": "98.22%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 33,
+          "Percentage": "1.78%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (YORK DISTRICT)",
+      "PrecinctsReporting": 3,
+      "PrecinctsParticipating": 3,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Elisa A. Nelson",
+          "BallotOrder": 1,
+          "Votes": 2184,
+          "Percentage": "98.47%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 34,
+          "Percentage": "1.53%",
+          "PoliticalParty": ""
+        }
+      ]
+    }
+  ]
+}

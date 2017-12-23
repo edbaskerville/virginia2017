@@ -1,0 +1,346 @@
+{
+  "ElectionName": "2017 November General",
+  "ElectionDate": "2017-11-07T00:00:00",
+  "CreateDate": "2017-11-13T19:06:13.6298605-05:00",
+  "Locality": {
+    "LocalityName": "LOUISA COUNTY",
+    "LocalityCode": "109"
+  },
+  "Races": [
+    {
+      "RaceName": "Governor",
+      "PrecinctsReporting": 16,
+      "PrecinctsParticipating": 16,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ralph S. Northam",
+          "BallotOrder": 1,
+          "Votes": 4481,
+          "Percentage": "37.96%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward W. \"Ed\" Gillespie",
+          "BallotOrder": 2,
+          "Votes": 7153,
+          "Percentage": "60.60%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Clifford D. Hyra",
+          "BallotOrder": 3,
+          "Votes": 163,
+          "Percentage": "1.38%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 6,
+          "Percentage": "0.05%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Lieutenant Governor",
+      "PrecinctsReporting": 16,
+      "PrecinctsParticipating": 16,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Justin E. Fairfax",
+          "BallotOrder": 1,
+          "Votes": 4336,
+          "Percentage": "37.00%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jill H. Vogel",
+          "BallotOrder": 2,
+          "Votes": 7373,
+          "Percentage": "62.91%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 10,
+          "Percentage": "0.09%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Attorney General",
+      "PrecinctsReporting": 16,
+      "PrecinctsParticipating": 16,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark R. Herring",
+          "BallotOrder": 1,
+          "Votes": 4424,
+          "Percentage": "37.69%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John D. Adams",
+          "BallotOrder": 2,
+          "Votes": 7305,
+          "Percentage": "62.23%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 10,
+          "Percentage": "0.09%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (056)",
+      "PrecinctsReporting": 16,
+      "PrecinctsParticipating": 16,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Melissa M. Dart",
+          "BallotOrder": 1,
+          "Votes": 4502,
+          "Percentage": "38.42%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John J. McGuire III",
+          "BallotOrder": 2,
+          "Votes": 7201,
+          "Percentage": "61.45%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 15,
+          "Percentage": "0.13%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Clerk of Court (LOUISA COUNTY)",
+      "PrecinctsReporting": 16,
+      "PrecinctsParticipating": 16,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Patty Coleman Madison",
+          "BallotOrder": 1,
+          "Votes": 10007,
+          "Percentage": "98.88%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 113,
+          "Percentage": "1.12%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (GREEN SPRINGS DISTRICT)",
+      "PrecinctsReporting": 3,
+      "PrecinctsParticipating": 3,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Robert F. Babyok, Jr.",
+          "BallotOrder": 1,
+          "Votes": 1174,
+          "Percentage": "60.48%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Richard A. Havasy, Sr.",
+          "BallotOrder": 2,
+          "Votes": 753,
+          "Percentage": "38.79%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 14,
+          "Percentage": "0.72%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (MINERAL DISTRICT)",
+      "PrecinctsReporting": 3,
+      "PrecinctsParticipating": 3,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Duane A. Adams",
+          "BallotOrder": 1,
+          "Votes": 939,
+          "Percentage": "55.50%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Stephanie L. Koren",
+          "BallotOrder": 2,
+          "Votes": 751,
+          "Percentage": "44.39%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 2,
+          "Percentage": "0.12%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (MOUNTAIN ROAD DISTRICT)",
+      "PrecinctsReporting": 3,
+      "PrecinctsParticipating": 3,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Tommy J. Barlow",
+          "BallotOrder": 1,
+          "Votes": 1346,
+          "Percentage": "97.89%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 29,
+          "Percentage": "2.11%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (PATRICK HENRY DISTRICT)",
+      "PrecinctsReporting": 3,
+      "PrecinctsParticipating": 3,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Fitzgerald A. Barnes",
+          "BallotOrder": 1,
+          "Votes": 1394,
+          "Percentage": "94.25%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 85,
+          "Percentage": "5.75%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (GREEN SPRINGS DISTRICT)",
+      "PrecinctsReporting": 3,
+      "PrecinctsParticipating": 3,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Debbie A. Hoffman",
+          "BallotOrder": 1,
+          "Votes": 1760,
+          "Percentage": "98.77%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 22,
+          "Percentage": "1.23%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (MINERAL DISTRICT)",
+      "PrecinctsReporting": 3,
+      "PrecinctsParticipating": 3,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Sherman T. Shifflett",
+          "BallotOrder": 1,
+          "Votes": 1441,
+          "Percentage": "98.70%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 19,
+          "Percentage": "1.30%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (MOUNTAIN ROAD DISTRICT)",
+      "PrecinctsReporting": 3,
+      "PrecinctsParticipating": 3,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Gail O. Proffitt",
+          "BallotOrder": 1,
+          "Votes": 1363,
+          "Percentage": "98.70%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 18,
+          "Percentage": "1.30%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (PATRICK HENRY DISTRICT)",
+      "PrecinctsReporting": 3,
+      "PrecinctsParticipating": 3,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Gregory V. Strickland",
+          "BallotOrder": 1,
+          "Votes": 1397,
+          "Percentage": "98.52%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 21,
+          "Percentage": "1.48%",
+          "PoliticalParty": ""
+        }
+      ]
+    }
+  ]
+}

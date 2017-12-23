@@ -1,0 +1,229 @@
+{
+  "ElectionName": "2017 November General",
+  "ElectionDate": "2017-11-07T00:00:00",
+  "CreateDate": "2017-11-13T19:06:13.1338109-05:00",
+  "Locality": {
+    "LocalityName": "GRAYSON COUNTY",
+    "LocalityCode": "077"
+  },
+  "Races": [
+    {
+      "RaceName": "Governor",
+      "PrecinctsReporting": 16,
+      "PrecinctsParticipating": 16,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ralph S. Northam",
+          "BallotOrder": 1,
+          "Votes": 1029,
+          "Percentage": "22.68%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward W. \"Ed\" Gillespie",
+          "BallotOrder": 2,
+          "Votes": 3478,
+          "Percentage": "76.66%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Clifford D. Hyra",
+          "BallotOrder": 3,
+          "Votes": 28,
+          "Percentage": "0.62%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 2,
+          "Percentage": "0.04%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Lieutenant Governor",
+      "PrecinctsReporting": 16,
+      "PrecinctsParticipating": 16,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Justin E. Fairfax",
+          "BallotOrder": 1,
+          "Votes": 993,
+          "Percentage": "22.14%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jill H. Vogel",
+          "BallotOrder": 2,
+          "Votes": 3491,
+          "Percentage": "77.82%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 2,
+          "Percentage": "0.04%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Attorney General",
+      "PrecinctsReporting": 16,
+      "PrecinctsParticipating": 16,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark R. Herring",
+          "BallotOrder": 1,
+          "Votes": 1052,
+          "Percentage": "23.39%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John D. Adams",
+          "BallotOrder": 2,
+          "Votes": 3440,
+          "Percentage": "76.50%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 5,
+          "Percentage": "0.11%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (005)",
+      "PrecinctsReporting": 16,
+      "PrecinctsParticipating": 16,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Israel D. O'Quinn",
+          "BallotOrder": 1,
+          "Votes": 3726,
+          "Percentage": "97.31%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 103,
+          "Percentage": "2.69%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (ELK CREEK DISTRICT)",
+      "PrecinctsReporting": 3,
+      "PrecinctsParticipating": 3,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Brenda R. Sutherland",
+          "BallotOrder": 1,
+          "Votes": 957,
+          "Percentage": "98.25%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 17,
+          "Percentage": "1.75%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (WILSON DISTRICT)",
+      "PrecinctsReporting": 9,
+      "PrecinctsParticipating": 9,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Gesche Metz Morley",
+          "BallotOrder": 1,
+          "Votes": 281,
+          "Percentage": "22.75%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Thomas Rex Revels",
+          "BallotOrder": 2,
+          "Votes": 948,
+          "Percentage": "76.76%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 6,
+          "Percentage": "0.49%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (ELK CREEK DISTRICT)",
+      "PrecinctsReporting": 3,
+      "PrecinctsParticipating": 3,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Fred W. Weatherman",
+          "BallotOrder": 1,
+          "Votes": 912,
+          "Percentage": "96.82%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 30,
+          "Percentage": "3.18%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (WILSON DISTRICT)",
+      "PrecinctsReporting": 9,
+      "PrecinctsParticipating": 9,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Richard A. \"Rick\" Sage",
+          "BallotOrder": 1,
+          "Votes": 714,
+          "Percentage": "59.20%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Elizabeth B. \"Betsy\" Shearin",
+          "BallotOrder": 2,
+          "Votes": 483,
+          "Percentage": "40.05%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 9,
+          "Percentage": "0.75%",
+          "PoliticalParty": ""
+        }
+      ]
+    }
+  ]
+}

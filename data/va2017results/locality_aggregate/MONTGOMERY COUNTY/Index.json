@@ -1,0 +1,482 @@
+{
+  "ElectionName": "2017 November General",
+  "ElectionDate": "2017-11-07T00:00:00",
+  "CreateDate": "2017-11-13T19:06:13.8798855-05:00",
+  "Locality": {
+    "LocalityName": "MONTGOMERY COUNTY",
+    "LocalityCode": "121"
+  },
+  "Races": [
+    {
+      "RaceName": "Governor",
+      "PrecinctsReporting": 25,
+      "PrecinctsParticipating": 25,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ralph S. Northam",
+          "BallotOrder": 1,
+          "Votes": 15115,
+          "Percentage": "53.73%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward W. \"Ed\" Gillespie",
+          "BallotOrder": 2,
+          "Votes": 12500,
+          "Percentage": "44.43%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Clifford D. Hyra",
+          "BallotOrder": 3,
+          "Votes": 499,
+          "Percentage": "1.77%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 19,
+          "Percentage": "0.07%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Lieutenant Governor",
+      "PrecinctsReporting": 25,
+      "PrecinctsParticipating": 25,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Justin E. Fairfax",
+          "BallotOrder": 1,
+          "Votes": 14402,
+          "Percentage": "51.56%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jill H. Vogel",
+          "BallotOrder": 2,
+          "Votes": 13507,
+          "Percentage": "48.36%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 21,
+          "Percentage": "0.08%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Attorney General",
+      "PrecinctsReporting": 25,
+      "PrecinctsParticipating": 25,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark R. Herring",
+          "BallotOrder": 1,
+          "Votes": 14870,
+          "Percentage": "53.21%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John D. Adams",
+          "BallotOrder": 2,
+          "Votes": 13057,
+          "Percentage": "46.72%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 19,
+          "Percentage": "0.07%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (007)",
+      "PrecinctsReporting": 15,
+      "PrecinctsParticipating": 15,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Flourette M. Ketner",
+          "BallotOrder": 1,
+          "Votes": 4452,
+          "Percentage": "39.32%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Larry N. \"Nick\" Rush",
+          "BallotOrder": 2,
+          "Votes": 6854,
+          "Percentage": "60.54%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 16,
+          "Percentage": "0.14%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (008)",
+      "PrecinctsReporting": 7,
+      "PrecinctsParticipating": 7,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Steve G. McBride ",
+          "BallotOrder": 1,
+          "Votes": 2262,
+          "Percentage": "43.01%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Gregory D. Habeeb",
+          "BallotOrder": 2,
+          "Votes": 2988,
+          "Percentage": "56.82%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 9,
+          "Percentage": "0.17%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (012)",
+      "PrecinctsReporting": 18,
+      "PrecinctsParticipating": 18,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Chris L. Hurst",
+          "BallotOrder": 1,
+          "Votes": 7792,
+          "Percentage": "68.75%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Joseph R. Yost",
+          "BallotOrder": 2,
+          "Votes": 3522,
+          "Percentage": "31.07%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 20,
+          "Percentage": "0.18%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (DISTRICT A)",
+      "PrecinctsReporting": 4,
+      "PrecinctsParticipating": 4,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Sara R. Bohn",
+          "BallotOrder": 1,
+          "Votes": 3870,
+          "Percentage": "97.68%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 92,
+          "Percentage": "2.32%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (DISTRICT C)",
+      "PrecinctsReporting": 5,
+      "PrecinctsParticipating": 5,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Steve R. Fijalkowski",
+          "BallotOrder": 1,
+          "Votes": 3028,
+          "Percentage": "96.93%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 96,
+          "Percentage": "3.07%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (DISTRICT D)",
+      "PrecinctsReporting": 6,
+      "PrecinctsParticipating": 6,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Michel T. \"Todd\" King",
+          "BallotOrder": 1,
+          "Votes": 3842,
+          "Percentage": "97.56%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 96,
+          "Percentage": "2.44%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (DISTRICT A)",
+      "PrecinctsReporting": 4,
+      "PrecinctsParticipating": 4,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Gunin A. Kiran",
+          "BallotOrder": 1,
+          "Votes": 3754,
+          "Percentage": "97.68%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 89,
+          "Percentage": "2.32%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (DISTRICT C)",
+      "PrecinctsReporting": 5,
+      "PrecinctsParticipating": 5,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Tim W. Thornton",
+          "BallotOrder": 1,
+          "Votes": 1604,
+          "Percentage": "43.97%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Dana M. Partin",
+          "BallotOrder": 2,
+          "Votes": 2030,
+          "Percentage": "55.65%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 14,
+          "Percentage": "0.38%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (DISTRICT D)",
+      "PrecinctsReporting": 6,
+      "PrecinctsParticipating": 6,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Jamie M. Bond",
+          "BallotOrder": 1,
+          "Votes": 3708,
+          "Percentage": "96.81%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 122,
+          "Percentage": "3.19%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Mayor  (CHRISTIANSBURG)",
+      "PrecinctsReporting": 8,
+      "PrecinctsParticipating": 8,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "D. Michael Barber",
+          "BallotOrder": 1,
+          "Votes": 4412,
+          "Percentage": "64.03%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Roger L. Woolwine",
+          "BallotOrder": 2,
+          "Votes": 2426,
+          "Percentage": "35.21%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 53,
+          "Percentage": "0.77%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Mayor (BLACKSBURG)",
+      "PrecinctsReporting": 10,
+      "PrecinctsParticipating": 10,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Leslie Hager-Smith",
+          "BallotOrder": 1,
+          "Votes": 3692,
+          "Percentage": "38.73%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Edward B. Lawhorn",
+          "BallotOrder": 2,
+          "Votes": 2334,
+          "Percentage": "24.49%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Krisha M. Chachra",
+          "BallotOrder": 3,
+          "Votes": 3431,
+          "Percentage": "35.99%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 75,
+          "Percentage": "0.79%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Town Council (BLACKSBURG)",
+      "PrecinctsReporting": 10,
+      "PrecinctsParticipating": 10,
+      "NumberOfSeats": 3,
+      "Candidates": [
+        {
+          "BallotName": "Lauren M. Colliver",
+          "BallotOrder": 1,
+          "Votes": 5172,
+          "Percentage": "25.52%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Susan G. Anderson",
+          "BallotOrder": 2,
+          "Votes": 5706,
+          "Percentage": "28.15%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Susan M. Mattingly",
+          "BallotOrder": 3,
+          "Votes": 5662,
+          "Percentage": "27.94%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Ken K. Jones",
+          "BallotOrder": 4,
+          "Votes": 3424,
+          "Percentage": "16.89%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 303,
+          "Percentage": "1.50%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Town Council (CHRISTIANSBURG)",
+      "PrecinctsReporting": 8,
+      "PrecinctsParticipating": 8,
+      "NumberOfSeats": 3,
+      "Candidates": [
+        {
+          "BallotName": "Steve H. Huppert",
+          "BallotOrder": 1,
+          "Votes": 4082,
+          "Percentage": "27.46%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Bradford J. \"Brad\" Stipes",
+          "BallotOrder": 2,
+          "Votes": 4018,
+          "Percentage": "27.03%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Jonathon E. Taylor",
+          "BallotOrder": 3,
+          "Votes": 3093,
+          "Percentage": "20.81%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Merissa M. Sachs",
+          "BallotOrder": 4,
+          "Votes": 3519,
+          "Percentage": "23.67%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 152,
+          "Percentage": "1.02%",
+          "PoliticalParty": ""
+        }
+      ]
+    }
+  ]
+}

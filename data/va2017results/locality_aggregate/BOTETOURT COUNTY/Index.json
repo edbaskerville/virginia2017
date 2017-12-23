@@ -1,0 +1,294 @@
+{
+  "ElectionName": "2017 November General",
+  "ElectionDate": "2017-11-07T00:00:00",
+  "CreateDate": "2017-11-13T19:06:12.1527128-05:00",
+  "Locality": {
+    "LocalityName": "BOTETOURT COUNTY",
+    "LocalityCode": "023"
+  },
+  "Races": [
+    {
+      "RaceName": "Governor",
+      "PrecinctsReporting": 11,
+      "PrecinctsParticipating": 11,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ralph S. Northam",
+          "BallotOrder": 1,
+          "Votes": 3409,
+          "Percentage": "27.27%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward W. \"Ed\" Gillespie",
+          "BallotOrder": 2,
+          "Votes": 8965,
+          "Percentage": "71.71%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Clifford D. Hyra",
+          "BallotOrder": 3,
+          "Votes": 122,
+          "Percentage": "0.98%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 5,
+          "Percentage": "0.04%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Lieutenant Governor",
+      "PrecinctsReporting": 11,
+      "PrecinctsParticipating": 11,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Justin E. Fairfax",
+          "BallotOrder": 1,
+          "Votes": 3084,
+          "Percentage": "24.83%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jill H. Vogel",
+          "BallotOrder": 2,
+          "Votes": 9329,
+          "Percentage": "75.10%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 9,
+          "Percentage": "0.07%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Attorney General",
+      "PrecinctsReporting": 11,
+      "PrecinctsParticipating": 11,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark R. Herring",
+          "BallotOrder": 1,
+          "Votes": 3332,
+          "Percentage": "26.78%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John D. Adams",
+          "BallotOrder": 2,
+          "Votes": 9095,
+          "Percentage": "73.11%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 13,
+          "Percentage": "0.10%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (017)",
+      "PrecinctsReporting": 3,
+      "PrecinctsParticipating": 3,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Djuna L. Osborne",
+          "BallotOrder": 1,
+          "Votes": 480,
+          "Percentage": "29.27%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Christopher T. Head",
+          "BallotOrder": 2,
+          "Votes": 1155,
+          "Percentage": "70.43%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 5,
+          "Percentage": "0.30%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (019)",
+      "PrecinctsReporting": 11,
+      "PrecinctsParticipating": 11,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Terry L. Austin",
+          "BallotOrder": 1,
+          "Votes": 9105,
+          "Percentage": "96.22%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 358,
+          "Percentage": "3.78%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (AMSTERDAM DISTRICT)",
+      "PrecinctsReporting": 3,
+      "PrecinctsParticipating": 3,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Todd L. Dodson",
+          "BallotOrder": 1,
+          "Votes": 1358,
+          "Percentage": "48.60%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Steve P. Clinton",
+          "BallotOrder": 2,
+          "Votes": 1423,
+          "Percentage": "50.93%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 13,
+          "Percentage": "0.47%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (BUCHANAN DISTRICT)",
+      "PrecinctsReporting": 3,
+      "PrecinctsParticipating": 3,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Irvin Ray Sloan",
+          "BallotOrder": 1,
+          "Votes": 1771,
+          "Percentage": "97.36%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 48,
+          "Percentage": "2.64%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (AMSTERDAM DISTRICT)",
+      "PrecinctsReporting": 3,
+      "PrecinctsParticipating": 3,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ruth E. Wallace",
+          "BallotOrder": 1,
+          "Votes": 1324,
+          "Percentage": "48.86%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Anna L. Weddle",
+          "BallotOrder": 2,
+          "Votes": 1373,
+          "Percentage": "50.66%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 13,
+          "Percentage": "0.48%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (BUCHANAN DISTRICT)",
+      "PrecinctsReporting": 3,
+      "PrecinctsParticipating": 3,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Michelle Austin Crook",
+          "BallotOrder": 1,
+          "Votes": 1778,
+          "Percentage": "98.23%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 32,
+          "Percentage": "1.77%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Town Council, Troutville (TROUTVILLE)",
+      "PrecinctsReporting": 2,
+      "PrecinctsParticipating": 2,
+      "NumberOfSeats": 3,
+      "Candidates": [
+        {
+          "BallotName": "Doris C. Camper",
+          "BallotOrder": 1,
+          "Votes": 96,
+          "Percentage": "33.92%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "H. Dean Paderick",
+          "BallotOrder": 2,
+          "Votes": 89,
+          "Percentage": "31.45%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Harry J. Ulrich, Jr.",
+          "BallotOrder": 3,
+          "Votes": 88,
+          "Percentage": "31.10%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 10,
+          "Percentage": "3.53%",
+          "PoliticalParty": ""
+        }
+      ]
+    }
+  ]
+}

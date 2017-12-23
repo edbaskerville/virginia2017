@@ -1,0 +1,214 @@
+{
+  "ElectionName": "2017 November General",
+  "ElectionDate": "2017-11-07T00:00:00",
+  "CreateDate": "2017-11-13T19:06:13.5778553-05:00",
+  "Locality": {
+    "LocalityName": "LEXINGTON CITY",
+    "LocalityCode": "678"
+  },
+  "Races": [
+    {
+      "RaceName": "Governor",
+      "PrecinctsReporting": 2,
+      "PrecinctsParticipating": 2,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ralph S. Northam",
+          "BallotOrder": 1,
+          "Votes": 1161,
+          "Percentage": "66.46%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward W. \"Ed\" Gillespie",
+          "BallotOrder": 2,
+          "Votes": 572,
+          "Percentage": "32.74%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Clifford D. Hyra",
+          "BallotOrder": 3,
+          "Votes": 13,
+          "Percentage": "0.74%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 1,
+          "Percentage": "0.06%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Lieutenant Governor",
+      "PrecinctsReporting": 2,
+      "PrecinctsParticipating": 2,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Justin E. Fairfax",
+          "BallotOrder": 1,
+          "Votes": 1102,
+          "Percentage": "63.52%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jill H. Vogel",
+          "BallotOrder": 2,
+          "Votes": 631,
+          "Percentage": "36.37%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 2,
+          "Percentage": "0.12%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Attorney General",
+      "PrecinctsReporting": 2,
+      "PrecinctsParticipating": 2,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark R. Herring",
+          "BallotOrder": 1,
+          "Votes": 1129,
+          "Percentage": "65.00%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John D. Adams",
+          "BallotOrder": 2,
+          "Votes": 606,
+          "Percentage": "34.89%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 2,
+          "Percentage": "0.12%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (024)",
+      "PrecinctsReporting": 2,
+      "PrecinctsParticipating": 2,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ben L. Cline",
+          "BallotOrder": 1,
+          "Votes": 675,
+          "Percentage": "39.31%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "John C. Winfrey",
+          "BallotOrder": 2,
+          "Votes": 1030,
+          "Percentage": "59.99%",
+          "PoliticalParty": "Independent"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 12,
+          "Percentage": "0.70%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Clerk of Court (LEXINGTON CITY-ROCKBRIDGE COUNTY)",
+      "PrecinctsReporting": 2,
+      "PrecinctsParticipating": 2,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Dennis W. Ayers",
+          "BallotOrder": 1,
+          "Votes": 768,
+          "Percentage": "47.23%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Michelle Moore Trout",
+          "BallotOrder": 2,
+          "Votes": 540,
+          "Percentage": "33.21%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "David C. Whitesell",
+          "BallotOrder": 3,
+          "Votes": 305,
+          "Percentage": "18.76%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 13,
+          "Percentage": "0.80%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Commissioner of Revenue (LEXINGTON CITY)",
+      "PrecinctsReporting": 2,
+      "PrecinctsParticipating": 2,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Karen Telling Roundy",
+          "BallotOrder": 1,
+          "Votes": 1408,
+          "Percentage": "97.17%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 41,
+          "Percentage": "2.83%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Treasurer (LEXINGTON CITY)",
+      "PrecinctsReporting": 2,
+      "PrecinctsParticipating": 2,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Patricia S. Delaney",
+          "BallotOrder": 1,
+          "Votes": 1473,
+          "Percentage": "98.07%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 29,
+          "Percentage": "1.93%",
+          "PoliticalParty": ""
+        }
+      ]
+    }
+  ]
+}

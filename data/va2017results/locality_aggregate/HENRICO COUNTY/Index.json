@@ -1,0 +1,352 @@
+{
+  "ElectionName": "2017 November General",
+  "ElectionDate": "2017-11-07T00:00:00",
+  "CreateDate": "2017-11-13T19:06:13.3058281-05:00",
+  "Locality": {
+    "LocalityName": "HENRICO COUNTY",
+    "LocalityCode": "087"
+  },
+  "Races": [
+    {
+      "RaceName": "Governor",
+      "PrecinctsReporting": 92,
+      "PrecinctsParticipating": 92,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ralph S. Northam",
+          "BallotOrder": 1,
+          "Votes": 69969,
+          "Percentage": "60.82%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward W. \"Ed\" Gillespie",
+          "BallotOrder": 2,
+          "Votes": 43747,
+          "Percentage": "38.03%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Clifford D. Hyra",
+          "BallotOrder": 3,
+          "Votes": 1268,
+          "Percentage": "1.10%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 52,
+          "Percentage": "0.05%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Lieutenant Governor",
+      "PrecinctsReporting": 92,
+      "PrecinctsParticipating": 92,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Justin E. Fairfax",
+          "BallotOrder": 1,
+          "Votes": 68691,
+          "Percentage": "59.91%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jill H. Vogel",
+          "BallotOrder": 2,
+          "Votes": 45816,
+          "Percentage": "39.96%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 145,
+          "Percentage": "0.13%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Attorney General",
+      "PrecinctsReporting": 92,
+      "PrecinctsParticipating": 92,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark R. Herring",
+          "BallotOrder": 1,
+          "Votes": 68787,
+          "Percentage": "60.00%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John D. Adams",
+          "BallotOrder": 2,
+          "Votes": 45756,
+          "Percentage": "39.91%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 110,
+          "Percentage": "0.10%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (056)",
+      "PrecinctsReporting": 8,
+      "PrecinctsParticipating": 8,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Melissa M. Dart",
+          "BallotOrder": 1,
+          "Votes": 5679,
+          "Percentage": "47.35%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John J. McGuire III",
+          "BallotOrder": 2,
+          "Votes": 6295,
+          "Percentage": "52.48%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 20,
+          "Percentage": "0.17%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (062)",
+      "PrecinctsReporting": 5,
+      "PrecinctsParticipating": 5,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Sheila Bynum-Coleman",
+          "BallotOrder": 1,
+          "Votes": 1286,
+          "Percentage": "41.32%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Riley Edward Ingram",
+          "BallotOrder": 2,
+          "Votes": 1821,
+          "Percentage": "58.52%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 5,
+          "Percentage": "0.16%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (068)",
+      "PrecinctsReporting": 4,
+      "PrecinctsParticipating": 4,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Dawn M. Adams",
+          "BallotOrder": 1,
+          "Votes": 1126,
+          "Percentage": "45.92%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "G. M. \"Manoli\" Loupassi",
+          "BallotOrder": 2,
+          "Votes": 1322,
+          "Percentage": "53.92%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 4,
+          "Percentage": "0.16%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (070)",
+      "PrecinctsReporting": 9,
+      "PrecinctsParticipating": 9,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Delores L. McQuinn",
+          "BallotOrder": 1,
+          "Votes": 9536,
+          "Percentage": "96.42%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 354,
+          "Percentage": "3.58%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (071)",
+      "PrecinctsReporting": 2,
+      "PrecinctsParticipating": 2,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Jeff M. Bourne",
+          "BallotOrder": 1,
+          "Votes": 1655,
+          "Percentage": "98.63%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 23,
+          "Percentage": "1.37%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (072)",
+      "PrecinctsReporting": 28,
+      "PrecinctsParticipating": 28,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Schuyler T. VanValkenburg",
+          "BallotOrder": 1,
+          "Votes": 16655,
+          "Percentage": "52.71%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward S. Whitlock III",
+          "BallotOrder": 2,
+          "Votes": 14869,
+          "Percentage": "47.06%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 74,
+          "Percentage": "0.23%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (073)",
+      "PrecinctsReporting": 23,
+      "PrecinctsParticipating": 23,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Debra H. Rodman",
+          "BallotOrder": 1,
+          "Votes": 14697,
+          "Percentage": "51.48%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John M. O'Bannon III",
+          "BallotOrder": 2,
+          "Votes": 13803,
+          "Percentage": "48.35%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 47,
+          "Percentage": "0.16%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (074)",
+      "PrecinctsReporting": 28,
+      "PrecinctsParticipating": 28,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Lamont Bagby",
+          "BallotOrder": 1,
+          "Votes": 17922,
+          "Percentage": "77.06%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Preston T. Brown",
+          "BallotOrder": 2,
+          "Votes": 5174,
+          "Percentage": "22.25%",
+          "PoliticalParty": "Independent"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 162,
+          "Percentage": "0.70%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (BROOKLAND DISTRICT)",
+      "PrecinctsReporting": 16,
+      "PrecinctsParticipating": 16,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Courtney D. Lynch",
+          "BallotOrder": 1,
+          "Votes": 11870,
+          "Percentage": "55.32%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Robert H. \"Bob\" Witte, Jr.",
+          "BallotOrder": 2,
+          "Votes": 9452,
+          "Percentage": "44.05%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 136,
+          "Percentage": "0.63%",
+          "PoliticalParty": ""
+        }
+      ]
+    }
+  ]
+}

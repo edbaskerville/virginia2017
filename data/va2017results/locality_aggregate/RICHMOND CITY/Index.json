@@ -1,0 +1,409 @@
+{
+  "ElectionName": "2017 November General",
+  "ElectionDate": "2017-11-07T00:00:00",
+  "CreateDate": "2017-11-13T19:06:14.4589434-05:00",
+  "Locality": {
+    "LocalityName": "RICHMOND CITY",
+    "LocalityCode": "760"
+  },
+  "Races": [
+    {
+      "RaceName": "Governor",
+      "PrecinctsReporting": 67,
+      "PrecinctsParticipating": 67,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ralph S. Northam",
+          "BallotOrder": 1,
+          "Votes": 58001,
+          "Percentage": "81.46%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward W. \"Ed\" Gillespie",
+          "BallotOrder": 2,
+          "Votes": 12258,
+          "Percentage": "17.21%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Clifford D. Hyra",
+          "BallotOrder": 3,
+          "Votes": 905,
+          "Percentage": "1.27%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 42,
+          "Percentage": "0.06%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Lieutenant Governor",
+      "PrecinctsReporting": 67,
+      "PrecinctsParticipating": 67,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Justin E. Fairfax",
+          "BallotOrder": 1,
+          "Votes": 57303,
+          "Percentage": "80.97%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jill H. Vogel",
+          "BallotOrder": 2,
+          "Votes": 13410,
+          "Percentage": "18.95%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 59,
+          "Percentage": "0.08%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Attorney General",
+      "PrecinctsReporting": 67,
+      "PrecinctsParticipating": 67,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark R. Herring",
+          "BallotOrder": 1,
+          "Votes": 57127,
+          "Percentage": "80.79%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John D. Adams",
+          "BallotOrder": 2,
+          "Votes": 13511,
+          "Percentage": "19.11%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 73,
+          "Percentage": "0.10%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (068)",
+      "PrecinctsReporting": 14,
+      "PrecinctsParticipating": 14,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Dawn M. Adams",
+          "BallotOrder": 1,
+          "Votes": 10388,
+          "Percentage": "57.42%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "G. M. \"Manoli\" Loupassi",
+          "BallotOrder": 2,
+          "Votes": 7677,
+          "Percentage": "42.44%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 25,
+          "Percentage": "0.14%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (069)",
+      "PrecinctsReporting": 23,
+      "PrecinctsParticipating": 23,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Betsy B. Carr",
+          "BallotOrder": 1,
+          "Votes": 18711,
+          "Percentage": "86.67%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jacob A. \"Jake\" Crocker",
+          "BallotOrder": 2,
+          "Votes": 1794,
+          "Percentage": "8.31%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Montigue T. Magruder",
+          "BallotOrder": 3,
+          "Votes": 1017,
+          "Percentage": "4.71%",
+          "PoliticalParty": "Green"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 66,
+          "Percentage": "0.31%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (070)",
+      "PrecinctsReporting": 6,
+      "PrecinctsParticipating": 6,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Delores L. McQuinn",
+          "BallotOrder": 1,
+          "Votes": 4145,
+          "Percentage": "98.04%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 83,
+          "Percentage": "1.96%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (071)",
+      "PrecinctsReporting": 27,
+      "PrecinctsParticipating": 27,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Jeff M. Bourne",
+          "BallotOrder": 1,
+          "Votes": 22616,
+          "Percentage": "97.93%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 477,
+          "Percentage": "2.07%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (074)",
+      "PrecinctsReporting": 2,
+      "PrecinctsParticipating": 2,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Lamont Bagby",
+          "BallotOrder": 1,
+          "Votes": 466,
+          "Percentage": "89.62%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Preston T. Brown",
+          "BallotOrder": 2,
+          "Votes": 54,
+          "Percentage": "10.38%",
+          "PoliticalParty": "Independent"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 0,
+          "Percentage": "0.00%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Commonwealth's Attorney (RICHMOND CITY)",
+      "PrecinctsReporting": 67,
+      "PrecinctsParticipating": 67,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Michael N. Herring",
+          "BallotOrder": 1,
+          "Votes": 59284,
+          "Percentage": "97.87%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 1291,
+          "Percentage": "2.13%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Sheriff (RICHMOND CITY)",
+      "PrecinctsReporting": 67,
+      "PrecinctsParticipating": 67,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Antionette V. Irving",
+          "BallotOrder": 1,
+          "Votes": 38745,
+          "Percentage": "61.54%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Nicole D. Jackson",
+          "BallotOrder": 2,
+          "Votes": 16671,
+          "Percentage": "26.48%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Emmett Johnson Jafari",
+          "BallotOrder": 3,
+          "Votes": 4895,
+          "Percentage": "7.78%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 2644,
+          "Percentage": "4.20%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Treasurer (RICHMOND CITY)",
+      "PrecinctsReporting": 67,
+      "PrecinctsParticipating": 67,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Nichole Ona R. Armstead",
+          "BallotOrder": 1,
+          "Votes": 28645,
+          "Percentage": "46.97%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "L. Shirley Harvey",
+          "BallotOrder": 2,
+          "Votes": 6742,
+          "Percentage": "11.05%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Michelle R. Mosby",
+          "BallotOrder": 3,
+          "Votes": 24626,
+          "Percentage": "40.38%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 976,
+          "Percentage": "1.60%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (DISTRICT 3)",
+      "PrecinctsReporting": 11,
+      "PrecinctsParticipating": 11,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Dorian O. Daniels",
+          "BallotOrder": 1,
+          "Votes": 215,
+          "Percentage": "2.94%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Kenya J. Gibson",
+          "BallotOrder": 2,
+          "Votes": 3285,
+          "Percentage": "44.89%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Joann Henry",
+          "BallotOrder": 3,
+          "Votes": 1481,
+          "Percentage": "20.24%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Cindy A. Menz-Erb",
+          "BallotOrder": 4,
+          "Votes": 1979,
+          "Percentage": "27.04%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Kevin A. Starlings",
+          "BallotOrder": 5,
+          "Votes": 338,
+          "Percentage": "4.62%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 20,
+          "Percentage": "0.27%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "PROPOSITION A (RICHMOND CITY)",
+      "PrecinctsReporting": 67,
+      "PrecinctsParticipating": 67,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Yes",
+          "BallotOrder": 1,
+          "Votes": 56717,
+          "Percentage": "85.37%",
+          "PoliticalParty": null
+        },
+        {
+          "BallotName": "No",
+          "BallotOrder": 2,
+          "Votes": 9717,
+          "Percentage": "14.63%",
+          "PoliticalParty": null
+        }
+      ]
+    }
+  ]
+}

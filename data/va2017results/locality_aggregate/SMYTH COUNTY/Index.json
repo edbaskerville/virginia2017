@@ -1,0 +1,323 @@
+{
+  "ElectionName": "2017 November General",
+  "ElectionDate": "2017-11-07T00:00:00",
+  "CreateDate": "2017-11-13T19:06:14.8129788-05:00",
+  "Locality": {
+    "LocalityName": "SMYTH COUNTY",
+    "LocalityCode": "173"
+  },
+  "Races": [
+    {
+      "RaceName": "Governor",
+      "PrecinctsReporting": 15,
+      "PrecinctsParticipating": 15,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ralph S. Northam",
+          "BallotOrder": 1,
+          "Votes": 1747,
+          "Percentage": "22.01%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward W. \"Ed\" Gillespie",
+          "BallotOrder": 2,
+          "Votes": 6107,
+          "Percentage": "76.92%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Clifford D. Hyra",
+          "BallotOrder": 3,
+          "Votes": 78,
+          "Percentage": "0.98%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 7,
+          "Percentage": "0.09%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Lieutenant Governor",
+      "PrecinctsReporting": 15,
+      "PrecinctsParticipating": 15,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Justin E. Fairfax",
+          "BallotOrder": 1,
+          "Votes": 1790,
+          "Percentage": "22.83%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jill H. Vogel",
+          "BallotOrder": 2,
+          "Votes": 6049,
+          "Percentage": "77.16%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 1,
+          "Percentage": "0.01%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Attorney General",
+      "PrecinctsReporting": 15,
+      "PrecinctsParticipating": 15,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark R. Herring",
+          "BallotOrder": 1,
+          "Votes": 1718,
+          "Percentage": "21.83%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John D. Adams",
+          "BallotOrder": 2,
+          "Votes": 6149,
+          "Percentage": "78.14%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 2,
+          "Percentage": "0.03%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (005)",
+      "PrecinctsReporting": 7,
+      "PrecinctsParticipating": 7,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Israel D. O'Quinn",
+          "BallotOrder": 1,
+          "Votes": 2839,
+          "Percentage": "98.64%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 39,
+          "Percentage": "1.36%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (006)",
+      "PrecinctsReporting": 10,
+      "PrecinctsParticipating": 10,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Jeffrey L. Campbell",
+          "BallotOrder": 1,
+          "Votes": 3794,
+          "Percentage": "83.17%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Kenneth D. Browning",
+          "BallotOrder": 2,
+          "Votes": 683,
+          "Percentage": "14.97%",
+          "PoliticalParty": "Independent"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 85,
+          "Percentage": "1.86%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (CHILHOWIE DISTRICT)",
+      "PrecinctsReporting": 3,
+      "PrecinctsParticipating": 3,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "R. Curtis Rhea",
+          "BallotOrder": 1,
+          "Votes": 711,
+          "Percentage": "58.04%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Wade H. Blevins, Jr.",
+          "BallotOrder": 2,
+          "Votes": 511,
+          "Percentage": "41.71%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 3,
+          "Percentage": "0.24%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (ROYAL OAK DISTRICT)",
+      "PrecinctsReporting": 3,
+      "PrecinctsParticipating": 3,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Christopher D. Swinhart",
+          "BallotOrder": 1,
+          "Votes": 259,
+          "Percentage": "27.32%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Judy Overbay Wyant",
+          "BallotOrder": 2,
+          "Votes": 684,
+          "Percentage": "72.15%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 5,
+          "Percentage": "0.53%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (SALTVILLE DISTRICT)",
+      "PrecinctsReporting": 2,
+      "PrecinctsParticipating": 2,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Lamuel Eddie Prater ",
+          "BallotOrder": 1,
+          "Votes": 357,
+          "Percentage": "35.28%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Roscoe D. \"Mike\" Call",
+          "BallotOrder": 2,
+          "Votes": 385,
+          "Percentage": "38.04%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Monica S. Johnson",
+          "BallotOrder": 3,
+          "Votes": 270,
+          "Percentage": "26.68%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 0,
+          "Percentage": "0.00%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (CHILHOWIE DISTRICT)",
+      "PrecinctsReporting": 3,
+      "PrecinctsParticipating": 3,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Todd S. Williams",
+          "BallotOrder": 1,
+          "Votes": 1012,
+          "Percentage": "97.97%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 21,
+          "Percentage": "2.03%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (ROYAL OAK DISTRICT)",
+      "PrecinctsReporting": 3,
+      "PrecinctsParticipating": 3,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Paul L. Grinstead",
+          "BallotOrder": 1,
+          "Votes": 858,
+          "Percentage": "97.61%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 21,
+          "Percentage": "2.39%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (SALTVILLE DISTRICT)",
+      "PrecinctsReporting": 2,
+      "PrecinctsParticipating": 2,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Roger L. \"P/Nut\" Frye",
+          "BallotOrder": 1,
+          "Votes": 647,
+          "Percentage": "65.42%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Joseph D. Johnson",
+          "BallotOrder": 2,
+          "Votes": 338,
+          "Percentage": "34.18%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 4,
+          "Percentage": "0.40%",
+          "PoliticalParty": ""
+        }
+      ]
+    }
+  ]
+}

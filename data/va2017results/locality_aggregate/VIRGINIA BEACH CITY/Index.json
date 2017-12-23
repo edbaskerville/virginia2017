@@ -1,0 +1,410 @@
+{
+  "ElectionName": "2017 November General",
+  "ElectionDate": "2017-11-07T00:00:00",
+  "CreateDate": "2017-11-13T19:06:15.0390014-05:00",
+  "Locality": {
+    "LocalityName": "VIRGINIA BEACH CITY",
+    "LocalityCode": "810"
+  },
+  "Races": [
+    {
+      "RaceName": "Governor",
+      "PrecinctsReporting": 99,
+      "PrecinctsParticipating": 99,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ralph S. Northam",
+          "BallotOrder": 1,
+          "Votes": 66442,
+          "Percentage": "51.86%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward W. \"Ed\" Gillespie",
+          "BallotOrder": 2,
+          "Votes": 60073,
+          "Percentage": "46.89%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Clifford D. Hyra",
+          "BallotOrder": 3,
+          "Votes": 1541,
+          "Percentage": "1.20%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 64,
+          "Percentage": "0.05%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Lieutenant Governor",
+      "PrecinctsReporting": 99,
+      "PrecinctsParticipating": 99,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Justin E. Fairfax",
+          "BallotOrder": 1,
+          "Votes": 62086,
+          "Percentage": "48.75%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jill H. Vogel",
+          "BallotOrder": 2,
+          "Votes": 65190,
+          "Percentage": "51.18%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 89,
+          "Percentage": "0.07%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Attorney General",
+      "PrecinctsReporting": 99,
+      "PrecinctsParticipating": 99,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark R. Herring",
+          "BallotOrder": 1,
+          "Votes": 63787,
+          "Percentage": "50.13%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John D. Adams",
+          "BallotOrder": 2,
+          "Votes": 63334,
+          "Percentage": "49.78%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 115,
+          "Percentage": "0.09%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (021)",
+      "PrecinctsReporting": 18,
+      "PrecinctsParticipating": 18,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Kelly K. Convirs-Fowler",
+          "BallotOrder": 1,
+          "Votes": 11420,
+          "Percentage": "53.15%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Ron A. Villanueva",
+          "BallotOrder": 2,
+          "Votes": 10016,
+          "Percentage": "46.61%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 52,
+          "Percentage": "0.24%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (081)",
+      "PrecinctsReporting": 11,
+      "PrecinctsParticipating": 11,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Kimberly Anne Tucker",
+          "BallotOrder": 1,
+          "Votes": 4715,
+          "Percentage": "39.94%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Barry D. Knight",
+          "BallotOrder": 2,
+          "Votes": 7070,
+          "Percentage": "59.89%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 19,
+          "Percentage": "0.16%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (082)",
+      "PrecinctsReporting": 20,
+      "PrecinctsParticipating": 20,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Leigh Anne Bowling",
+          "BallotOrder": 1,
+          "Votes": 11174,
+          "Percentage": "41.01%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jason S. Miyares",
+          "BallotOrder": 2,
+          "Votes": 16048,
+          "Percentage": "58.89%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 27,
+          "Percentage": "0.10%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (083)",
+      "PrecinctsReporting": 13,
+      "PrecinctsParticipating": 13,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "David E. Rose-Carmack",
+          "BallotOrder": 1,
+          "Votes": 5764,
+          "Percentage": "39.60%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Chris P. Stolle",
+          "BallotOrder": 2,
+          "Votes": 8776,
+          "Percentage": "60.29%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 17,
+          "Percentage": "0.12%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (084)",
+      "PrecinctsReporting": 18,
+      "PrecinctsParticipating": 18,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Veronica R. Coleman",
+          "BallotOrder": 1,
+          "Votes": 10093,
+          "Percentage": "48.12%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Glenn R. Davis, Jr.",
+          "BallotOrder": 2,
+          "Votes": 10835,
+          "Percentage": "51.65%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 48,
+          "Percentage": "0.23%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (085)",
+      "PrecinctsReporting": 18,
+      "PrecinctsParticipating": 18,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Cheryl B. Turpin",
+          "BallotOrder": 1,
+          "Votes": 11843,
+          "Percentage": "50.73%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "N. D. \"Rocky\" Holcomb III",
+          "BallotOrder": 2,
+          "Votes": 11454,
+          "Percentage": "49.06%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 48,
+          "Percentage": "0.21%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (090)",
+      "PrecinctsReporting": 7,
+      "PrecinctsParticipating": 7,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Joseph C. \"Joe\" Lindsey",
+          "BallotOrder": 1,
+          "Votes": 5933,
+          "Percentage": "96.79%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 197,
+          "Percentage": "3.21%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Commonwealth's Attorney (VIRGINIA BEACH CITY)",
+      "PrecinctsReporting": 99,
+      "PrecinctsParticipating": 99,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Colin D. Stolle",
+          "BallotOrder": 1,
+          "Votes": 98710,
+          "Percentage": "96.64%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 3430,
+          "Percentage": "3.36%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Sheriff (VIRGINIA BEACH CITY)",
+      "PrecinctsReporting": 99,
+      "PrecinctsParticipating": 99,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "John L. Bell, Jr.",
+          "BallotOrder": 1,
+          "Votes": 47247,
+          "Percentage": "39.53%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Kenneth W. \"Ken\" Stolle",
+          "BallotOrder": 2,
+          "Votes": 71736,
+          "Percentage": "60.03%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 527,
+          "Percentage": "0.44%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Commissioner of Revenue (VIRGINIA BEACH CITY)",
+      "PrecinctsReporting": 99,
+      "PrecinctsParticipating": 99,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Philip J. Kellam",
+          "BallotOrder": 1,
+          "Votes": 104337,
+          "Percentage": "97.82%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 2325,
+          "Percentage": "2.18%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Treasurer (VIRGINIA BEACH CITY)",
+      "PrecinctsReporting": 99,
+      "PrecinctsParticipating": 99,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Susan B. Hippen",
+          "BallotOrder": 1,
+          "Votes": 39256,
+          "Percentage": "33.19%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "John T. Atkinson ",
+          "BallotOrder": 2,
+          "Votes": 68905,
+          "Percentage": "58.25%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Kim A. Bentley II",
+          "BallotOrder": 3,
+          "Votes": 9536,
+          "Percentage": "8.06%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 585,
+          "Percentage": "0.49%",
+          "PoliticalParty": ""
+        }
+      ]
+    }
+  ]
+}

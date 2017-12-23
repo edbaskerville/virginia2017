@@ -1,0 +1,388 @@
+{
+  "ElectionName": "2017 November General",
+  "ElectionDate": "2017-11-07T00:00:00",
+  "CreateDate": "2017-11-13T19:06:13.9818957-05:00",
+  "Locality": {
+    "LocalityName": "NORFOLK CITY",
+    "LocalityCode": "710"
+  },
+  "Races": [
+    {
+      "RaceName": "Governor",
+      "PrecinctsReporting": 50,
+      "PrecinctsParticipating": 50,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ralph S. Northam",
+          "BallotOrder": 1,
+          "Votes": 39453,
+          "Percentage": "73.53%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward W. \"Ed\" Gillespie",
+          "BallotOrder": 2,
+          "Votes": 13490,
+          "Percentage": "25.14%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Clifford D. Hyra",
+          "BallotOrder": 3,
+          "Votes": 676,
+          "Percentage": "1.26%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 34,
+          "Percentage": "0.06%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Lieutenant Governor",
+      "PrecinctsReporting": 50,
+      "PrecinctsParticipating": 50,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Justin E. Fairfax",
+          "BallotOrder": 1,
+          "Votes": 37851,
+          "Percentage": "70.91%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jill H. Vogel",
+          "BallotOrder": 2,
+          "Votes": 15464,
+          "Percentage": "28.97%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 61,
+          "Percentage": "0.11%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Attorney General",
+      "PrecinctsReporting": 50,
+      "PrecinctsParticipating": 50,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark R. Herring",
+          "BallotOrder": 1,
+          "Votes": 38430,
+          "Percentage": "72.17%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John D. Adams",
+          "BallotOrder": 2,
+          "Votes": 14763,
+          "Percentage": "27.72%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 59,
+          "Percentage": "0.11%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (079)",
+      "PrecinctsReporting": 5,
+      "PrecinctsParticipating": 5,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Steve E. Heretick",
+          "BallotOrder": 1,
+          "Votes": 2856,
+          "Percentage": "96.45%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 105,
+          "Percentage": "3.55%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (080)",
+      "PrecinctsReporting": 3,
+      "PrecinctsParticipating": 3,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Matthew James",
+          "BallotOrder": 1,
+          "Votes": 1382,
+          "Percentage": "96.11%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 56,
+          "Percentage": "3.89%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (083)",
+      "PrecinctsReporting": 9,
+      "PrecinctsParticipating": 9,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "David E. Rose-Carmack",
+          "BallotOrder": 1,
+          "Votes": 4313,
+          "Percentage": "49.46%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Chris P. Stolle",
+          "BallotOrder": 2,
+          "Votes": 4397,
+          "Percentage": "50.42%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 11,
+          "Percentage": "0.13%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (089)",
+      "PrecinctsReporting": 22,
+      "PrecinctsParticipating": 22,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Jerrauld C. \"Jay\" Jones",
+          "BallotOrder": 1,
+          "Votes": 16541,
+          "Percentage": "84.49%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Terry Richard Hurst",
+          "BallotOrder": 2,
+          "Votes": 2944,
+          "Percentage": "15.04%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 92,
+          "Percentage": "0.47%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (090)",
+      "PrecinctsReporting": 13,
+      "PrecinctsParticipating": 13,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Joseph C. \"Joe\" Lindsey",
+          "BallotOrder": 1,
+          "Votes": 10063,
+          "Percentage": "97.59%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 249,
+          "Percentage": "2.41%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (100)",
+      "PrecinctsReporting": 9,
+      "PrecinctsParticipating": 9,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Willie C. Randall",
+          "BallotOrder": 1,
+          "Votes": 4562,
+          "Percentage": "60.58%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Robert S. Bloxom, Jr.",
+          "BallotOrder": 2,
+          "Votes": 2949,
+          "Percentage": "39.16%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 19,
+          "Percentage": "0.25%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Commonwealth's Attorney (NORFOLK CITY)",
+      "PrecinctsReporting": 50,
+      "PrecinctsParticipating": 50,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Greg D. Underwood",
+          "BallotOrder": 1,
+          "Votes": 43448,
+          "Percentage": "96.52%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 1566,
+          "Percentage": "3.48%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Sheriff (NORFOLK CITY)",
+      "PrecinctsReporting": 50,
+      "PrecinctsParticipating": 50,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Joseph P. \"Joe\" Baron",
+          "BallotOrder": 1,
+          "Votes": 29446,
+          "Percentage": "59.49%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Neil H. Bradley, Jr.",
+          "BallotOrder": 2,
+          "Votes": 5316,
+          "Percentage": "10.74%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Sean C. Jones",
+          "BallotOrder": 3,
+          "Votes": 3573,
+          "Percentage": "7.22%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "R. L. \"Reggie\" Spruill",
+          "BallotOrder": 4,
+          "Votes": 10882,
+          "Percentage": "21.98%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 282,
+          "Percentage": "0.57%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Commissioner of Revenue (NORFOLK CITY)",
+      "PrecinctsReporting": 50,
+      "PrecinctsParticipating": 50,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "C. Evans Poston, Jr.",
+          "BallotOrder": 1,
+          "Votes": 44109,
+          "Percentage": "98.21%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 805,
+          "Percentage": "1.79%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Treasurer (NORFOLK CITY)",
+      "PrecinctsReporting": 50,
+      "PrecinctsParticipating": 50,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Daun Sessoms Hester",
+          "BallotOrder": 1,
+          "Votes": 28375,
+          "Percentage": "56.61%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Michael Voogd",
+          "BallotOrder": 2,
+          "Votes": 6172,
+          "Percentage": "12.31%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Matt T. Hales",
+          "BallotOrder": 3,
+          "Votes": 8579,
+          "Percentage": "17.11%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Nicole K. Sanders",
+          "BallotOrder": 4,
+          "Votes": 6760,
+          "Percentage": "13.49%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 242,
+          "Percentage": "0.48%",
+          "PoliticalParty": ""
+        }
+      ]
+    }
+  ]
+}

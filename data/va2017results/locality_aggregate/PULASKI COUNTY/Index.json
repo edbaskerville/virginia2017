@@ -1,0 +1,228 @@
+{
+  "ElectionName": "2017 November General",
+  "ElectionDate": "2017-11-07T00:00:00",
+  "CreateDate": "2017-11-13T19:06:14.3839359-05:00",
+  "Locality": {
+    "LocalityName": "PULASKI COUNTY",
+    "LocalityCode": "155"
+  },
+  "Races": [
+    {
+      "RaceName": "Governor",
+      "PrecinctsReporting": 13,
+      "PrecinctsParticipating": 13,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ralph S. Northam",
+          "BallotOrder": 1,
+          "Votes": 3533,
+          "Percentage": "30.00%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward W. \"Ed\" Gillespie",
+          "BallotOrder": 2,
+          "Votes": 8081,
+          "Percentage": "68.61%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Clifford D. Hyra",
+          "BallotOrder": 3,
+          "Votes": 160,
+          "Percentage": "1.36%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 4,
+          "Percentage": "0.03%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Lieutenant Governor",
+      "PrecinctsReporting": 13,
+      "PrecinctsParticipating": 13,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Justin E. Fairfax",
+          "BallotOrder": 1,
+          "Votes": 3254,
+          "Percentage": "28.03%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jill H. Vogel",
+          "BallotOrder": 2,
+          "Votes": 8342,
+          "Percentage": "71.86%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 13,
+          "Percentage": "0.11%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Attorney General",
+      "PrecinctsReporting": 13,
+      "PrecinctsParticipating": 13,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark R. Herring",
+          "BallotOrder": 1,
+          "Votes": 3590,
+          "Percentage": "30.83%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John D. Adams",
+          "BallotOrder": 2,
+          "Votes": 8042,
+          "Percentage": "69.07%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 12,
+          "Percentage": "0.10%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (007)",
+      "PrecinctsReporting": 12,
+      "PrecinctsParticipating": 12,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Flourette M. Ketner",
+          "BallotOrder": 1,
+          "Votes": 2533,
+          "Percentage": "26.08%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Larry N. \"Nick\" Rush",
+          "BallotOrder": 2,
+          "Votes": 7176,
+          "Percentage": "73.87%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 5,
+          "Percentage": "0.05%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (012)",
+      "PrecinctsReporting": 3,
+      "PrecinctsParticipating": 3,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Chris L. Hurst",
+          "BallotOrder": 1,
+          "Votes": 869,
+          "Percentage": "45.69%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Joseph R. Yost",
+          "BallotOrder": 2,
+          "Votes": 1029,
+          "Percentage": "54.10%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 4,
+          "Percentage": "0.21%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Sheriff (PULASKI COUNTY)",
+      "PrecinctsReporting": 13,
+      "PrecinctsParticipating": 13,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Michael W. \"Mike\" Worrell",
+          "BallotOrder": 1,
+          "Votes": 7216,
+          "Percentage": "61.85%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "D. Mike Honaker Jr.",
+          "BallotOrder": 2,
+          "Votes": 2564,
+          "Percentage": "21.98%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Norman W. \"Buck\" Dowdy II",
+          "BallotOrder": 3,
+          "Votes": 454,
+          "Percentage": "3.89%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Brian G. Wade",
+          "BallotOrder": 4,
+          "Votes": 1414,
+          "Percentage": "12.12%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 19,
+          "Percentage": "0.16%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "School Bond (PULASKI COUNTY)",
+      "PrecinctsReporting": 13,
+      "PrecinctsParticipating": 13,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Yes",
+          "BallotOrder": 1,
+          "Votes": 7602,
+          "Percentage": "64.64%",
+          "PoliticalParty": null
+        },
+        {
+          "BallotName": "No",
+          "BallotOrder": 2,
+          "Votes": 4159,
+          "Percentage": "35.36%",
+          "PoliticalParty": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,272 @@
+{
+  "ElectionName": "2017 November General",
+  "ElectionDate": "2017-11-07T00:00:00",
+  "CreateDate": "2017-11-13T19:06:14.2559231-05:00",
+  "Locality": {
+    "LocalityName": "PORTSMOUTH CITY",
+    "LocalityCode": "740"
+  },
+  "Races": [
+    {
+      "RaceName": "Governor",
+      "PrecinctsReporting": 32,
+      "PrecinctsParticipating": 32,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ralph S. Northam",
+          "BallotOrder": 1,
+          "Votes": 20156,
+          "Percentage": "70.21%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward W. \"Ed\" Gillespie",
+          "BallotOrder": 2,
+          "Votes": 8167,
+          "Percentage": "28.45%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Clifford D. Hyra",
+          "BallotOrder": 3,
+          "Votes": 369,
+          "Percentage": "1.29%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 18,
+          "Percentage": "0.06%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Lieutenant Governor",
+      "PrecinctsReporting": 32,
+      "PrecinctsParticipating": 32,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Justin E. Fairfax",
+          "BallotOrder": 1,
+          "Votes": 19559,
+          "Percentage": "68.60%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jill H. Vogel",
+          "BallotOrder": 2,
+          "Votes": 8923,
+          "Percentage": "31.30%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 28,
+          "Percentage": "0.10%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Attorney General",
+      "PrecinctsReporting": 32,
+      "PrecinctsParticipating": 32,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark R. Herring",
+          "BallotOrder": 1,
+          "Votes": 19884,
+          "Percentage": "69.84%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John D. Adams",
+          "BallotOrder": 2,
+          "Votes": 8550,
+          "Percentage": "30.03%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 38,
+          "Percentage": "0.13%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (079)",
+      "PrecinctsReporting": 13,
+      "PrecinctsParticipating": 13,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Steve E. Heretick",
+          "BallotOrder": 1,
+          "Votes": 10008,
+          "Percentage": "94.96%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 531,
+          "Percentage": "5.04%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (080)",
+      "PrecinctsReporting": 21,
+      "PrecinctsParticipating": 21,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Matthew James",
+          "BallotOrder": 1,
+          "Votes": 13796,
+          "Percentage": "97.11%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 410,
+          "Percentage": "2.89%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Commonwealth's Attorney (PORTSMOUTH CITY)",
+      "PrecinctsReporting": 32,
+      "PrecinctsParticipating": 32,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Stephanie N. Morales",
+          "BallotOrder": 1,
+          "Votes": 17604,
+          "Percentage": "62.90%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Thomas J. \"T.J.\" Wright V",
+          "BallotOrder": 2,
+          "Votes": 10298,
+          "Percentage": "36.79%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 87,
+          "Percentage": "0.31%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Sheriff (PORTSMOUTH CITY)",
+      "PrecinctsReporting": 32,
+      "PrecinctsParticipating": 32,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Michael A. Moore",
+          "BallotOrder": 1,
+          "Votes": 13293,
+          "Percentage": "47.10%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Glenn Perry, Sr.",
+          "BallotOrder": 2,
+          "Votes": 2768,
+          "Percentage": "9.81%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "W. O. \"Bill\" Watson",
+          "BallotOrder": 3,
+          "Votes": 12077,
+          "Percentage": "42.79%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 83,
+          "Percentage": "0.29%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Commissioner of Revenue (PORTSMOUTH CITY)",
+      "PrecinctsReporting": 32,
+      "PrecinctsParticipating": 32,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "F. D. \"Frankie\" Edmondson",
+          "BallotOrder": 1,
+          "Votes": 23956,
+          "Percentage": "97.66%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 574,
+          "Percentage": "2.34%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Treasurer (PORTSMOUTH CITY)",
+      "PrecinctsReporting": 32,
+      "PrecinctsParticipating": 32,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Paige D. Cherry",
+          "BallotOrder": 1,
+          "Votes": 13157,
+          "Percentage": "47.02%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Ron S. Melton",
+          "BallotOrder": 2,
+          "Votes": 7179,
+          "Percentage": "25.66%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Elizabeth M. Psimas",
+          "BallotOrder": 3,
+          "Votes": 7530,
+          "Percentage": "26.91%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 115,
+          "Percentage": "0.41%",
+          "PoliticalParty": ""
+        }
+      ]
+    }
+  ]
+}

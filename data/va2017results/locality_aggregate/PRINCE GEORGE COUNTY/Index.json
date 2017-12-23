@@ -1,0 +1,344 @@
+{
+  "ElectionName": "2017 November General",
+  "ElectionDate": "2017-11-07T00:00:00",
+  "CreateDate": "2017-11-13T19:06:14.3319307-05:00",
+  "Locality": {
+    "LocalityName": "PRINCE GEORGE COUNTY",
+    "LocalityCode": "149"
+  },
+  "Races": [
+    {
+      "RaceName": "Governor",
+      "PrecinctsReporting": 11,
+      "PrecinctsParticipating": 11,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ralph S. Northam",
+          "BallotOrder": 1,
+          "Votes": 4150,
+          "Percentage": "40.27%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward W. \"Ed\" Gillespie",
+          "BallotOrder": 2,
+          "Votes": 6044,
+          "Percentage": "58.65%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Clifford D. Hyra",
+          "BallotOrder": 3,
+          "Votes": 108,
+          "Percentage": "1.05%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 3,
+          "Percentage": "0.03%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Lieutenant Governor",
+      "PrecinctsReporting": 11,
+      "PrecinctsParticipating": 11,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Justin E. Fairfax",
+          "BallotOrder": 1,
+          "Votes": 4058,
+          "Percentage": "39.63%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jill H. Vogel",
+          "BallotOrder": 2,
+          "Votes": 6178,
+          "Percentage": "60.33%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 4,
+          "Percentage": "0.04%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Attorney General",
+      "PrecinctsReporting": 11,
+      "PrecinctsParticipating": 11,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark R. Herring",
+          "BallotOrder": 1,
+          "Votes": 4099,
+          "Percentage": "40.05%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John D. Adams",
+          "BallotOrder": 2,
+          "Votes": 6128,
+          "Percentage": "59.87%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 8,
+          "Percentage": "0.08%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (062)",
+      "PrecinctsReporting": 3,
+      "PrecinctsParticipating": 3,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Sheila Bynum-Coleman",
+          "BallotOrder": 1,
+          "Votes": 232,
+          "Percentage": "62.87%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Riley Edward Ingram",
+          "BallotOrder": 2,
+          "Votes": 137,
+          "Percentage": "37.13%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 0,
+          "Percentage": "0.00%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (063)",
+      "PrecinctsReporting": 4,
+      "PrecinctsParticipating": 4,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Lashrecse D. Aird",
+          "BallotOrder": 1,
+          "Votes": 1613,
+          "Percentage": "94.83%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 88,
+          "Percentage": "5.17%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (064)",
+      "PrecinctsReporting": 10,
+      "PrecinctsParticipating": 10,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Rebecca S. Colaw",
+          "BallotOrder": 1,
+          "Votes": 2495,
+          "Percentage": "32.80%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Emily M. Brewer",
+          "BallotOrder": 2,
+          "Votes": 5107,
+          "Percentage": "67.14%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 5,
+          "Percentage": "0.07%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Treasurer (PRINCE GEORGE COUNTY)",
+      "PrecinctsReporting": 11,
+      "PrecinctsParticipating": 11,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Lori H. Robertson",
+          "BallotOrder": 1,
+          "Votes": 3129,
+          "Percentage": "32.77%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Susan Clark Vargo",
+          "BallotOrder": 2,
+          "Votes": 6376,
+          "Percentage": "66.79%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 42,
+          "Percentage": "0.44%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (DISTRICT 1)",
+      "PrecinctsReporting": 6,
+      "PrecinctsParticipating": 6,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Floyd M. Brown, Jr.",
+          "BallotOrder": 1,
+          "Votes": 2098,
+          "Percentage": "46.37%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Shayne L. Bridgman",
+          "BallotOrder": 2,
+          "Votes": 684,
+          "Percentage": "15.12%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Joseph T. Wallace",
+          "BallotOrder": 3,
+          "Votes": 1715,
+          "Percentage": "37.91%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 27,
+          "Percentage": "0.60%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (DISTRICT 2)",
+      "PrecinctsReporting": 6,
+      "PrecinctsParticipating": 6,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "W. A. \"Bill\" Robertson, Jr.",
+          "BallotOrder": 1,
+          "Votes": 1392,
+          "Percentage": "26.39%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "William F. \"Bill\" Gandel",
+          "BallotOrder": 2,
+          "Votes": 1020,
+          "Percentage": "19.34%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Marlene J. Waymack",
+          "BallotOrder": 3,
+          "Votes": 2846,
+          "Percentage": "53.96%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 16,
+          "Percentage": "0.30%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (DISTRICT 1)",
+      "PrecinctsReporting": 6,
+      "PrecinctsParticipating": 6,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Rob E. L. Eley III",
+          "BallotOrder": 1,
+          "Votes": 2461,
+          "Percentage": "55.27%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Sharon M. Jadrnak",
+          "BallotOrder": 2,
+          "Votes": 1962,
+          "Percentage": "44.06%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 30,
+          "Percentage": "0.67%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (DISTRICT 2)",
+      "PrecinctsReporting": 6,
+      "PrecinctsParticipating": 6,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Leila R. Holmes",
+          "BallotOrder": 1,
+          "Votes": 2049,
+          "Percentage": "40.44%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Chris A. Johnson",
+          "BallotOrder": 2,
+          "Votes": 2992,
+          "Percentage": "59.05%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 26,
+          "Percentage": "0.51%",
+          "PoliticalParty": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "ElectionName": "2017 November General",
+  "ElectionDate": "2017-11-07T00:00:00",
+  "CreateDate": "2017-11-13T19:06:13.6808656-05:00",
+  "Locality": {
+    "LocalityName": "LYNCHBURG CITY",
+    "LocalityCode": "680"
+  },
+  "Races": [
+    {
+      "RaceName": "Governor",
+      "PrecinctsReporting": 19,
+      "PrecinctsParticipating": 19,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ralph S. Northam",
+          "BallotOrder": 1,
+          "Votes": 10047,
+          "Percentage": "47.16%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward W. \"Ed\" Gillespie",
+          "BallotOrder": 2,
+          "Votes": 10959,
+          "Percentage": "51.44%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Clifford D. Hyra",
+          "BallotOrder": 3,
+          "Votes": 284,
+          "Percentage": "1.33%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 16,
+          "Percentage": "0.08%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Lieutenant Governor",
+      "PrecinctsReporting": 19,
+      "PrecinctsParticipating": 19,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Justin E. Fairfax",
+          "BallotOrder": 1,
+          "Votes": 9384,
+          "Percentage": "44.58%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jill H. Vogel",
+          "BallotOrder": 2,
+          "Votes": 11640,
+          "Percentage": "55.30%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 25,
+          "Percentage": "0.12%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Attorney General",
+      "PrecinctsReporting": 19,
+      "PrecinctsParticipating": 19,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark R. Herring",
+          "BallotOrder": 1,
+          "Votes": 9822,
+          "Percentage": "46.56%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John D. Adams",
+          "BallotOrder": 2,
+          "Votes": 11248,
+          "Percentage": "53.32%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 24,
+          "Percentage": "0.11%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (022)",
+      "PrecinctsReporting": 7,
+      "PrecinctsParticipating": 7,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Kathy J. Byron",
+          "BallotOrder": 1,
+          "Votes": 2289,
+          "Percentage": "90.44%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 242,
+          "Percentage": "9.56%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (023)",
+      "PrecinctsReporting": 13,
+      "PrecinctsParticipating": 13,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Natalie A. Short",
+          "BallotOrder": 1,
+          "Votes": 6213,
+          "Percentage": "38.25%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "T. Scott Garrett",
+          "BallotOrder": 2,
+          "Votes": 10014,
+          "Percentage": "61.64%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 18,
+          "Percentage": "0.11%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Commonwealth's Attorney (LYNCHBURG CITY)",
+      "PrecinctsReporting": 19,
+      "PrecinctsParticipating": 19,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Carlos A. Hutcherson",
+          "BallotOrder": 1,
+          "Votes": 6913,
+          "Percentage": "34.40%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Bethany A. Harrison",
+          "BallotOrder": 2,
+          "Votes": 13114,
+          "Percentage": "65.26%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 67,
+          "Percentage": "0.33%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Sheriff (LYNCHBURG CITY)",
+      "PrecinctsReporting": 19,
+      "PrecinctsParticipating": 19,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Donald T. \"Don\" Sloan",
+          "BallotOrder": 1,
+          "Votes": 15576,
+          "Percentage": "97.66%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 373,
+          "Percentage": "2.34%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Commissioner of Revenue (LYNCHBURG CITY)",
+      "PrecinctsReporting": 19,
+      "PrecinctsParticipating": 19,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mitchell W. Nuckles",
+          "BallotOrder": 1,
+          "Votes": 15651,
+          "Percentage": "98.68%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 209,
+          "Percentage": "1.32%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Treasurer (LYNCHBURG CITY)",
+      "PrecinctsReporting": 19,
+      "PrecinctsParticipating": 19,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Robert L. Bailey",
+          "BallotOrder": 1,
+          "Votes": 15438,
+          "Percentage": "98.60%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 219,
+          "Percentage": "1.40%",
+          "PoliticalParty": ""
+        }
+      ]
+    }
+  ]
+}

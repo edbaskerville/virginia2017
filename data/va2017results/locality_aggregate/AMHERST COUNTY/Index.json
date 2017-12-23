@@ -1,0 +1,331 @@
+{
+  "ElectionName": "2017 November General",
+  "ElectionDate": "2017-11-07T00:00:00",
+  "CreateDate": "2017-11-13T19:06:11.9766952-05:00",
+  "Locality": {
+    "LocalityName": "AMHERST COUNTY",
+    "LocalityCode": "009"
+  },
+  "Races": [
+    {
+      "RaceName": "Governor",
+      "PrecinctsReporting": 12,
+      "PrecinctsParticipating": 12,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ralph S. Northam",
+          "BallotOrder": 1,
+          "Votes": 3616,
+          "Percentage": "35.65%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward W. \"Ed\" Gillespie",
+          "BallotOrder": 2,
+          "Votes": 6431,
+          "Percentage": "63.40%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Clifford D. Hyra",
+          "BallotOrder": 3,
+          "Votes": 83,
+          "Percentage": "0.82%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 14,
+          "Percentage": "0.14%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Lieutenant Governor",
+      "PrecinctsReporting": 12,
+      "PrecinctsParticipating": 12,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Justin E. Fairfax",
+          "BallotOrder": 1,
+          "Votes": 3126,
+          "Percentage": "32.15%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jill H. Vogel",
+          "BallotOrder": 2,
+          "Votes": 6583,
+          "Percentage": "67.71%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 14,
+          "Percentage": "0.14%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Attorney General",
+      "PrecinctsReporting": 12,
+      "PrecinctsParticipating": 12,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark R. Herring",
+          "BallotOrder": 1,
+          "Votes": 3232,
+          "Percentage": "33.29%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John D. Adams",
+          "BallotOrder": 2,
+          "Votes": 6462,
+          "Percentage": "66.56%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 14,
+          "Percentage": "0.14%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (023)",
+      "PrecinctsReporting": 5,
+      "PrecinctsParticipating": 5,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Natalie A. Short",
+          "BallotOrder": 1,
+          "Votes": 1108,
+          "Percentage": "38.35%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "T. Scott Garrett",
+          "BallotOrder": 2,
+          "Votes": 1773,
+          "Percentage": "61.37%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 8,
+          "Percentage": "0.28%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (024)",
+      "PrecinctsReporting": 10,
+      "PrecinctsParticipating": 10,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ben L. Cline",
+          "BallotOrder": 1,
+          "Votes": 5040,
+          "Percentage": "77.72%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "John C. Winfrey",
+          "BallotOrder": 2,
+          "Votes": 1411,
+          "Percentage": "21.76%",
+          "PoliticalParty": "Independent"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 34,
+          "Percentage": "0.52%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Treasurer (AMHERST COUNTY)",
+      "PrecinctsReporting": 12,
+      "PrecinctsParticipating": 12,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Joanne Adams Carden",
+          "BallotOrder": 1,
+          "Votes": 8036,
+          "Percentage": "98.70%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 106,
+          "Percentage": "1.30%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (DISTRICT 2)",
+      "PrecinctsReporting": 3,
+      "PrecinctsParticipating": 3,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Claudia Duck Tucker",
+          "BallotOrder": 1,
+          "Votes": 1685,
+          "Percentage": "96.62%",
+          "PoliticalParty": "Independent"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 59,
+          "Percentage": "3.38%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (DISTRICT 5)",
+      "PrecinctsReporting": 2,
+      "PrecinctsParticipating": 2,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Jennifer R. Moore",
+          "BallotOrder": 1,
+          "Votes": 1235,
+          "Percentage": "97.94%",
+          "PoliticalParty": "Independent"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 26,
+          "Percentage": "2.06%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member, School Board, At Large (AMHERST COUNTY)",
+      "PrecinctsReporting": 12,
+      "PrecinctsParticipating": 12,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Abby J. Thompson",
+          "BallotOrder": 1,
+          "Votes": 3442,
+          "Percentage": "46.10%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Marlena A. Hankton",
+          "BallotOrder": 2,
+          "Votes": 1480,
+          "Percentage": "19.82%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Gracie A. Johnson",
+          "BallotOrder": 3,
+          "Votes": 2253,
+          "Percentage": "30.18%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 291,
+          "Percentage": "3.90%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member, School Board (DISTRICT 2)",
+      "PrecinctsReporting": 3,
+      "PrecinctsParticipating": 3,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Jennifer E. Cumby",
+          "BallotOrder": 1,
+          "Votes": 1496,
+          "Percentage": "98.03%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 30,
+          "Percentage": "1.97%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member, School Board (DISTRICT 5)",
+      "PrecinctsReporting": 2,
+      "PrecinctsParticipating": 2,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "David S. Cassise",
+          "BallotOrder": 1,
+          "Votes": 90,
+          "Percentage": "33.33%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 180,
+          "Percentage": "66.67%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Town Council - Amherst - Special (AMHERST)",
+      "PrecinctsReporting": 2,
+      "PrecinctsParticipating": 2,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Kenneth G. Bunch",
+          "BallotOrder": 1,
+          "Votes": 525,
+          "Percentage": "96.86%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 17,
+          "Percentage": "3.14%",
+          "PoliticalParty": ""
+        }
+      ]
+    }
+  ]
+}

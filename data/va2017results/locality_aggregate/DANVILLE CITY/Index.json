@@ -1,0 +1,215 @@
+{
+  "ElectionName": "2017 November General",
+  "ElectionDate": "2017-11-07T00:00:00",
+  "CreateDate": "2017-11-13T19:06:12.6567632-05:00",
+  "Locality": {
+    "LocalityName": "DANVILLE CITY",
+    "LocalityCode": "590"
+  },
+  "Races": [
+    {
+      "RaceName": "Governor",
+      "PrecinctsReporting": 17,
+      "PrecinctsParticipating": 17,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ralph S. Northam",
+          "BallotOrder": 1,
+          "Votes": 6304,
+          "Percentage": "57.17%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward W. \"Ed\" Gillespie",
+          "BallotOrder": 2,
+          "Votes": 4664,
+          "Percentage": "42.30%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Clifford D. Hyra",
+          "BallotOrder": 3,
+          "Votes": 53,
+          "Percentage": "0.48%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 6,
+          "Percentage": "0.05%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Lieutenant Governor",
+      "PrecinctsReporting": 17,
+      "PrecinctsParticipating": 17,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Justin E. Fairfax",
+          "BallotOrder": 1,
+          "Votes": 6095,
+          "Percentage": "55.87%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jill H. Vogel",
+          "BallotOrder": 2,
+          "Votes": 4808,
+          "Percentage": "44.07%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 7,
+          "Percentage": "0.06%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Attorney General",
+      "PrecinctsReporting": 17,
+      "PrecinctsParticipating": 17,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark R. Herring",
+          "BallotOrder": 1,
+          "Votes": 6208,
+          "Percentage": "56.94%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John D. Adams",
+          "BallotOrder": 2,
+          "Votes": 4685,
+          "Percentage": "42.97%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 10,
+          "Percentage": "0.09%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (014)",
+      "PrecinctsReporting": 17,
+      "PrecinctsParticipating": 17,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "D. W. \"Danny\" Marshall III",
+          "BallotOrder": 1,
+          "Votes": 6842,
+          "Percentage": "96.54%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 245,
+          "Percentage": "3.46%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Commonwealth's Attorney (DANVILLE CITY)",
+      "PrecinctsReporting": 17,
+      "PrecinctsParticipating": 17,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Michael J. \"Mike\" Newman",
+          "BallotOrder": 1,
+          "Votes": 7362,
+          "Percentage": "98.75%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 93,
+          "Percentage": "1.25%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Sheriff (DANVILLE CITY)",
+      "PrecinctsReporting": 17,
+      "PrecinctsParticipating": 17,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Michael S. \"Mike\" Mondul",
+          "BallotOrder": 1,
+          "Votes": 8218,
+          "Percentage": "99.10%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 75,
+          "Percentage": "0.90%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Commissioner of Revenue (DANVILLE CITY)",
+      "PrecinctsReporting": 17,
+      "PrecinctsParticipating": 17,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "James M. \"Jimmy\" Gillie",
+          "BallotOrder": 1,
+          "Votes": 7201,
+          "Percentage": "99.12%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 64,
+          "Percentage": "0.88%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Treasurer (DANVILLE CITY)",
+      "PrecinctsReporting": 17,
+      "PrecinctsParticipating": 17,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Sheila A. Williamson-Branch",
+          "BallotOrder": 1,
+          "Votes": 7880,
+          "Percentage": "99.26%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 59,
+          "Percentage": "0.74%",
+          "PoliticalParty": ""
+        }
+      ]
+    }
+  ]
+}

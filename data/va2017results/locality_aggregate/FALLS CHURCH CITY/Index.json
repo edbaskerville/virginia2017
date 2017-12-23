@@ -1,0 +1,336 @@
+{
+  "ElectionName": "2017 November General",
+  "ElectionDate": "2017-11-07T00:00:00",
+  "CreateDate": "2017-11-13T19:06:12.8307806-05:00",
+  "Locality": {
+    "LocalityName": "FALLS CHURCH CITY",
+    "LocalityCode": "610"
+  },
+  "Races": [
+    {
+      "RaceName": "Governor",
+      "PrecinctsReporting": 4,
+      "PrecinctsParticipating": 4,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ralph S. Northam",
+          "BallotOrder": 1,
+          "Votes": 4781,
+          "Percentage": "78.97%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward W. \"Ed\" Gillespie",
+          "BallotOrder": 2,
+          "Votes": 1195,
+          "Percentage": "19.74%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Clifford D. Hyra",
+          "BallotOrder": 3,
+          "Votes": 76,
+          "Percentage": "1.26%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 2,
+          "Percentage": "0.03%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Lieutenant Governor",
+      "PrecinctsReporting": 4,
+      "PrecinctsParticipating": 4,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Justin E. Fairfax",
+          "BallotOrder": 1,
+          "Votes": 4661,
+          "Percentage": "77.70%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jill H. Vogel",
+          "BallotOrder": 2,
+          "Votes": 1333,
+          "Percentage": "22.22%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 5,
+          "Percentage": "0.08%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Attorney General",
+      "PrecinctsReporting": 4,
+      "PrecinctsParticipating": 4,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark R. Herring",
+          "BallotOrder": 1,
+          "Votes": 4653,
+          "Percentage": "77.97%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John D. Adams",
+          "BallotOrder": 2,
+          "Votes": 1307,
+          "Percentage": "21.90%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 8,
+          "Percentage": "0.13%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (053)",
+      "PrecinctsReporting": 4,
+      "PrecinctsParticipating": 4,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Marcus B. Simon",
+          "BallotOrder": 1,
+          "Votes": 4417,
+          "Percentage": "78.11%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Mike S. Casey",
+          "BallotOrder": 2,
+          "Votes": 1180,
+          "Percentage": "20.87%",
+          "PoliticalParty": "Independent"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 58,
+          "Percentage": "1.03%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Sheriff (FALLS CHURCH CITY)",
+      "PrecinctsReporting": 4,
+      "PrecinctsParticipating": 4,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "S. Stephen Bittle",
+          "BallotOrder": 1,
+          "Votes": 4495,
+          "Percentage": "93.72%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 301,
+          "Percentage": "6.28%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Commissioner of Revenue (FALLS CHURCH CITY)",
+      "PrecinctsReporting": 4,
+      "PrecinctsParticipating": 4,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Thomas D. Clinton",
+          "BallotOrder": 1,
+          "Votes": 4799,
+          "Percentage": "97.68%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 114,
+          "Percentage": "2.32%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Treasurer (FALLS CHURCH CITY)",
+      "PrecinctsReporting": 4,
+      "PrecinctsParticipating": 4,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Jody P. Acosta",
+          "BallotOrder": 1,
+          "Votes": 4815,
+          "Percentage": "98.17%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 90,
+          "Percentage": "1.83%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member City Council (FALLS CHURCH CITY)",
+      "PrecinctsReporting": 4,
+      "PrecinctsParticipating": 4,
+      "NumberOfSeats": 4,
+      "Candidates": [
+        {
+          "BallotName": "David F. Snyder",
+          "BallotOrder": 1,
+          "Votes": 3260,
+          "Percentage": "21.21%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "C. Ross Litkenhous",
+          "BallotOrder": 2,
+          "Votes": 2701,
+          "Percentage": "17.58%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Daniel X. \"Dan\" Sze",
+          "BallotOrder": 3,
+          "Votes": 2894,
+          "Percentage": "18.83%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Marybeth D. Connelly",
+          "BallotOrder": 4,
+          "Votes": 3715,
+          "Percentage": "24.17%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Spencer P. E. Parsons",
+          "BallotOrder": 5,
+          "Votes": 786,
+          "Percentage": "5.11%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Daniel K. \"Dan\" Maller",
+          "BallotOrder": 6,
+          "Votes": 1799,
+          "Percentage": "11.71%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 213,
+          "Percentage": "1.39%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (FALLS CHURCH CITY)",
+      "PrecinctsReporting": 4,
+      "PrecinctsParticipating": 4,
+      "NumberOfSeats": 4,
+      "Candidates": [
+        {
+          "BallotName": "Gregory John Anderson",
+          "BallotOrder": 1,
+          "Votes": 2678,
+          "Percentage": "16.95%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Alison B. Kutchma",
+          "BallotOrder": 2,
+          "Votes": 2524,
+          "Percentage": "15.97%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Lawrence L. Webb",
+          "BallotOrder": 3,
+          "Votes": 2720,
+          "Percentage": "17.21%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Shawna E. Russell",
+          "BallotOrder": 4,
+          "Votes": 2620,
+          "Percentage": "16.58%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Richard J. Crespin",
+          "BallotOrder": 5,
+          "Votes": 2496,
+          "Percentage": "15.79%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Shannon A. Litton",
+          "BallotOrder": 6,
+          "Votes": 2637,
+          "Percentage": "16.69%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 128,
+          "Percentage": "0.81%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "PUBLIC SCHOOL BONDS (FALLS CHURCH CITY)",
+      "PrecinctsReporting": 4,
+      "PrecinctsParticipating": 4,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Yes",
+          "BallotOrder": 1,
+          "Votes": 3600,
+          "Percentage": "63.64%",
+          "PoliticalParty": null
+        },
+        {
+          "BallotName": "No",
+          "BallotOrder": 2,
+          "Votes": 2057,
+          "Percentage": "36.36%",
+          "PoliticalParty": null
+        }
+      ]
+    }
+  ]
+}

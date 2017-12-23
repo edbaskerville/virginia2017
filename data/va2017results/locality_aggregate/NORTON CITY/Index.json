@@ -1,0 +1,200 @@
+{
+  "ElectionName": "2017 November General",
+  "ElectionDate": "2017-11-07T00:00:00",
+  "CreateDate": "2017-11-13T19:06:14.0579033-05:00",
+  "Locality": {
+    "LocalityName": "NORTON CITY",
+    "LocalityCode": "720"
+  },
+  "Races": [
+    {
+      "RaceName": "Governor",
+      "PrecinctsReporting": 1,
+      "PrecinctsParticipating": 1,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ralph S. Northam",
+          "BallotOrder": 1,
+          "Votes": 287,
+          "Percentage": "33.37%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward W. \"Ed\" Gillespie",
+          "BallotOrder": 2,
+          "Votes": 561,
+          "Percentage": "65.23%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Clifford D. Hyra",
+          "BallotOrder": 3,
+          "Votes": 11,
+          "Percentage": "1.28%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 1,
+          "Percentage": "0.12%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Lieutenant Governor",
+      "PrecinctsReporting": 1,
+      "PrecinctsParticipating": 1,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Justin E. Fairfax",
+          "BallotOrder": 1,
+          "Votes": 310,
+          "Percentage": "36.60%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jill H. Vogel",
+          "BallotOrder": 2,
+          "Votes": 536,
+          "Percentage": "63.28%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 1,
+          "Percentage": "0.12%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Attorney General",
+      "PrecinctsReporting": 1,
+      "PrecinctsParticipating": 1,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark R. Herring",
+          "BallotOrder": 1,
+          "Votes": 281,
+          "Percentage": "33.10%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John D. Adams",
+          "BallotOrder": 2,
+          "Votes": 567,
+          "Percentage": "66.78%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 1,
+          "Percentage": "0.12%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (001)",
+      "PrecinctsReporting": 1,
+      "PrecinctsParticipating": 1,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Alicia D. Kallen",
+          "BallotOrder": 1,
+          "Votes": 295,
+          "Percentage": "34.50%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Terry G. Kilgore",
+          "BallotOrder": 2,
+          "Votes": 558,
+          "Percentage": "65.26%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 2,
+          "Percentage": "0.23%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Sheriff (NORTON CITY)",
+      "PrecinctsReporting": 1,
+      "PrecinctsParticipating": 1,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Carlos J. Noaks",
+          "BallotOrder": 1,
+          "Votes": 803,
+          "Percentage": "98.77%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 10,
+          "Percentage": "1.23%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Commissioner of Revenue (NORTON CITY)",
+      "PrecinctsReporting": 1,
+      "PrecinctsParticipating": 1,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Judy K. Miller",
+          "BallotOrder": 1,
+          "Votes": 787,
+          "Percentage": "98.50%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 12,
+          "Percentage": "1.50%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Treasurer (NORTON CITY)",
+      "PrecinctsReporting": 1,
+      "PrecinctsParticipating": 1,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Barbara A. Muir",
+          "BallotOrder": 1,
+          "Votes": 780,
+          "Percentage": "98.73%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 10,
+          "Percentage": "1.27%",
+          "PoliticalParty": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,381 @@
+{
+  "ElectionName": "2017 November General",
+  "ElectionDate": "2017-11-07T00:00:00",
+  "CreateDate": "2017-11-13T19:06:12.4797455-05:00",
+  "Locality": {
+    "LocalityName": "CHESTERFIELD COUNTY",
+    "LocalityCode": "041"
+  },
+  "Races": [
+    {
+      "RaceName": "Governor",
+      "PrecinctsReporting": 76,
+      "PrecinctsParticipating": 76,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ralph S. Northam",
+          "BallotOrder": 1,
+          "Votes": 58991,
+          "Percentage": "49.71%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward W. \"Ed\" Gillespie",
+          "BallotOrder": 2,
+          "Votes": 58297,
+          "Percentage": "49.13%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Clifford D. Hyra",
+          "BallotOrder": 3,
+          "Votes": 1323,
+          "Percentage": "1.11%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 52,
+          "Percentage": "0.04%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Lieutenant Governor",
+      "PrecinctsReporting": 76,
+      "PrecinctsParticipating": 76,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Justin E. Fairfax",
+          "BallotOrder": 1,
+          "Votes": 57845,
+          "Percentage": "48.89%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jill H. Vogel",
+          "BallotOrder": 2,
+          "Votes": 60386,
+          "Percentage": "51.03%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 92,
+          "Percentage": "0.08%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Attorney General",
+      "PrecinctsReporting": 76,
+      "PrecinctsParticipating": 76,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark R. Herring",
+          "BallotOrder": 1,
+          "Votes": 57559,
+          "Percentage": "48.67%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John D. Adams",
+          "BallotOrder": 2,
+          "Votes": 60616,
+          "Percentage": "51.25%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 90,
+          "Percentage": "0.08%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (027)",
+      "PrecinctsReporting": 22,
+      "PrecinctsParticipating": 22,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Larry V. Barnett",
+          "BallotOrder": 1,
+          "Votes": 14333,
+          "Percentage": "49.72%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Roxann L. Robinson",
+          "BallotOrder": 2,
+          "Votes": 14461,
+          "Percentage": "50.16%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 35,
+          "Percentage": "0.12%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (062)",
+      "PrecinctsReporting": 12,
+      "PrecinctsParticipating": 12,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Sheila Bynum-Coleman",
+          "BallotOrder": 1,
+          "Votes": 8291,
+          "Percentage": "52.25%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Riley Edward Ingram",
+          "BallotOrder": 2,
+          "Votes": 7552,
+          "Percentage": "47.59%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 25,
+          "Percentage": "0.16%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (063)",
+      "PrecinctsReporting": 3,
+      "PrecinctsParticipating": 3,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Lashrecse D. Aird",
+          "BallotOrder": 1,
+          "Votes": 2719,
+          "Percentage": "95.00%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 143,
+          "Percentage": "5.00%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (065)",
+      "PrecinctsReporting": 11,
+      "PrecinctsParticipating": 11,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Francis M. Stevens",
+          "BallotOrder": 1,
+          "Votes": 7076,
+          "Percentage": "41.21%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "R. Lee Ware, Jr.",
+          "BallotOrder": 2,
+          "Votes": 10077,
+          "Percentage": "58.69%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 18,
+          "Percentage": "0.10%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (066)",
+      "PrecinctsReporting": 14,
+      "PrecinctsParticipating": 14,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Katie A. Sponsler",
+          "BallotOrder": 1,
+          "Votes": 9472,
+          "Percentage": "39.23%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "M. Kirkland \"Kirk\" Cox",
+          "BallotOrder": 2,
+          "Votes": 14642,
+          "Percentage": "60.64%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 31,
+          "Percentage": "0.13%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (068)",
+      "PrecinctsReporting": 11,
+      "PrecinctsParticipating": 11,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Dawn M. Adams",
+          "BallotOrder": 1,
+          "Votes": 8239,
+          "Percentage": "44.12%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "G. M. \"Manoli\" Loupassi",
+          "BallotOrder": 2,
+          "Votes": 10423,
+          "Percentage": "55.81%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 13,
+          "Percentage": "0.07%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (069)",
+      "PrecinctsReporting": 2,
+      "PrecinctsParticipating": 2,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Betsy B. Carr",
+          "BallotOrder": 1,
+          "Votes": 1049,
+          "Percentage": "85.08%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jacob A. \"Jake\" Crocker",
+          "BallotOrder": 2,
+          "Votes": 137,
+          "Percentage": "11.11%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Montigue T. Magruder",
+          "BallotOrder": 3,
+          "Votes": 44,
+          "Percentage": "3.57%",
+          "PoliticalParty": "Green"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 3,
+          "Percentage": "0.24%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (070)",
+      "PrecinctsReporting": 8,
+      "PrecinctsParticipating": 8,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Delores L. McQuinn",
+          "BallotOrder": 1,
+          "Votes": 6706,
+          "Percentage": "96.64%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 233,
+          "Percentage": "3.36%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Commissioner of Revenue (CHESTERFIELD COUNTY)",
+      "PrecinctsReporting": 76,
+      "PrecinctsParticipating": 76,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Jenefer S. Hughes",
+          "BallotOrder": 1,
+          "Votes": 59991,
+          "Percentage": "55.41%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Timothy M. McPeters",
+          "BallotOrder": 2,
+          "Votes": 47666,
+          "Percentage": "44.02%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 620,
+          "Percentage": "0.57%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Treasurer (CHESTERFIELD COUNTY)",
+      "PrecinctsReporting": 76,
+      "PrecinctsParticipating": 76,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Carey A. Adams",
+          "BallotOrder": 1,
+          "Votes": 95492,
+          "Percentage": "96.20%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 3774,
+          "Percentage": "3.80%",
+          "PoliticalParty": ""
+        }
+      ]
+    }
+  ]
+}

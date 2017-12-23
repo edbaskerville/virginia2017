@@ -1,0 +1,222 @@
+{
+  "ElectionName": "2017 November General",
+  "ElectionDate": "2017-11-07T00:00:00",
+  "CreateDate": "2017-11-13T19:06:12.5817557-05:00",
+  "Locality": {
+    "LocalityName": "CRAIG COUNTY",
+    "LocalityCode": "045"
+  },
+  "Races": [
+    {
+      "RaceName": "Governor",
+      "PrecinctsReporting": 8,
+      "PrecinctsParticipating": 8,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ralph S. Northam",
+          "BallotOrder": 1,
+          "Votes": 413,
+          "Percentage": "22.43%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward W. \"Ed\" Gillespie",
+          "BallotOrder": 2,
+          "Votes": 1398,
+          "Percentage": "75.94%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Clifford D. Hyra",
+          "BallotOrder": 3,
+          "Votes": 28,
+          "Percentage": "1.52%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 2,
+          "Percentage": "0.11%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Lieutenant Governor",
+      "PrecinctsReporting": 8,
+      "PrecinctsParticipating": 8,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Justin E. Fairfax",
+          "BallotOrder": 1,
+          "Votes": 390,
+          "Percentage": "21.32%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jill H. Vogel",
+          "BallotOrder": 2,
+          "Votes": 1438,
+          "Percentage": "78.62%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 1,
+          "Percentage": "0.05%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Attorney General",
+      "PrecinctsReporting": 8,
+      "PrecinctsParticipating": 8,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark R. Herring",
+          "BallotOrder": 1,
+          "Votes": 430,
+          "Percentage": "23.48%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John D. Adams",
+          "BallotOrder": 2,
+          "Votes": 1401,
+          "Percentage": "76.52%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 0,
+          "Percentage": "0.00%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (008)",
+      "PrecinctsReporting": 8,
+      "PrecinctsParticipating": 8,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Steve G. McBride ",
+          "BallotOrder": 1,
+          "Votes": 432,
+          "Percentage": "23.78%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Gregory D. Habeeb",
+          "BallotOrder": 2,
+          "Votes": 1382,
+          "Percentage": "76.06%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 3,
+          "Percentage": "0.17%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (NEW CASTLE DISTRICT)",
+      "PrecinctsReporting": 1,
+      "PrecinctsParticipating": 1,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Jesse P. Spence",
+          "BallotOrder": 1,
+          "Votes": 257,
+          "Percentage": "96.62%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 9,
+          "Percentage": "3.38%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (SIMMONSVILLE DISTRICT)",
+      "PrecinctsReporting": 2,
+      "PrecinctsParticipating": 2,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Kathi A. Toelke",
+          "BallotOrder": 1,
+          "Votes": 170,
+          "Percentage": "91.40%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 16,
+          "Percentage": "8.60%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (NEW CASTLE DISTRICT)",
+      "PrecinctsReporting": 1,
+      "PrecinctsParticipating": 1,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "George C. Foster",
+          "BallotOrder": 1,
+          "Votes": 253,
+          "Percentage": "99.61%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 1,
+          "Percentage": "0.39%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (SIMMONSVILLE DISTRICT)",
+      "PrecinctsReporting": 2,
+      "PrecinctsParticipating": 2,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Gina M. Smith",
+          "BallotOrder": 1,
+          "Votes": 335,
+          "Percentage": "96.26%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 13,
+          "Percentage": "3.74%",
+          "PoliticalParty": ""
+        }
+      ]
+    }
+  ]
+}

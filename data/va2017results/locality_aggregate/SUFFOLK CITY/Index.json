@@ -1,0 +1,302 @@
+{
+  "ElectionName": "2017 November General",
+  "ElectionDate": "2017-11-07T00:00:00",
+  "CreateDate": "2017-11-13T19:06:14.9399915-05:00",
+  "Locality": {
+    "LocalityName": "SUFFOLK CITY",
+    "LocalityCode": "800"
+  },
+  "Races": [
+    {
+      "RaceName": "Governor",
+      "PrecinctsReporting": 28,
+      "PrecinctsParticipating": 28,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ralph S. Northam",
+          "BallotOrder": 1,
+          "Votes": 16621,
+          "Percentage": "58.25%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward W. \"Ed\" Gillespie",
+          "BallotOrder": 2,
+          "Votes": 11623,
+          "Percentage": "40.74%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Clifford D. Hyra",
+          "BallotOrder": 3,
+          "Votes": 278,
+          "Percentage": "0.97%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 10,
+          "Percentage": "0.04%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Lieutenant Governor",
+      "PrecinctsReporting": 28,
+      "PrecinctsParticipating": 28,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Justin E. Fairfax",
+          "BallotOrder": 1,
+          "Votes": 16071,
+          "Percentage": "56.62%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jill H. Vogel",
+          "BallotOrder": 2,
+          "Votes": 12294,
+          "Percentage": "43.32%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 17,
+          "Percentage": "0.06%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Attorney General",
+      "PrecinctsReporting": 28,
+      "PrecinctsParticipating": 28,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark R. Herring",
+          "BallotOrder": 1,
+          "Votes": 16344,
+          "Percentage": "57.65%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John D. Adams",
+          "BallotOrder": 2,
+          "Votes": 11988,
+          "Percentage": "42.29%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 16,
+          "Percentage": "0.06%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (064)",
+      "PrecinctsReporting": 4,
+      "PrecinctsParticipating": 4,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Rebecca S. Colaw",
+          "BallotOrder": 1,
+          "Votes": 853,
+          "Percentage": "34.63%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Emily M. Brewer",
+          "BallotOrder": 2,
+          "Votes": 1610,
+          "Percentage": "65.37%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 0,
+          "Percentage": "0.00%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (076)",
+      "PrecinctsReporting": 17,
+      "PrecinctsParticipating": 17,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "S. Chris Jones",
+          "BallotOrder": 1,
+          "Votes": 13572,
+          "Percentage": "94.64%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 768,
+          "Percentage": "5.36%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (077)",
+      "PrecinctsReporting": 8,
+      "PrecinctsParticipating": 8,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "C. E. \"Cliff\" Hayes, Jr.",
+          "BallotOrder": 1,
+          "Votes": 3408,
+          "Percentage": "90.11%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jeff B. Staples",
+          "BallotOrder": 2,
+          "Votes": 363,
+          "Percentage": "9.60%",
+          "PoliticalParty": "Green"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 11,
+          "Percentage": "0.29%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (080)",
+      "PrecinctsReporting": 6,
+      "PrecinctsParticipating": 6,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Matthew James",
+          "BallotOrder": 1,
+          "Votes": 3584,
+          "Percentage": "97.26%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 101,
+          "Percentage": "2.74%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Commonwealth's Attorney (SUFFOLK CITY)",
+      "PrecinctsReporting": 28,
+      "PrecinctsParticipating": 28,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "C. Phillips \"Phil\" Ferguson",
+          "BallotOrder": 1,
+          "Votes": 23365,
+          "Percentage": "98.11%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 450,
+          "Percentage": "1.89%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Sheriff (SUFFOLK CITY)",
+      "PrecinctsReporting": 28,
+      "PrecinctsParticipating": 28,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "E. C. Harris",
+          "BallotOrder": 1,
+          "Votes": 23112,
+          "Percentage": "98.43%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 368,
+          "Percentage": "1.57%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Commissioner of Revenue (SUFFOLK CITY)",
+      "PrecinctsReporting": 28,
+      "PrecinctsParticipating": 28,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Susan L. Draper",
+          "BallotOrder": 1,
+          "Votes": 17935,
+          "Percentage": "66.64%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Lue R. Ward Jr.",
+          "BallotOrder": 2,
+          "Votes": 8885,
+          "Percentage": "33.01%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 93,
+          "Percentage": "0.35%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Treasurer (SUFFOLK CITY)",
+      "PrecinctsReporting": 28,
+      "PrecinctsParticipating": 28,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ronald H. Williams",
+          "BallotOrder": 1,
+          "Votes": 24502,
+          "Percentage": "98.75%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 310,
+          "Percentage": "1.25%",
+          "PoliticalParty": ""
+        }
+      ]
+    }
+  ]
+}

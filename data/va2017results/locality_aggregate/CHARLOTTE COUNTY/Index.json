@@ -1,0 +1,352 @@
+{
+  "ElectionName": "2017 November General",
+  "ElectionDate": "2017-11-07T00:00:00",
+  "CreateDate": "2017-11-13T19:06:12.4017377-05:00",
+  "Locality": {
+    "LocalityName": "CHARLOTTE COUNTY",
+    "LocalityCode": "037"
+  },
+  "Races": [
+    {
+      "RaceName": "Governor",
+      "PrecinctsReporting": 8,
+      "PrecinctsParticipating": 8,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ralph S. Northam",
+          "BallotOrder": 1,
+          "Votes": 1419,
+          "Percentage": "35.35%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward W. \"Ed\" Gillespie",
+          "BallotOrder": 2,
+          "Votes": 2559,
+          "Percentage": "63.75%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Clifford D. Hyra",
+          "BallotOrder": 3,
+          "Votes": 31,
+          "Percentage": "0.77%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 5,
+          "Percentage": "0.12%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Lieutenant Governor",
+      "PrecinctsReporting": 8,
+      "PrecinctsParticipating": 8,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Justin E. Fairfax",
+          "BallotOrder": 1,
+          "Votes": 1393,
+          "Percentage": "34.98%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jill H. Vogel",
+          "BallotOrder": 2,
+          "Votes": 2582,
+          "Percentage": "64.84%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 7,
+          "Percentage": "0.18%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Attorney General",
+      "PrecinctsReporting": 8,
+      "PrecinctsParticipating": 8,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark R. Herring",
+          "BallotOrder": 1,
+          "Votes": 1416,
+          "Percentage": "35.51%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John D. Adams",
+          "BallotOrder": 2,
+          "Votes": 2565,
+          "Percentage": "64.32%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 7,
+          "Percentage": "0.18%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (060)",
+      "PrecinctsReporting": 8,
+      "PrecinctsParticipating": 8,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Jamaal M. Johnston",
+          "BallotOrder": 1,
+          "Votes": 1332,
+          "Percentage": "33.77%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "James E. Edmunds II",
+          "BallotOrder": 2,
+          "Votes": 2607,
+          "Percentage": "66.10%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 5,
+          "Percentage": "0.13%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (ASPEN-PHENIX DISTRICT)",
+      "PrecinctsReporting": 2,
+      "PrecinctsParticipating": 2,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Donna L. Fore",
+          "BallotOrder": 1,
+          "Votes": 253,
+          "Percentage": "51.01%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Haywood J. Hamlet",
+          "BallotOrder": 2,
+          "Votes": 226,
+          "Percentage": "45.56%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 17,
+          "Percentage": "3.43%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (KEYSVILLE DISTRICT)",
+      "PrecinctsReporting": 2,
+      "PrecinctsParticipating": 2,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "R. L. \"Butch\" Shook, Jr.",
+          "BallotOrder": 1,
+          "Votes": 544,
+          "Percentage": "98.37%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 9,
+          "Percentage": "1.63%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (WYLLIESBURG-RED OAK DISTRICT)",
+      "PrecinctsReporting": 2,
+      "PrecinctsParticipating": 2,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Warren E. Weston",
+          "BallotOrder": 1,
+          "Votes": 214,
+          "Percentage": "35.37%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Kay Morgan Pierantoni",
+          "BallotOrder": 2,
+          "Votes": 391,
+          "Percentage": "64.63%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 0,
+          "Percentage": "0.00%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (ASPEN-PHENIX DISTRICT)",
+      "PrecinctsReporting": 2,
+      "PrecinctsParticipating": 2,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Kenneth W. Redmond",
+          "BallotOrder": 1,
+          "Votes": 310,
+          "Percentage": "47.55%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Robert M. \"Bobby\" Johnson",
+          "BallotOrder": 2,
+          "Votes": 330,
+          "Percentage": "50.61%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 12,
+          "Percentage": "1.84%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (KEYSVILLE DISTRICT)",
+      "PrecinctsReporting": 2,
+      "PrecinctsParticipating": 2,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Kenneth G. Howard",
+          "BallotOrder": 1,
+          "Votes": 275,
+          "Percentage": "45.83%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "R. B. \"Jay\" George III",
+          "BallotOrder": 2,
+          "Votes": 325,
+          "Percentage": "54.17%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 0,
+          "Percentage": "0.00%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (WYLLIESBURG-RED OAK DISTRICT)",
+      "PrecinctsReporting": 2,
+      "PrecinctsParticipating": 2,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Teresa T. Dunaway",
+          "BallotOrder": 1,
+          "Votes": 334,
+          "Percentage": "56.32%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Matthew W. Duffer",
+          "BallotOrder": 2,
+          "Votes": 256,
+          "Percentage": "43.17%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 3,
+          "Percentage": "0.51%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Town Council - Special (DRAKES BRANCH)",
+      "PrecinctsReporting": 2,
+      "PrecinctsParticipating": 2,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "James K. Gregory",
+          "BallotOrder": 1,
+          "Votes": 106,
+          "Percentage": "64.24%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Clarence A. Hamlett",
+          "BallotOrder": 2,
+          "Votes": 56,
+          "Percentage": "33.94%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 3,
+          "Percentage": "1.82%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Town Council - Special (KEYSVILLE)",
+      "PrecinctsReporting": 2,
+      "PrecinctsParticipating": 2,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Scotty R. Jackson",
+          "BallotOrder": 1,
+          "Votes": 165,
+          "Percentage": "97.63%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 4,
+          "Percentage": "2.37%",
+          "PoliticalParty": ""
+        }
+      ]
+    }
+  ]
+}

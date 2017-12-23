@@ -1,0 +1,272 @@
+{
+  "ElectionName": "2017 November General",
+  "ElectionDate": "2017-11-07T00:00:00",
+  "CreateDate": "2017-11-13T19:06:13.3798355-05:00",
+  "Locality": {
+    "LocalityName": "HOPEWELL CITY",
+    "LocalityCode": "670"
+  },
+  "Races": [
+    {
+      "RaceName": "Governor",
+      "PrecinctsReporting": 8,
+      "PrecinctsParticipating": 8,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ralph S. Northam",
+          "BallotOrder": 1,
+          "Votes": 2728,
+          "Percentage": "50.00%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward W. \"Ed\" Gillespie",
+          "BallotOrder": 2,
+          "Votes": 2641,
+          "Percentage": "48.41%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Clifford D. Hyra",
+          "BallotOrder": 3,
+          "Votes": 81,
+          "Percentage": "1.48%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 6,
+          "Percentage": "0.11%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Lieutenant Governor",
+      "PrecinctsReporting": 8,
+      "PrecinctsParticipating": 8,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Justin E. Fairfax",
+          "BallotOrder": 1,
+          "Votes": 2645,
+          "Percentage": "48.83%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jill H. Vogel",
+          "BallotOrder": 2,
+          "Votes": 2766,
+          "Percentage": "51.06%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 6,
+          "Percentage": "0.11%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Attorney General",
+      "PrecinctsReporting": 8,
+      "PrecinctsParticipating": 8,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark R. Herring",
+          "BallotOrder": 1,
+          "Votes": 2682,
+          "Percentage": "49.52%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John D. Adams",
+          "BallotOrder": 2,
+          "Votes": 2721,
+          "Percentage": "50.24%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 13,
+          "Percentage": "0.24%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (062)",
+      "PrecinctsReporting": 6,
+      "PrecinctsParticipating": 6,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Sheila Bynum-Coleman",
+          "BallotOrder": 1,
+          "Votes": 1535,
+          "Percentage": "36.59%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Riley Edward Ingram",
+          "BallotOrder": 2,
+          "Votes": 2653,
+          "Percentage": "63.24%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 7,
+          "Percentage": "0.17%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (063)",
+      "PrecinctsReporting": 4,
+      "PrecinctsParticipating": 4,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Lashrecse D. Aird",
+          "BallotOrder": 1,
+          "Votes": 1057,
+          "Percentage": "97.24%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 30,
+          "Percentage": "2.76%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Commonwealth's Attorney (HOPEWELL CITY)",
+      "PrecinctsReporting": 8,
+      "PrecinctsParticipating": 8,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Richard K. \"Rick\" Newman",
+          "BallotOrder": 1,
+          "Votes": 4403,
+          "Percentage": "97.56%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 110,
+          "Percentage": "2.44%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Sheriff (HOPEWELL CITY)",
+      "PrecinctsReporting": 8,
+      "PrecinctsParticipating": 8,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "John Henry Holloway, Sr.",
+          "BallotOrder": 1,
+          "Votes": 779,
+          "Percentage": "14.64%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Kevin D. Johnson ",
+          "BallotOrder": 2,
+          "Votes": 1123,
+          "Percentage": "21.11%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Steve M. Kephart, Jr.",
+          "BallotOrder": 3,
+          "Votes": 1767,
+          "Percentage": "33.21%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Travis L. Stanley",
+          "BallotOrder": 4,
+          "Votes": 1639,
+          "Percentage": "30.81%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 12,
+          "Percentage": "0.23%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Commissioner of Revenue (HOPEWELL CITY)",
+      "PrecinctsReporting": 8,
+      "PrecinctsParticipating": 8,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Debra Kloske Reason",
+          "BallotOrder": 1,
+          "Votes": 4681,
+          "Percentage": "98.80%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 57,
+          "Percentage": "1.20%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Treasurer (HOPEWELL CITY)",
+      "PrecinctsReporting": 8,
+      "PrecinctsParticipating": 8,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "LaTonya M. Felton",
+          "BallotOrder": 1,
+          "Votes": 2013,
+          "Percentage": "39.36%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Joan E. Gosier",
+          "BallotOrder": 2,
+          "Votes": 3079,
+          "Percentage": "60.21%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 22,
+          "Percentage": "0.43%",
+          "PoliticalParty": ""
+        }
+      ]
+    }
+  ]
+}

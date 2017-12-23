@@ -1,0 +1,367 @@
+{
+  "ElectionName": "2017 November General",
+  "ElectionDate": "2017-11-07T00:00:00",
+  "CreateDate": "2017-11-13T19:06:12.9817957-05:00",
+  "Locality": {
+    "LocalityName": "FREDERICK COUNTY",
+    "LocalityCode": "069"
+  },
+  "Races": [
+    {
+      "RaceName": "Governor",
+      "PrecinctsReporting": 22,
+      "PrecinctsParticipating": 22,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ralph S. Northam",
+          "BallotOrder": 1,
+          "Votes": 8363,
+          "Percentage": "34.39%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward W. \"Ed\" Gillespie",
+          "BallotOrder": 2,
+          "Votes": 15656,
+          "Percentage": "64.39%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Clifford D. Hyra",
+          "BallotOrder": 3,
+          "Votes": 278,
+          "Percentage": "1.14%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 18,
+          "Percentage": "0.07%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Lieutenant Governor",
+      "PrecinctsReporting": 22,
+      "PrecinctsParticipating": 22,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Justin E. Fairfax",
+          "BallotOrder": 1,
+          "Votes": 7794,
+          "Percentage": "32.15%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jill H. Vogel",
+          "BallotOrder": 2,
+          "Votes": 16430,
+          "Percentage": "67.77%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 21,
+          "Percentage": "0.09%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Attorney General",
+      "PrecinctsReporting": 22,
+      "PrecinctsParticipating": 22,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark R. Herring",
+          "BallotOrder": 1,
+          "Votes": 8374,
+          "Percentage": "34.57%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John D. Adams",
+          "BallotOrder": 2,
+          "Votes": 15830,
+          "Percentage": "65.36%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 17,
+          "Percentage": "0.07%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (010)",
+      "PrecinctsReporting": 5,
+      "PrecinctsParticipating": 5,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Wendy W. Gooditis",
+          "BallotOrder": 1,
+          "Votes": 1472,
+          "Percentage": "35.75%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "J. Randall Minchew",
+          "BallotOrder": 2,
+          "Votes": 2641,
+          "Percentage": "64.15%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 4,
+          "Percentage": "0.10%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (029)",
+      "PrecinctsReporting": 13,
+      "PrecinctsParticipating": 13,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Casey S. Turben",
+          "BallotOrder": 1,
+          "Votes": 4317,
+          "Percentage": "29.83%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Christopher E. Collins",
+          "BallotOrder": 2,
+          "Votes": 10121,
+          "Percentage": "69.94%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 33,
+          "Percentage": "0.23%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (033)",
+      "PrecinctsReporting": 6,
+      "PrecinctsParticipating": 6,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Tia L. Walbridge",
+          "BallotOrder": 1,
+          "Votes": 2091,
+          "Percentage": "37.89%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Dave A. LaRock",
+          "BallotOrder": 2,
+          "Votes": 3414,
+          "Percentage": "61.87%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 13,
+          "Percentage": "0.24%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (GAINESBORO DISTRICT)",
+      "PrecinctsReporting": 5,
+      "PrecinctsParticipating": 5,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "J. Douglas McCarthy",
+          "BallotOrder": 1,
+          "Votes": 3580,
+          "Percentage": "96.89%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 115,
+          "Percentage": "3.11%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (RED BUD DISTRICT)",
+      "PrecinctsReporting": 4,
+      "PrecinctsParticipating": 4,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Blaine P. Dunn",
+          "BallotOrder": 1,
+          "Votes": 2356,
+          "Percentage": "78.51%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 645,
+          "Percentage": "21.49%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (SHAWNEE DISTRICT)",
+      "PrecinctsReporting": 5,
+      "PrecinctsParticipating": 5,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Kevin J. Callanan",
+          "BallotOrder": 1,
+          "Votes": 1370,
+          "Percentage": "36.64%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Shannon G. Trout",
+          "BallotOrder": 2,
+          "Votes": 2351,
+          "Percentage": "62.88%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 18,
+          "Percentage": "0.48%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (STONEWALL DISTRICT)",
+      "PrecinctsReporting": 4,
+      "PrecinctsParticipating": 4,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Judith McCann-Slaughter",
+          "BallotOrder": 1,
+          "Votes": 2886,
+          "Percentage": "97.04%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 88,
+          "Percentage": "2.96%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (RED BUD DISTRICT)",
+      "PrecinctsReporting": 4,
+      "PrecinctsParticipating": 4,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Linda L. Fenner",
+          "BallotOrder": 1,
+          "Votes": 1628,
+          "Percentage": "49.54%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Shontya C. Washington",
+          "BallotOrder": 2,
+          "Votes": 1635,
+          "Percentage": "49.76%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 23,
+          "Percentage": "0.70%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (SHAWNEE DISTRICT)",
+      "PrecinctsReporting": 5,
+      "PrecinctsParticipating": 5,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Jay W. Foreman",
+          "BallotOrder": 1,
+          "Votes": 2067,
+          "Percentage": "55.02%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "D. B. \"Dody\" Stottlemyer",
+          "BallotOrder": 2,
+          "Votes": 1675,
+          "Percentage": "44.58%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 15,
+          "Percentage": "0.40%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (STONEWALL DISTRICT)",
+      "PrecinctsReporting": 4,
+      "PrecinctsParticipating": 4,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Frank E. Wright",
+          "BallotOrder": 1,
+          "Votes": 2856,
+          "Percentage": "97.74%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 66,
+          "Percentage": "2.26%",
+          "PoliticalParty": ""
+        }
+      ]
+    }
+  ]
+}

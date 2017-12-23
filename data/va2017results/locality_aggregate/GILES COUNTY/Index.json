@@ -1,0 +1,516 @@
+{
+  "ElectionName": "2017 November General",
+  "ElectionDate": "2017-11-07T00:00:00",
+  "CreateDate": "2017-11-13T19:06:13.0568032-05:00",
+  "Locality": {
+    "LocalityName": "GILES COUNTY",
+    "LocalityCode": "071"
+  },
+  "Races": [
+    {
+      "RaceName": "Governor",
+      "PrecinctsReporting": 10,
+      "PrecinctsParticipating": 10,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ralph S. Northam",
+          "BallotOrder": 1,
+          "Votes": 1604,
+          "Percentage": "27.49%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward W. \"Ed\" Gillespie",
+          "BallotOrder": 2,
+          "Votes": 4161,
+          "Percentage": "71.32%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Clifford D. Hyra",
+          "BallotOrder": 3,
+          "Votes": 66,
+          "Percentage": "1.13%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 3,
+          "Percentage": "0.05%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Lieutenant Governor",
+      "PrecinctsReporting": 10,
+      "PrecinctsParticipating": 10,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Justin E. Fairfax",
+          "BallotOrder": 1,
+          "Votes": 1499,
+          "Percentage": "26.11%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jill H. Vogel",
+          "BallotOrder": 2,
+          "Votes": 4237,
+          "Percentage": "73.80%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 5,
+          "Percentage": "0.09%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Attorney General",
+      "PrecinctsReporting": 10,
+      "PrecinctsParticipating": 10,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark R. Herring",
+          "BallotOrder": 1,
+          "Votes": 1648,
+          "Percentage": "28.68%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John D. Adams",
+          "BallotOrder": 2,
+          "Votes": 4097,
+          "Percentage": "71.29%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 2,
+          "Percentage": "0.03%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (012)",
+      "PrecinctsReporting": 10,
+      "PrecinctsParticipating": 10,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Chris L. Hurst",
+          "BallotOrder": 1,
+          "Votes": 1588,
+          "Percentage": "27.22%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Joseph R. Yost",
+          "BallotOrder": 2,
+          "Votes": 4241,
+          "Percentage": "72.69%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 5,
+          "Percentage": "0.09%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors - At Large (GILES COUNTY)",
+      "PrecinctsReporting": 10,
+      "PrecinctsParticipating": 10,
+      "NumberOfSeats": 2,
+      "Candidates": [
+        {
+          "BallotName": "Paul W. \"Chappy\" Baker",
+          "BallotOrder": 1,
+          "Votes": 3155,
+          "Percentage": "37.02%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Gabe A. Caldwell",
+          "BallotOrder": 2,
+          "Votes": 1517,
+          "Percentage": "17.80%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "A. Cheryl Hobbs",
+          "BallotOrder": 3,
+          "Votes": 1729,
+          "Percentage": "20.29%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Richard K. \"Ricky\" McCoy",
+          "BallotOrder": 4,
+          "Votes": 2076,
+          "Percentage": "24.36%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 46,
+          "Percentage": "0.54%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (WESTERN DISTRICT)",
+      "PrecinctsReporting": 4,
+      "PrecinctsParticipating": 4,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Anne C. Chambers",
+          "BallotOrder": 1,
+          "Votes": 736,
+          "Percentage": "48.23%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "John C. Lawson, Jr.",
+          "BallotOrder": 2,
+          "Votes": 782,
+          "Percentage": "51.25%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 8,
+          "Percentage": "0.52%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board - At Large (GILES COUNTY)",
+      "PrecinctsReporting": 10,
+      "PrecinctsParticipating": 10,
+      "NumberOfSeats": 2,
+      "Candidates": [
+        {
+          "BallotName": "Melissa R. Guynn",
+          "BallotOrder": 1,
+          "Votes": 2549,
+          "Percentage": "29.55%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Andrew K. Metro, Jr.",
+          "BallotOrder": 2,
+          "Votes": 1340,
+          "Percentage": "15.53%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Phillip A. Pennington",
+          "BallotOrder": 3,
+          "Votes": 1816,
+          "Percentage": "21.05%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Bryan C. Pruett",
+          "BallotOrder": 4,
+          "Votes": 1448,
+          "Percentage": "16.78%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Brad B. Whitehead",
+          "BallotOrder": 5,
+          "Votes": 1435,
+          "Percentage": "16.63%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 39,
+          "Percentage": "0.45%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Mayor (PEARISBURG)",
+      "PrecinctsReporting": 2,
+      "PrecinctsParticipating": 2,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Robert L. Dickerson",
+          "BallotOrder": 1,
+          "Votes": 809,
+          "Percentage": "98.18%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 15,
+          "Percentage": "1.82%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Mayor (PEMBROKE)",
+      "PrecinctsReporting": 2,
+      "PrecinctsParticipating": 2,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "James D. \"Dusty\" Stump",
+          "BallotOrder": 1,
+          "Votes": 288,
+          "Percentage": "94.74%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 16,
+          "Percentage": "5.26%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Mayor (RICH CREEK)",
+      "PrecinctsReporting": 2,
+      "PrecinctsParticipating": 2,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "William C. Kantsios",
+          "BallotOrder": 1,
+          "Votes": 166,
+          "Percentage": "95.95%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 7,
+          "Percentage": "4.05%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Town Council - Special (NARROWS)",
+      "PrecinctsReporting": 2,
+      "PrecinctsParticipating": 2,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "W. W. \"George\" Conley",
+          "BallotOrder": 1,
+          "Votes": 134,
+          "Percentage": "21.68%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "James Everett Ellis, Jr.",
+          "BallotOrder": 2,
+          "Votes": 110,
+          "Percentage": "17.80%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Sarah Comfort Thwaites",
+          "BallotOrder": 3,
+          "Votes": 217,
+          "Percentage": "35.11%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Jeffrey A. Turner",
+          "BallotOrder": 4,
+          "Votes": 153,
+          "Percentage": "24.76%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 4,
+          "Percentage": "0.65%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Town Council - Special (PEARISBURG)",
+      "PrecinctsReporting": 1,
+      "PrecinctsParticipating": 2,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Jason S. Ballard",
+          "BallotOrder": 1,
+          "Votes": 715,
+          "Percentage": "99.58%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 3,
+          "Percentage": "0.42%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Town Council (PEARISBURG)",
+      "PrecinctsReporting": 2,
+      "PrecinctsParticipating": 2,
+      "NumberOfSeats": 3,
+      "Candidates": [
+        {
+          "BallotName": "Cathy M. Clark",
+          "BallotOrder": 1,
+          "Votes": 512,
+          "Percentage": "29.17%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Kristi D. Eaton",
+          "BallotOrder": 2,
+          "Votes": 600,
+          "Percentage": "34.19%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Mary D. \"Susie\" Journell",
+          "BallotOrder": 3,
+          "Votes": 629,
+          "Percentage": "35.84%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 14,
+          "Percentage": "0.80%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Town Council (PEMBROKE)",
+      "PrecinctsReporting": 1,
+      "PrecinctsParticipating": 2,
+      "NumberOfSeats": 5,
+      "Candidates": [
+        {
+          "BallotName": "Gerald L. Eaton",
+          "BallotOrder": 1,
+          "Votes": 206,
+          "Percentage": "21.78%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Robert A. Lawson",
+          "BallotOrder": 2,
+          "Votes": 173,
+          "Percentage": "18.29%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Dana D. \"Ace\" Munsey",
+          "BallotOrder": 3,
+          "Votes": 188,
+          "Percentage": "19.87%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Donald G. Poteet II",
+          "BallotOrder": 4,
+          "Votes": 179,
+          "Percentage": "18.92%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Betty Anne Spears",
+          "BallotOrder": 5,
+          "Votes": 196,
+          "Percentage": "20.72%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 4,
+          "Percentage": "0.42%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Town Council (RICH CREEK)",
+      "PrecinctsReporting": 2,
+      "PrecinctsParticipating": 2,
+      "NumberOfSeats": 2,
+      "Candidates": [
+        {
+          "BallotName": "Mark E. Clemons",
+          "BallotOrder": 1,
+          "Votes": 96,
+          "Percentage": "30.28%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Joyce A. Crawford",
+          "BallotOrder": 2,
+          "Votes": 41,
+          "Percentage": "12.93%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "M. Darlene French",
+          "BallotOrder": 3,
+          "Votes": 65,
+          "Percentage": "20.50%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Marty A. Gautier",
+          "BallotOrder": 4,
+          "Votes": 83,
+          "Percentage": "26.18%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 32,
+          "Percentage": "10.09%",
+          "PoliticalParty": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "ElectionName": "2017 November General",
+  "ElectionDate": "2017-11-07T00:00:00",
+  "CreateDate": "2017-11-13T19:06:14.5099485-05:00",
+  "Locality": {
+    "LocalityName": "ROANOKE CITY",
+    "LocalityCode": "770"
+  },
+  "Races": [
+    {
+      "RaceName": "Governor",
+      "PrecinctsReporting": 22,
+      "PrecinctsParticipating": 22,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ralph S. Northam",
+          "BallotOrder": 1,
+          "Votes": 15099,
+          "Percentage": "62.02%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward W. \"Ed\" Gillespie",
+          "BallotOrder": 2,
+          "Votes": 8890,
+          "Percentage": "36.52%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Clifford D. Hyra",
+          "BallotOrder": 3,
+          "Votes": 337,
+          "Percentage": "1.38%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 18,
+          "Percentage": "0.07%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Lieutenant Governor",
+      "PrecinctsReporting": 22,
+      "PrecinctsParticipating": 22,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Justin E. Fairfax",
+          "BallotOrder": 1,
+          "Votes": 14494,
+          "Percentage": "60.11%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jill H. Vogel",
+          "BallotOrder": 2,
+          "Votes": 9591,
+          "Percentage": "39.77%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 29,
+          "Percentage": "0.12%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Attorney General",
+      "PrecinctsReporting": 22,
+      "PrecinctsParticipating": 22,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark R. Herring",
+          "BallotOrder": 1,
+          "Votes": 14934,
+          "Percentage": "61.91%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John D. Adams",
+          "BallotOrder": 2,
+          "Votes": 9169,
+          "Percentage": "38.01%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 18,
+          "Percentage": "0.07%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (011)",
+      "PrecinctsReporting": 21,
+      "PrecinctsParticipating": 21,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "S. \"Sam\" Rasoul",
+          "BallotOrder": 1,
+          "Votes": 15667,
+          "Percentage": "96.93%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 496,
+          "Percentage": "3.07%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (017)",
+      "PrecinctsReporting": 10,
+      "PrecinctsParticipating": 11,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Djuna L. Osborne",
+          "BallotOrder": 1,
+          "Votes": 2316,
+          "Percentage": "47.75%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Christopher T. Head",
+          "BallotOrder": 2,
+          "Votes": 2529,
+          "Percentage": "52.14%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 5,
+          "Percentage": "0.10%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Commonwealth's Attorney (ROANOKE CITY)",
+      "PrecinctsReporting": 22,
+      "PrecinctsParticipating": 22,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Melvin L. Hill",
+          "BallotOrder": 1,
+          "Votes": 9967,
+          "Percentage": "45.65%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Donald S. Caldwell",
+          "BallotOrder": 2,
+          "Votes": 11746,
+          "Percentage": "53.80%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 119,
+          "Percentage": "0.55%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Sheriff (ROANOKE CITY)",
+      "PrecinctsReporting": 22,
+      "PrecinctsParticipating": 22,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Tim A. Allen",
+          "BallotOrder": 1,
+          "Votes": 14065,
+          "Percentage": "62.00%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "McLaren G. \"Mac\" Westland",
+          "BallotOrder": 2,
+          "Votes": 6819,
+          "Percentage": "30.06%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "William R. Billingsley",
+          "BallotOrder": 3,
+          "Votes": 1733,
+          "Percentage": "7.64%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 68,
+          "Percentage": "0.30%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Commissioner of Revenue (ROANOKE CITY)",
+      "PrecinctsReporting": 22,
+      "PrecinctsParticipating": 22,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Sherman A. Holland",
+          "BallotOrder": 1,
+          "Votes": 19744,
+          "Percentage": "98.70%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 260,
+          "Percentage": "1.30%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Treasurer (ROANOKE CITY)",
+      "PrecinctsReporting": 22,
+      "PrecinctsParticipating": 22,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Evelyn W. Powers",
+          "BallotOrder": 1,
+          "Votes": 20155,
+          "Percentage": "98.74%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 258,
+          "Percentage": "1.26%",
+          "PoliticalParty": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,381 @@
+{
+  "ElectionName": "2017 November General",
+  "ElectionDate": "2017-11-07T00:00:00",
+  "CreateDate": "2017-11-13T19:06:11.8756851-05:00",
+  "Locality": {
+    "LocalityName": "ALBEMARLE COUNTY",
+    "LocalityCode": "003"
+  },
+  "Races": [
+    {
+      "RaceName": "Governor",
+      "PrecinctsReporting": 29,
+      "PrecinctsParticipating": 29,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ralph S. Northam",
+          "BallotOrder": 1,
+          "Votes": 26969,
+          "Percentage": "63.74%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward W. \"Ed\" Gillespie",
+          "BallotOrder": 2,
+          "Votes": 14857,
+          "Percentage": "35.12%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Clifford D. Hyra",
+          "BallotOrder": 3,
+          "Votes": 458,
+          "Percentage": "1.08%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 24,
+          "Percentage": "0.06%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Lieutenant Governor",
+      "PrecinctsReporting": 29,
+      "PrecinctsParticipating": 29,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Justin E. Fairfax",
+          "BallotOrder": 1,
+          "Votes": 26386,
+          "Percentage": "62.77%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jill H. Vogel",
+          "BallotOrder": 2,
+          "Votes": 15620,
+          "Percentage": "37.16%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 27,
+          "Percentage": "0.06%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Attorney General",
+      "PrecinctsReporting": 29,
+      "PrecinctsParticipating": 29,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark R. Herring",
+          "BallotOrder": 1,
+          "Votes": 26594,
+          "Percentage": "63.23%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John D. Adams",
+          "BallotOrder": 2,
+          "Votes": 15439,
+          "Percentage": "36.71%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 26,
+          "Percentage": "0.06%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (025)",
+      "PrecinctsReporting": 8,
+      "PrecinctsParticipating": 8,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Angela M. Lynn",
+          "BallotOrder": 1,
+          "Votes": 6804,
+          "Percentage": "60.96%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "R. Steven \"Steve\" Landes",
+          "BallotOrder": 2,
+          "Votes": 4349,
+          "Percentage": "38.97%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 8,
+          "Percentage": "0.07%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (057)",
+      "PrecinctsReporting": 9,
+      "PrecinctsParticipating": 9,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "David J. Toscano",
+          "BallotOrder": 1,
+          "Votes": 10986,
+          "Percentage": "95.62%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 503,
+          "Percentage": "4.38%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (058)",
+      "PrecinctsReporting": 12,
+      "PrecinctsParticipating": 12,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Kellen J. Squire",
+          "BallotOrder": 1,
+          "Votes": 6307,
+          "Percentage": "46.94%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Robert B. Bell III",
+          "BallotOrder": 2,
+          "Votes": 7118,
+          "Percentage": "52.98%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 11,
+          "Percentage": "0.08%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (059)",
+      "PrecinctsReporting": 4,
+      "PrecinctsParticipating": 4,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Tracy L. Carver",
+          "BallotOrder": 1,
+          "Votes": 2505,
+          "Percentage": "63.87%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "C. Matthew Fariss",
+          "BallotOrder": 2,
+          "Votes": 1254,
+          "Percentage": "31.97%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Marcus T. Sutphin",
+          "BallotOrder": 3,
+          "Votes": 40,
+          "Percentage": "1.02%",
+          "PoliticalParty": "Green"
+        },
+        {
+          "BallotName": "David Wade Ball",
+          "BallotOrder": 4,
+          "Votes": 119,
+          "Percentage": "3.03%",
+          "PoliticalParty": "Independent"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 4,
+          "Percentage": "0.10%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (JACK JOUETT DISTRICT)",
+      "PrecinctsReporting": 5,
+      "PrecinctsParticipating": 5,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Diantha H. McKeel",
+          "BallotOrder": 1,
+          "Votes": 4257,
+          "Percentage": "97.24%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 121,
+          "Percentage": "2.76%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (RIO DISTRICT)",
+      "PrecinctsReporting": 6,
+      "PrecinctsParticipating": 6,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ned L. Gallaway",
+          "BallotOrder": 1,
+          "Votes": 5307,
+          "Percentage": "95.79%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 233,
+          "Percentage": "4.21%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (SAMUEL MILLER DISTRICT)",
+      "PrecinctsReporting": 7,
+      "PrecinctsParticipating": 7,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Liz A. Palmer",
+          "BallotOrder": 1,
+          "Votes": 4925,
+          "Percentage": "67.90%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "John C. Lowry",
+          "BallotOrder": 2,
+          "Votes": 2314,
+          "Percentage": "31.90%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 14,
+          "Percentage": "0.19%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (JACK JOUETT DISTRICT)",
+      "PrecinctsReporting": 5,
+      "PrecinctsParticipating": 5,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Kate L. Acuff",
+          "BallotOrder": 1,
+          "Votes": 4133,
+          "Percentage": "97.98%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 85,
+          "Percentage": "2.02%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (RIO DISTRICT)",
+      "PrecinctsReporting": 6,
+      "PrecinctsParticipating": 6,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Katrina E. Callsen",
+          "BallotOrder": 1,
+          "Votes": 4019,
+          "Percentage": "63.21%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Mary G. McIntyre",
+          "BallotOrder": 2,
+          "Votes": 2285,
+          "Percentage": "35.94%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 54,
+          "Percentage": "0.85%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (SAMUEL MILLER DISTRICT)",
+      "PrecinctsReporting": 7,
+      "PrecinctsParticipating": 7,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Graham T. Paige",
+          "BallotOrder": 1,
+          "Votes": 4249,
+          "Percentage": "65.24%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Julian D. Waters",
+          "BallotOrder": 2,
+          "Votes": 2224,
+          "Percentage": "34.15%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 40,
+          "Percentage": "0.61%",
+          "PoliticalParty": ""
+        }
+      ]
+    }
+  ]
+}

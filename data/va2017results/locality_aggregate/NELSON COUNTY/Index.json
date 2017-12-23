@@ -1,0 +1,344 @@
+{
+  "ElectionName": "2017 November General",
+  "ElectionDate": "2017-11-07T00:00:00",
+  "CreateDate": "2017-11-13T19:06:13.9058881-05:00",
+  "Locality": {
+    "LocalityName": "NELSON COUNTY",
+    "LocalityCode": "125"
+  },
+  "Races": [
+    {
+      "RaceName": "Governor",
+      "PrecinctsReporting": 10,
+      "PrecinctsParticipating": 10,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ralph S. Northam",
+          "BallotOrder": 1,
+          "Votes": 3014,
+          "Percentage": "48.83%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward W. \"Ed\" Gillespie",
+          "BallotOrder": 2,
+          "Votes": 3019,
+          "Percentage": "48.91%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Clifford D. Hyra",
+          "BallotOrder": 3,
+          "Votes": 130,
+          "Percentage": "2.11%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 9,
+          "Percentage": "0.15%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Lieutenant Governor",
+      "PrecinctsReporting": 10,
+      "PrecinctsParticipating": 10,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Justin E. Fairfax",
+          "BallotOrder": 1,
+          "Votes": 2955,
+          "Percentage": "48.32%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jill H. Vogel",
+          "BallotOrder": 2,
+          "Votes": 3156,
+          "Percentage": "51.61%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 4,
+          "Percentage": "0.07%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Attorney General",
+      "PrecinctsReporting": 10,
+      "PrecinctsParticipating": 10,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark R. Herring",
+          "BallotOrder": 1,
+          "Votes": 3022,
+          "Percentage": "49.47%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John D. Adams",
+          "BallotOrder": 2,
+          "Votes": 3080,
+          "Percentage": "50.42%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 7,
+          "Percentage": "0.11%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (020)",
+      "PrecinctsReporting": 5,
+      "PrecinctsParticipating": 5,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Michele Dixon Edwards",
+          "BallotOrder": 1,
+          "Votes": 1772,
+          "Percentage": "48.95%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Richard P. \"Dickie\" Bell",
+          "BallotOrder": 2,
+          "Votes": 1758,
+          "Percentage": "48.56%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "William M. \"Will\" Hammer",
+          "BallotOrder": 3,
+          "Votes": 88,
+          "Percentage": "2.43%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 2,
+          "Percentage": "0.06%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (059)",
+      "PrecinctsReporting": 6,
+      "PrecinctsParticipating": 6,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Tracy L. Carver",
+          "BallotOrder": 1,
+          "Votes": 1171,
+          "Percentage": "47.12%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "C. Matthew Fariss",
+          "BallotOrder": 2,
+          "Votes": 1176,
+          "Percentage": "47.32%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Marcus T. Sutphin",
+          "BallotOrder": 3,
+          "Votes": 35,
+          "Percentage": "1.41%",
+          "PoliticalParty": "Green"
+        },
+        {
+          "BallotName": "David Wade Ball",
+          "BallotOrder": 4,
+          "Votes": 101,
+          "Percentage": "4.06%",
+          "PoliticalParty": "Independent"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 2,
+          "Percentage": "0.08%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (CENTRAL)",
+      "PrecinctsReporting": 3,
+      "PrecinctsParticipating": 3,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "David S. Francis",
+          "BallotOrder": 1,
+          "Votes": 1273,
+          "Percentage": "96.66%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 44,
+          "Percentage": "3.34%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (EAST DISTRICT)",
+      "PrecinctsReporting": 3,
+      "PrecinctsParticipating": 3,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Deborah R. Harvey",
+          "BallotOrder": 1,
+          "Votes": 132,
+          "Percentage": "46.32%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 153,
+          "Percentage": "53.68%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (NORTH DISTRICT)",
+      "PrecinctsReporting": 2,
+      "PrecinctsParticipating": 2,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Janet M. Turner-Giles",
+          "BallotOrder": 1,
+          "Votes": 1102,
+          "Percentage": "97.87%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 24,
+          "Percentage": "2.13%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (CENTRAL)",
+      "PrecinctsReporting": 3,
+      "PrecinctsParticipating": 3,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ernie Q. Reed, Jr.",
+          "BallotOrder": 1,
+          "Votes": 949,
+          "Percentage": "57.34%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Shelby R. Bruguiere",
+          "BallotOrder": 2,
+          "Votes": 651,
+          "Percentage": "39.34%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 55,
+          "Percentage": "3.32%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (EAST DISTRICT)",
+      "PrecinctsReporting": 3,
+      "PrecinctsParticipating": 3,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Allen M. Hale",
+          "BallotOrder": 1,
+          "Votes": 490,
+          "Percentage": "45.92%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Jesse Rutherford",
+          "BallotOrder": 2,
+          "Votes": 572,
+          "Percentage": "53.61%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 5,
+          "Percentage": "0.47%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (NORTH DISTRICT)",
+      "PrecinctsReporting": 2,
+      "PrecinctsParticipating": 2,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Justin M. Shimp",
+          "BallotOrder": 1,
+          "Votes": 422,
+          "Percentage": "31.31%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Ray H. Miles",
+          "BallotOrder": 2,
+          "Votes": 196,
+          "Percentage": "14.54%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "T. D. \"Tommy\" Harvey",
+          "BallotOrder": 3,
+          "Votes": 729,
+          "Percentage": "54.08%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 1,
+          "Percentage": "0.07%",
+          "PoliticalParty": ""
+        }
+      ]
+    }
+  ]
+}

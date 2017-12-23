@@ -1,0 +1,272 @@
+{
+  "ElectionName": "2017 November General",
+  "ElectionDate": "2017-11-07T00:00:00",
+  "CreateDate": "2017-11-13T19:06:12.0267002-05:00",
+  "Locality": {
+    "LocalityName": "ARLINGTON COUNTY",
+    "LocalityCode": "013"
+  },
+  "Races": [
+    {
+      "RaceName": "Governor",
+      "PrecinctsReporting": 55,
+      "PrecinctsParticipating": 55,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ralph S. Northam",
+          "BallotOrder": 1,
+          "Votes": 68093,
+          "Percentage": "79.91%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward W. \"Ed\" Gillespie",
+          "BallotOrder": 2,
+          "Votes": 16268,
+          "Percentage": "19.09%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Clifford D. Hyra",
+          "BallotOrder": 3,
+          "Votes": 801,
+          "Percentage": "0.94%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 52,
+          "Percentage": "0.06%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Lieutenant Governor",
+      "PrecinctsReporting": 55,
+      "PrecinctsParticipating": 55,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Justin E. Fairfax",
+          "BallotOrder": 1,
+          "Votes": 66818,
+          "Percentage": "79.05%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jill H. Vogel",
+          "BallotOrder": 2,
+          "Votes": 17615,
+          "Percentage": "20.84%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 88,
+          "Percentage": "0.10%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Attorney General",
+      "PrecinctsReporting": 55,
+      "PrecinctsParticipating": 55,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark R. Herring",
+          "BallotOrder": 1,
+          "Votes": 67190,
+          "Percentage": "79.36%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John D. Adams",
+          "BallotOrder": 2,
+          "Votes": 17383,
+          "Percentage": "20.53%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 89,
+          "Percentage": "0.11%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (045)",
+      "PrecinctsReporting": 6,
+      "PrecinctsParticipating": 6,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark H. Levine",
+          "BallotOrder": 1,
+          "Votes": 5771,
+          "Percentage": "95.74%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 257,
+          "Percentage": "4.26%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (047)",
+      "PrecinctsReporting": 25,
+      "PrecinctsParticipating": 25,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Patrick A. Hope",
+          "BallotOrder": 1,
+          "Votes": 29706,
+          "Percentage": "96.21%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 1171,
+          "Percentage": "3.79%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (048)",
+      "PrecinctsReporting": 14,
+      "PrecinctsParticipating": 14,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "R. C. \"Rip\" Sullivan, Jr.",
+          "BallotOrder": 1,
+          "Votes": 19275,
+          "Percentage": "95.51%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 907,
+          "Percentage": "4.49%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (049)",
+      "PrecinctsReporting": 14,
+      "PrecinctsParticipating": 14,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Alfonso H. Lopez",
+          "BallotOrder": 1,
+          "Votes": 15255,
+          "Percentage": "81.62%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Adam Roosevelt",
+          "BallotOrder": 2,
+          "Votes": 3395,
+          "Percentage": "18.16%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 40,
+          "Percentage": "0.21%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member County Board (ARLINGTON COUNTY)",
+      "PrecinctsReporting": 55,
+      "PrecinctsParticipating": 55,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Erik Gutshall",
+          "BallotOrder": 1,
+          "Votes": 46376,
+          "Percentage": "62.81%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Audrey R. Clement",
+          "BallotOrder": 2,
+          "Votes": 17432,
+          "Percentage": "23.61%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Charles A. McCullough II",
+          "BallotOrder": 3,
+          "Votes": 8762,
+          "Percentage": "11.87%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 1271,
+          "Percentage": "1.72%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (ARLINGTON COUNTY)",
+      "PrecinctsReporting": 55,
+      "PrecinctsParticipating": 55,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Alison Priscilla Dough",
+          "BallotOrder": 1,
+          "Votes": 7427,
+          "Percentage": "10.30%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Monique C. O'Grady",
+          "BallotOrder": 2,
+          "Votes": 50734,
+          "Percentage": "70.35%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "M. D. \"Mike\" Webb",
+          "BallotOrder": 3,
+          "Votes": 12659,
+          "Percentage": "17.55%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 1296,
+          "Percentage": "1.80%",
+          "PoliticalParty": ""
+        }
+      ]
+    }
+  ]
+}

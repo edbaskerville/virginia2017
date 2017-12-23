@@ -1,0 +1,315 @@
+{
+  "ElectionName": "2017 November General",
+  "ElectionDate": "2017-11-07T00:00:00",
+  "CreateDate": "2017-11-13T19:06:12.7527728-05:00",
+  "Locality": {
+    "LocalityName": "ESSEX COUNTY",
+    "LocalityCode": "057"
+  },
+  "Races": [
+    {
+      "RaceName": "Governor",
+      "PrecinctsReporting": 5,
+      "PrecinctsParticipating": 5,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ralph S. Northam",
+          "BallotOrder": 1,
+          "Votes": 1730,
+          "Percentage": "46.47%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward W. \"Ed\" Gillespie",
+          "BallotOrder": 2,
+          "Votes": 1963,
+          "Percentage": "52.73%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Clifford D. Hyra",
+          "BallotOrder": 3,
+          "Votes": 26,
+          "Percentage": "0.70%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 4,
+          "Percentage": "0.11%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Lieutenant Governor",
+      "PrecinctsReporting": 5,
+      "PrecinctsParticipating": 5,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Justin E. Fairfax",
+          "BallotOrder": 1,
+          "Votes": 1681,
+          "Percentage": "45.54%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jill H. Vogel",
+          "BallotOrder": 2,
+          "Votes": 2008,
+          "Percentage": "54.40%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 2,
+          "Percentage": "0.05%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Attorney General",
+      "PrecinctsReporting": 5,
+      "PrecinctsParticipating": 5,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark R. Herring",
+          "BallotOrder": 1,
+          "Votes": 1700,
+          "Percentage": "45.96%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John D. Adams",
+          "BallotOrder": 2,
+          "Votes": 1997,
+          "Percentage": "53.99%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 2,
+          "Percentage": "0.05%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (098)",
+      "PrecinctsReporting": 5,
+      "PrecinctsParticipating": 5,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Sheila Crowley",
+          "BallotOrder": 1,
+          "Votes": 1713,
+          "Percentage": "46.47%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "M. Keith Hodges",
+          "BallotOrder": 2,
+          "Votes": 1970,
+          "Percentage": "53.45%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 3,
+          "Percentage": "0.08%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors At Large (ESSEX COUNTY)",
+      "PrecinctsReporting": 5,
+      "PrecinctsParticipating": 5,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "J. Barry Bates",
+          "BallotOrder": 1,
+          "Votes": 548,
+          "Percentage": "15.21%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "John R. Clickener",
+          "BallotOrder": 2,
+          "Votes": 816,
+          "Percentage": "22.64%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Ella Harris Johnson",
+          "BallotOrder": 3,
+          "Votes": 1084,
+          "Percentage": "30.08%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Edwin E. \"Bud\" Smith, Jr.",
+          "BallotOrder": 4,
+          "Votes": 1139,
+          "Percentage": "31.60%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 17,
+          "Percentage": "0.47%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board At Large (ESSEX COUNTY)",
+      "PrecinctsReporting": 5,
+      "PrecinctsParticipating": 5,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "L. I. M. \"Corey\" Beazley",
+          "BallotOrder": 1,
+          "Votes": 1300,
+          "Percentage": "37.57%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Leah A. Segar",
+          "BallotOrder": 2,
+          "Votes": 2129,
+          "Percentage": "61.53%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 31,
+          "Percentage": "0.90%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (GREATER TAPPAHANNOCK DISTRICT)",
+      "PrecinctsReporting": 2,
+      "PrecinctsParticipating": 2,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Robert L. \"Rob\" Akers, Jr.",
+          "BallotOrder": 1,
+          "Votes": 491,
+          "Percentage": "61.61%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Jeffrey L. Howeth",
+          "BallotOrder": 2,
+          "Votes": 302,
+          "Percentage": "37.89%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 4,
+          "Percentage": "0.50%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (NORTH DISTRICT)",
+      "PrecinctsReporting": 2,
+      "PrecinctsParticipating": 2,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "W. T. \"Billy\" Healy, Jr.",
+          "BallotOrder": 1,
+          "Votes": 381,
+          "Percentage": "43.05%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Sidney N. Johnson",
+          "BallotOrder": 2,
+          "Votes": 502,
+          "Percentage": "56.72%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 2,
+          "Percentage": "0.23%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (GREATER TAPPAHANNOCK DISTRICT)",
+      "PrecinctsReporting": 2,
+      "PrecinctsParticipating": 2,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Denise M. Hammond",
+          "BallotOrder": 1,
+          "Votes": 705,
+          "Percentage": "97.51%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 18,
+          "Percentage": "2.49%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (NORTH DISTRICT)",
+      "PrecinctsReporting": 2,
+      "PrecinctsParticipating": 2,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Garlyn Rene\u00e9 Bundy",
+          "BallotOrder": 1,
+          "Votes": 513,
+          "Percentage": "60.14%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Juliana M. \"Julie\" Strock",
+          "BallotOrder": 2,
+          "Votes": 338,
+          "Percentage": "39.62%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 2,
+          "Percentage": "0.23%",
+          "PoliticalParty": ""
+        }
+      ]
+    }
+  ]
+}

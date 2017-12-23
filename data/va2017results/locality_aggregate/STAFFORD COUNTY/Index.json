@@ -1,0 +1,431 @@
+{
+  "ElectionName": "2017 November General",
+  "ElectionDate": "2017-11-07T00:00:00",
+  "CreateDate": "2017-11-13T19:06:14.8889864-05:00",
+  "Locality": {
+    "LocalityName": "STAFFORD COUNTY",
+    "LocalityCode": "179"
+  },
+  "Races": [
+    {
+      "RaceName": "Governor",
+      "PrecinctsReporting": 28,
+      "PrecinctsParticipating": 28,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ralph S. Northam",
+          "BallotOrder": 1,
+          "Votes": 18987,
+          "Percentage": "46.76%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward W. \"Ed\" Gillespie",
+          "BallotOrder": 2,
+          "Votes": 21107,
+          "Percentage": "51.98%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Clifford D. Hyra",
+          "BallotOrder": 3,
+          "Votes": 489,
+          "Percentage": "1.20%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 21,
+          "Percentage": "0.05%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Lieutenant Governor",
+      "PrecinctsReporting": 28,
+      "PrecinctsParticipating": 28,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Justin E. Fairfax",
+          "BallotOrder": 1,
+          "Votes": 18540,
+          "Percentage": "45.88%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jill H. Vogel",
+          "BallotOrder": 2,
+          "Votes": 21824,
+          "Percentage": "54.01%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 44,
+          "Percentage": "0.11%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Attorney General",
+      "PrecinctsReporting": 28,
+      "PrecinctsParticipating": 28,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark R. Herring",
+          "BallotOrder": 1,
+          "Votes": 18682,
+          "Percentage": "46.26%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John D. Adams",
+          "BallotOrder": 2,
+          "Votes": 21667,
+          "Percentage": "53.65%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 38,
+          "Percentage": "0.09%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (002)",
+      "PrecinctsReporting": 11,
+      "PrecinctsParticipating": 11,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Jennifer D. Carroll Foy",
+          "BallotOrder": 1,
+          "Votes": 4459,
+          "Percentage": "47.27%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Mike D. Makee",
+          "BallotOrder": 2,
+          "Votes": 4960,
+          "Percentage": "52.58%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 14,
+          "Percentage": "0.15%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (028)",
+      "PrecinctsReporting": 19,
+      "PrecinctsParticipating": 19,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Joshua G. Cole",
+          "BallotOrder": 1,
+          "Votes": 9699,
+          "Percentage": "46.81%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Robert M. \"Bob\" Thomas, Jr.",
+          "BallotOrder": 2,
+          "Votes": 10978,
+          "Percentage": "52.99%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 42,
+          "Percentage": "0.20%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (088)",
+      "PrecinctsReporting": 9,
+      "PrecinctsParticipating": 9,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Steve R. Aycock",
+          "BallotOrder": 1,
+          "Votes": 3872,
+          "Percentage": "38.14%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Mark L. Cole",
+          "BallotOrder": 2,
+          "Votes": 5665,
+          "Percentage": "55.80%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Gerald L. Anderson",
+          "BallotOrder": 3,
+          "Votes": 79,
+          "Percentage": "0.78%",
+          "PoliticalParty": "Green"
+        },
+        {
+          "BallotName": "Amanda M. Blalock",
+          "BallotOrder": 4,
+          "Votes": 525,
+          "Percentage": "5.17%",
+          "PoliticalParty": "Independent"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 11,
+          "Percentage": "0.11%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (AQUIA DISTRICT)",
+      "PrecinctsReporting": 5,
+      "PrecinctsParticipating": 5,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Yolanda L.M. Roussell",
+          "BallotOrder": 1,
+          "Votes": 1605,
+          "Percentage": "30.29%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Cindy Charlene Shelton",
+          "BallotOrder": 2,
+          "Votes": 2318,
+          "Percentage": "43.75%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Sharon R. Foley",
+          "BallotOrder": 3,
+          "Votes": 1264,
+          "Percentage": "23.86%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 111,
+          "Percentage": "2.10%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (FALMOUTH DISTRICT)",
+      "PrecinctsReporting": 5,
+      "PrecinctsParticipating": 5,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "C. Greg Bundrick",
+          "BallotOrder": 1,
+          "Votes": 2227,
+          "Percentage": "37.96%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "M. G. \"Meg\" Bohmke",
+          "BallotOrder": 2,
+          "Votes": 3613,
+          "Percentage": "61.58%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 27,
+          "Percentage": "0.46%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (GARRISONVILLE)",
+      "PrecinctsReporting": 4,
+      "PrecinctsParticipating": 4,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Laura A. Sellers",
+          "BallotOrder": 1,
+          "Votes": 2588,
+          "Percentage": "49.70%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "L. Mark Dudenhefer",
+          "BallotOrder": 2,
+          "Votes": 2603,
+          "Percentage": "49.99%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 16,
+          "Percentage": "0.31%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (HARTWOOD DISTRICT)",
+      "PrecinctsReporting": 5,
+      "PrecinctsParticipating": 5,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Tracey L. Bell, Jr.",
+          "BallotOrder": 1,
+          "Votes": 3118,
+          "Percentage": "46.45%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Gary F. Snellings",
+          "BallotOrder": 2,
+          "Votes": 3550,
+          "Percentage": "52.88%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 45,
+          "Percentage": "0.67%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (AQUIA DISTRICT)",
+      "PrecinctsReporting": 5,
+      "PrecinctsParticipating": 5,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Irene M. Egan",
+          "BallotOrder": 1,
+          "Votes": 4342,
+          "Percentage": "95.62%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 199,
+          "Percentage": "4.38%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (FALMOUTH DISTRICT)",
+      "PrecinctsReporting": 5,
+      "PrecinctsParticipating": 5,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Sarah D. Breedin Chase",
+          "BallotOrder": 1,
+          "Votes": 3336,
+          "Percentage": "57.72%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "C. Scott Hirons",
+          "BallotOrder": 2,
+          "Votes": 2418,
+          "Percentage": "41.83%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 26,
+          "Percentage": "0.45%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (GARRISONVILLE)",
+      "PrecinctsReporting": 4,
+      "PrecinctsParticipating": 4,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "R. Pamela Yeung",
+          "BallotOrder": 1,
+          "Votes": 3035,
+          "Percentage": "59.08%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Barton M. Randall",
+          "BallotOrder": 2,
+          "Votes": 2075,
+          "Percentage": "40.39%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 27,
+          "Percentage": "0.53%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (HARTWOOD DISTRICT)",
+      "PrecinctsReporting": 5,
+      "PrecinctsParticipating": 5,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Holly H. Hazard",
+          "BallotOrder": 1,
+          "Votes": 5551,
+          "Percentage": "96.47%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 203,
+          "Percentage": "3.53%",
+          "PoliticalParty": ""
+        }
+      ]
+    }
+  ]
+}

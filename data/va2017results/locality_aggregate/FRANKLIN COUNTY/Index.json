@@ -1,0 +1,367 @@
+{
+  "ElectionName": "2017 November General",
+  "ElectionDate": "2017-11-07T00:00:00",
+  "CreateDate": "2017-11-13T19:06:12.9557931-05:00",
+  "Locality": {
+    "LocalityName": "FRANKLIN COUNTY",
+    "LocalityCode": "067"
+  },
+  "Races": [
+    {
+      "RaceName": "Governor",
+      "PrecinctsReporting": 24,
+      "PrecinctsParticipating": 24,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ralph S. Northam",
+          "BallotOrder": 1,
+          "Votes": 5315,
+          "Percentage": "30.22%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward W. \"Ed\" Gillespie",
+          "BallotOrder": 2,
+          "Votes": 12062,
+          "Percentage": "68.58%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Clifford D. Hyra",
+          "BallotOrder": 3,
+          "Votes": 201,
+          "Percentage": "1.14%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 10,
+          "Percentage": "0.06%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Lieutenant Governor",
+      "PrecinctsReporting": 24,
+      "PrecinctsParticipating": 24,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Justin E. Fairfax",
+          "BallotOrder": 1,
+          "Votes": 4870,
+          "Percentage": "27.95%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jill H. Vogel",
+          "BallotOrder": 2,
+          "Votes": 12539,
+          "Percentage": "71.98%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 12,
+          "Percentage": "0.07%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Attorney General",
+      "PrecinctsReporting": 24,
+      "PrecinctsParticipating": 24,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark R. Herring",
+          "BallotOrder": 1,
+          "Votes": 5230,
+          "Percentage": "30.01%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John D. Adams",
+          "BallotOrder": 2,
+          "Votes": 12179,
+          "Percentage": "69.89%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 18,
+          "Percentage": "0.10%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (009)",
+      "PrecinctsReporting": 21,
+      "PrecinctsParticipating": 21,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Stephanie C. Cook ",
+          "BallotOrder": 1,
+          "Votes": 4430,
+          "Percentage": "31.04%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Charles D. Poindexter",
+          "BallotOrder": 2,
+          "Votes": 9822,
+          "Percentage": "68.82%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 21,
+          "Percentage": "0.15%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (022)",
+      "PrecinctsReporting": 6,
+      "PrecinctsParticipating": 6,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Kathy J. Byron",
+          "BallotOrder": 1,
+          "Votes": 2538,
+          "Percentage": "97.02%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 78,
+          "Percentage": "2.98%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (BOONE DISTRICT)",
+      "PrecinctsReporting": 4,
+      "PrecinctsParticipating": 4,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "R. A. \"Ronnie\" Thompson",
+          "BallotOrder": 1,
+          "Votes": 1287,
+          "Percentage": "54.53%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Ian E. Reilly",
+          "BallotOrder": 2,
+          "Votes": 1065,
+          "Percentage": "45.13%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 8,
+          "Percentage": "0.34%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (ROCKY MOUNT DISTRICT)",
+      "PrecinctsReporting": 4,
+      "PrecinctsParticipating": 4,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mike S. Carter",
+          "BallotOrder": 1,
+          "Votes": 1278,
+          "Percentage": "55.13%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Charles D. Wagner",
+          "BallotOrder": 2,
+          "Votes": 1036,
+          "Percentage": "44.69%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 4,
+          "Percentage": "0.17%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (SNOW CREEK DISTRICT)",
+      "PrecinctsReporting": 5,
+      "PrecinctsParticipating": 5,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "W. Leland Mitchell",
+          "BallotOrder": 1,
+          "Votes": 1140,
+          "Percentage": "65.18%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 609,
+          "Percentage": "34.82%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board At Large (FRANKLIN COUNTY)",
+      "PrecinctsReporting": 24,
+      "PrecinctsParticipating": 24,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Penny Edwards Blue",
+          "BallotOrder": 1,
+          "Votes": 12639,
+          "Percentage": "96.58%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 448,
+          "Percentage": "3.42%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (BOONE DISTRICT)",
+      "PrecinctsReporting": 4,
+      "PrecinctsParticipating": 4,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Donna J. Cosmato",
+          "BallotOrder": 1,
+          "Votes": 1956,
+          "Percentage": "98.44%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 31,
+          "Percentage": "1.56%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (ROCKY MOUNT DISTRICT)",
+      "PrecinctsReporting": 4,
+      "PrecinctsParticipating": 4,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "John C. Carey III",
+          "BallotOrder": 1,
+          "Votes": 148,
+          "Percentage": "6.57%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Rita F. Murphy",
+          "BallotOrder": 2,
+          "Votes": 387,
+          "Percentage": "17.18%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Sherry Q. Scott",
+          "BallotOrder": 3,
+          "Votes": 708,
+          "Percentage": "31.44%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Jeffrey T. Worley",
+          "BallotOrder": 4,
+          "Votes": 1002,
+          "Percentage": "44.49%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 7,
+          "Percentage": "0.31%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (SNOW CREEK DISTRICT)",
+      "PrecinctsReporting": 5,
+      "PrecinctsParticipating": 5,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "G. B. Washburn, Jr.",
+          "BallotOrder": 1,
+          "Votes": 1569,
+          "Percentage": "94.98%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 83,
+          "Percentage": "5.02%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Sale of Mixed Alcoholic Beverages (FRANKLIN COUNTY)",
+      "PrecinctsReporting": 2,
+      "PrecinctsParticipating": 2,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Yes",
+          "BallotOrder": 1,
+          "Votes": 69,
+          "Percentage": "75.82%",
+          "PoliticalParty": null
+        },
+        {
+          "BallotName": "No",
+          "BallotOrder": 2,
+          "Votes": 22,
+          "Percentage": "24.18%",
+          "PoliticalParty": null
+        }
+      ]
+    }
+  ]
+}

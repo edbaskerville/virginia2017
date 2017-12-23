@@ -1,0 +1,309 @@
+{
+  "ElectionName": "2017 November General",
+  "ElectionDate": "2017-11-07T00:00:00",
+  "CreateDate": "2017-11-13T19:06:14.2059181-05:00",
+  "Locality": {
+    "LocalityName": "PITTSYLVANIA COUNTY",
+    "LocalityCode": "143"
+  },
+  "Races": [
+    {
+      "RaceName": "Governor",
+      "PrecinctsReporting": 30,
+      "PrecinctsParticipating": 30,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ralph S. Northam",
+          "BallotOrder": 1,
+          "Votes": 5759,
+          "Percentage": "29.42%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward W. \"Ed\" Gillespie",
+          "BallotOrder": 2,
+          "Votes": 13700,
+          "Percentage": "70.00%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Clifford D. Hyra",
+          "BallotOrder": 3,
+          "Votes": 109,
+          "Percentage": "0.56%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 4,
+          "Percentage": "0.02%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Lieutenant Governor",
+      "PrecinctsReporting": 30,
+      "PrecinctsParticipating": 30,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Justin E. Fairfax",
+          "BallotOrder": 1,
+          "Votes": 5536,
+          "Percentage": "28.45%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jill H. Vogel",
+          "BallotOrder": 2,
+          "Votes": 13913,
+          "Percentage": "71.50%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 9,
+          "Percentage": "0.05%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Attorney General",
+      "PrecinctsReporting": 30,
+      "PrecinctsParticipating": 30,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark R. Herring",
+          "BallotOrder": 1,
+          "Votes": 5727,
+          "Percentage": "29.45%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John D. Adams",
+          "BallotOrder": 2,
+          "Votes": 13707,
+          "Percentage": "70.49%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 10,
+          "Percentage": "0.05%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (014)",
+      "PrecinctsReporting": 10,
+      "PrecinctsParticipating": 10,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "D. W. \"Danny\" Marshall III",
+          "BallotOrder": 1,
+          "Votes": 5440,
+          "Percentage": "97.09%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 163,
+          "Percentage": "2.91%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (016)",
+      "PrecinctsReporting": 24,
+      "PrecinctsParticipating": 24,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Les R. Adams",
+          "BallotOrder": 1,
+          "Votes": 9782,
+          "Percentage": "97.36%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 265,
+          "Percentage": "2.64%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (BANISTER DISTRICT)",
+      "PrecinctsReporting": 6,
+      "PrecinctsParticipating": 6,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Charles H. Miller, Jr.",
+          "BallotOrder": 1,
+          "Votes": 1765,
+          "Percentage": "98.66%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 24,
+          "Percentage": "1.34%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (CALLANDS-GRETNA DISTRICT)",
+      "PrecinctsReporting": 6,
+      "PrecinctsParticipating": 6,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ben L. Farmer",
+          "BallotOrder": 1,
+          "Votes": 1401,
+          "Percentage": "50.13%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Barbara M. Hancock",
+          "BallotOrder": 2,
+          "Votes": 1388,
+          "Percentage": "49.66%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 6,
+          "Percentage": "0.21%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (DAN RIVER DISTRICT)",
+      "PrecinctsReporting": 4,
+      "PrecinctsParticipating": 4,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Joe B. Davis",
+          "BallotOrder": 1,
+          "Votes": 2288,
+          "Percentage": "97.99%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 47,
+          "Percentage": "2.01%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (BANISTER DISTRICT)",
+      "PrecinctsReporting": 6,
+      "PrecinctsParticipating": 6,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Raymond Calvin Ramsey, Sr.",
+          "BallotOrder": 1,
+          "Votes": 1800,
+          "Percentage": "98.47%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 28,
+          "Percentage": "1.53%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (CALLANDS-GRETNA DISTRICT)",
+      "PrecinctsReporting": 6,
+      "PrecinctsParticipating": 6,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Calvin D. \"Bunky\" Doss",
+          "BallotOrder": 1,
+          "Votes": 1860,
+          "Percentage": "67.20%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Anita L. Royston",
+          "BallotOrder": 2,
+          "Votes": 905,
+          "Percentage": "32.70%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 3,
+          "Percentage": "0.11%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (DAN RIVER DISTRICT)",
+      "PrecinctsReporting": 4,
+      "PrecinctsParticipating": 4,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "W. Neal Oakes",
+          "BallotOrder": 1,
+          "Votes": 759,
+          "Percentage": "26.36%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Cassandra F. Crump",
+          "BallotOrder": 2,
+          "Votes": 1216,
+          "Percentage": "42.24%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Gayle F. Barts",
+          "BallotOrder": 3,
+          "Votes": 902,
+          "Percentage": "31.33%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 2,
+          "Percentage": "0.07%",
+          "PoliticalParty": ""
+        }
+      ]
+    }
+  ]
+}

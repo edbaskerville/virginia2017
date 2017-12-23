@@ -1,0 +1,365 @@
+{
+  "ElectionName": "2017 November General",
+  "ElectionDate": "2017-11-07T00:00:00",
+  "CreateDate": "2017-11-13T19:06:14.5599535-05:00",
+  "Locality": {
+    "LocalityName": "ROCKBRIDGE COUNTY",
+    "LocalityCode": "163"
+  },
+  "Races": [
+    {
+      "RaceName": "Governor",
+      "PrecinctsReporting": 18,
+      "PrecinctsParticipating": 18,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ralph S. Northam",
+          "BallotOrder": 1,
+          "Votes": 2974,
+          "Percentage": "37.49%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward W. \"Ed\" Gillespie",
+          "BallotOrder": 2,
+          "Votes": 4873,
+          "Percentage": "61.43%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Clifford D. Hyra",
+          "BallotOrder": 3,
+          "Votes": 77,
+          "Percentage": "0.97%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 9,
+          "Percentage": "0.11%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Lieutenant Governor",
+      "PrecinctsReporting": 18,
+      "PrecinctsParticipating": 18,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Justin E. Fairfax",
+          "BallotOrder": 1,
+          "Votes": 2771,
+          "Percentage": "35.25%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jill H. Vogel",
+          "BallotOrder": 2,
+          "Votes": 5085,
+          "Percentage": "64.68%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 6,
+          "Percentage": "0.08%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Attorney General",
+      "PrecinctsReporting": 18,
+      "PrecinctsParticipating": 18,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark R. Herring",
+          "BallotOrder": 1,
+          "Votes": 2907,
+          "Percentage": "36.99%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John D. Adams",
+          "BallotOrder": 2,
+          "Votes": 4946,
+          "Percentage": "62.93%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 6,
+          "Percentage": "0.08%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (024)",
+      "PrecinctsReporting": 18,
+      "PrecinctsParticipating": 18,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ben L. Cline",
+          "BallotOrder": 1,
+          "Votes": 5220,
+          "Percentage": "66.85%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "John C. Winfrey",
+          "BallotOrder": 2,
+          "Votes": 2558,
+          "Percentage": "32.76%",
+          "PoliticalParty": "Independent"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 31,
+          "Percentage": "0.40%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Clerk of Court (LEXINGTON CITY-ROCKBRIDGE COUNTY)",
+      "PrecinctsReporting": 18,
+      "PrecinctsParticipating": 18,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Dennis W. Ayers",
+          "BallotOrder": 1,
+          "Votes": 1611,
+          "Percentage": "21.37%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Michelle Moore Trout",
+          "BallotOrder": 2,
+          "Votes": 3819,
+          "Percentage": "50.66%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "David C. Whitesell",
+          "BallotOrder": 3,
+          "Votes": 2096,
+          "Percentage": "27.80%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 13,
+          "Percentage": "0.17%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors  (KERRS CREEK DISTRICT)",
+      "PrecinctsReporting": 4,
+      "PrecinctsParticipating": 4,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Steven D. Hart",
+          "BallotOrder": 1,
+          "Votes": 312,
+          "Percentage": "19.32%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Susan H. Lawrence",
+          "BallotOrder": 2,
+          "Votes": 533,
+          "Percentage": "33.00%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Daniel E. Lyons",
+          "BallotOrder": 3,
+          "Votes": 761,
+          "Percentage": "47.12%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 9,
+          "Percentage": "0.56%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors  (WALKERS CREEK DISTRICT)",
+      "PrecinctsReporting": 5,
+      "PrecinctsParticipating": 5,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Richard J. Kopp",
+          "BallotOrder": 1,
+          "Votes": 702,
+          "Percentage": "44.97%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Albert J. \"Jay\" Lewis II",
+          "BallotOrder": 2,
+          "Votes": 854,
+          "Percentage": "54.71%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 5,
+          "Percentage": "0.32%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board  (KERRS CREEK DISTRICT)",
+      "PrecinctsReporting": 4,
+      "PrecinctsParticipating": 4,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Heather C. Hostetter",
+          "BallotOrder": 1,
+          "Votes": 861,
+          "Percentage": "55.05%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Laurie A. Strong",
+          "BallotOrder": 2,
+          "Votes": 694,
+          "Percentage": "44.37%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 9,
+          "Percentage": "0.58%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board  (SOUTH RIVER DISTRICT)",
+      "PrecinctsReporting": 4,
+      "PrecinctsParticipating": 4,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Corey W. Berkstresser",
+          "BallotOrder": 1,
+          "Votes": 739,
+          "Percentage": "56.67%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Kevin A. Brooks",
+          "BallotOrder": 2,
+          "Votes": 558,
+          "Percentage": "42.79%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 7,
+          "Percentage": "0.54%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Mayor - Glasgow (GLASGOW)",
+      "PrecinctsReporting": 2,
+      "PrecinctsParticipating": 2,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ray \"Shorty\" Berkstresser",
+          "BallotOrder": 1,
+          "Votes": 11,
+          "Percentage": "3.90%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Ruby Ogden Clark",
+          "BallotOrder": 2,
+          "Votes": 145,
+          "Percentage": "51.42%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Lynda M. Norris Miller",
+          "BallotOrder": 3,
+          "Votes": 126,
+          "Percentage": "44.68%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 0,
+          "Percentage": "0.00%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Town Council - Glasgow (GLASGOW)",
+      "PrecinctsReporting": 2,
+      "PrecinctsParticipating": 2,
+      "NumberOfSeats": 3,
+      "Candidates": [
+        {
+          "BallotName": "Andrea R. Bradley",
+          "BallotOrder": 1,
+          "Votes": 150,
+          "Percentage": "34.88%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Monica J. Dock",
+          "BallotOrder": 2,
+          "Votes": 193,
+          "Percentage": "44.88%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Gregory J. Hartbarger",
+          "BallotOrder": 3,
+          "Votes": 0,
+          "Percentage": "0.00%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 87,
+          "Percentage": "20.23%",
+          "PoliticalParty": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "ElectionName": "2017 November General",
+  "ElectionDate": "2017-11-07T00:00:00",
+  "CreateDate": "2017-11-13T19:06:12.4277403-05:00",
+  "Locality": {
+    "LocalityName": "CHARLOTTESVILLE CITY",
+    "LocalityCode": "540"
+  },
+  "Races": [
+    {
+      "RaceName": "Governor",
+      "PrecinctsReporting": 10,
+      "PrecinctsParticipating": 10,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ralph S. Northam",
+          "BallotOrder": 1,
+          "Votes": 13943,
+          "Percentage": "84.79%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward W. \"Ed\" Gillespie",
+          "BallotOrder": 2,
+          "Votes": 2315,
+          "Percentage": "14.08%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Clifford D. Hyra",
+          "BallotOrder": 3,
+          "Votes": 172,
+          "Percentage": "1.05%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 15,
+          "Percentage": "0.09%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Lieutenant Governor",
+      "PrecinctsReporting": 10,
+      "PrecinctsParticipating": 10,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Justin E. Fairfax",
+          "BallotOrder": 1,
+          "Votes": 13687,
+          "Percentage": "84.14%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jill H. Vogel",
+          "BallotOrder": 2,
+          "Votes": 2562,
+          "Percentage": "15.75%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 18,
+          "Percentage": "0.11%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Attorney General",
+      "PrecinctsReporting": 10,
+      "PrecinctsParticipating": 10,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark R. Herring",
+          "BallotOrder": 1,
+          "Votes": 13725,
+          "Percentage": "84.50%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John D. Adams",
+          "BallotOrder": 2,
+          "Votes": 2498,
+          "Percentage": "15.38%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 20,
+          "Percentage": "0.12%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (057)",
+      "PrecinctsReporting": 10,
+      "PrecinctsParticipating": 10,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "David J. Toscano",
+          "BallotOrder": 1,
+          "Votes": 14433,
+          "Percentage": "97.88%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 313,
+          "Percentage": "2.12%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Commonwealth's Attorney (CHARLOTTESVILLE CITY)",
+      "PrecinctsReporting": 10,
+      "PrecinctsParticipating": 10,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Joseph D. Platania",
+          "BallotOrder": 1,
+          "Votes": 13131,
+          "Percentage": "98.01%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 266,
+          "Percentage": "1.99%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Sheriff (CHARLOTTESVILLE CITY)",
+      "PrecinctsReporting": 10,
+      "PrecinctsParticipating": 10,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "James E. Brown III",
+          "BallotOrder": 1,
+          "Votes": 12839,
+          "Percentage": "98.55%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 189,
+          "Percentage": "1.45%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Commissioner of Revenue (CHARLOTTESVILLE CITY)",
+      "PrecinctsReporting": 10,
+      "PrecinctsParticipating": 10,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Todd D. Divers",
+          "BallotOrder": 1,
+          "Votes": 12611,
+          "Percentage": "99.00%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 128,
+          "Percentage": "1.00%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Treasurer (CHARLOTTESVILLE CITY)",
+      "PrecinctsReporting": 10,
+      "PrecinctsParticipating": 10,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Jason A. Vandever",
+          "BallotOrder": 1,
+          "Votes": 12887,
+          "Percentage": "99.10%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 117,
+          "Percentage": "0.90%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member City Council (CHARLOTTESVILLE CITY)",
+      "PrecinctsReporting": 10,
+      "PrecinctsParticipating": 10,
+      "NumberOfSeats": 2,
+      "Candidates": [
+        {
+          "BallotName": "Heather D. Hill",
+          "BallotOrder": 1,
+          "Votes": 7771,
+          "Percentage": "28.57%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Amy J. Laufer",
+          "BallotOrder": 2,
+          "Votes": 7711,
+          "Percentage": "28.35%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "John Edward Hall",
+          "BallotOrder": 3,
+          "Votes": 600,
+          "Percentage": "2.21%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Kenneth Wayne Jackson",
+          "BallotOrder": 4,
+          "Votes": 2188,
+          "Percentage": "8.04%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Paul Edward Long",
+          "BallotOrder": 5,
+          "Votes": 805,
+          "Percentage": "2.96%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Nikuyah R. Walker",
+          "BallotOrder": 6,
+          "Votes": 7926,
+          "Percentage": "29.14%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 198,
+          "Percentage": "0.73%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (CHARLOTTESVILLE CITY)",
+      "PrecinctsReporting": 10,
+      "PrecinctsParticipating": 10,
+      "NumberOfSeats": 3,
+      "Candidates": [
+        {
+          "BallotName": "Lisa D. Larson-Torres",
+          "BallotOrder": 1,
+          "Votes": 10083,
+          "Percentage": "33.76%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Leah W. Puryear",
+          "BallotOrder": 2,
+          "Votes": 9577,
+          "Percentage": "32.06%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Juandiego R. Wade",
+          "BallotOrder": 3,
+          "Votes": 9869,
+          "Percentage": "33.04%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 340,
+          "Percentage": "1.14%",
+          "PoliticalParty": ""
+        }
+      ]
+    }
+  ]
+}

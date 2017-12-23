@@ -1,0 +1,264 @@
+{
+  "ElectionName": "2017 November General",
+  "ElectionDate": "2017-11-07T00:00:00",
+  "CreateDate": "2017-11-13T19:06:14.7379713-05:00",
+  "Locality": {
+    "LocalityName": "SALEM CITY",
+    "LocalityCode": "775"
+  },
+  "Races": [
+    {
+      "RaceName": "Governor",
+      "PrecinctsReporting": 11,
+      "PrecinctsParticipating": 11,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ralph S. Northam",
+          "BallotOrder": 1,
+          "Votes": 3134,
+          "Percentage": "38.24%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward W. \"Ed\" Gillespie",
+          "BallotOrder": 2,
+          "Votes": 4946,
+          "Percentage": "60.35%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Clifford D. Hyra",
+          "BallotOrder": 3,
+          "Votes": 113,
+          "Percentage": "1.38%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 3,
+          "Percentage": "0.04%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Lieutenant Governor",
+      "PrecinctsReporting": 11,
+      "PrecinctsParticipating": 11,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Justin E. Fairfax",
+          "BallotOrder": 1,
+          "Votes": 2856,
+          "Percentage": "35.22%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jill H. Vogel",
+          "BallotOrder": 2,
+          "Votes": 5242,
+          "Percentage": "64.64%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 11,
+          "Percentage": "0.14%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Attorney General",
+      "PrecinctsReporting": 11,
+      "PrecinctsParticipating": 11,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark R. Herring",
+          "BallotOrder": 1,
+          "Votes": 3061,
+          "Percentage": "37.67%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John D. Adams",
+          "BallotOrder": 2,
+          "Votes": 5058,
+          "Percentage": "62.25%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 6,
+          "Percentage": "0.07%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (008)",
+      "PrecinctsReporting": 11,
+      "PrecinctsParticipating": 11,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Steve G. McBride ",
+          "BallotOrder": 1,
+          "Votes": 2962,
+          "Percentage": "36.61%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Gregory D. Habeeb",
+          "BallotOrder": 2,
+          "Votes": 5105,
+          "Percentage": "63.09%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 24,
+          "Percentage": "0.30%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Commonwealth's Attorney (SALEM CITY)",
+      "PrecinctsReporting": 11,
+      "PrecinctsParticipating": 11,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Thomas E. Bowers",
+          "BallotOrder": 1,
+          "Votes": 6818,
+          "Percentage": "98.54%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 101,
+          "Percentage": "1.46%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Sheriff (SALEM CITY)",
+      "PrecinctsReporting": 11,
+      "PrecinctsParticipating": 11,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "David C. Wells",
+          "BallotOrder": 1,
+          "Votes": 1546,
+          "Percentage": "19.26%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Jacob C. Carroll",
+          "BallotOrder": 2,
+          "Votes": 554,
+          "Percentage": "6.90%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Richard A. Goodman",
+          "BallotOrder": 3,
+          "Votes": 236,
+          "Percentage": "2.94%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "April M. Staton",
+          "BallotOrder": 4,
+          "Votes": 3682,
+          "Percentage": "45.88%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Tim W. Sutphin",
+          "BallotOrder": 5,
+          "Votes": 1070,
+          "Percentage": "13.33%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Flint E. Wright",
+          "BallotOrder": 6,
+          "Votes": 920,
+          "Percentage": "11.46%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 17,
+          "Percentage": "0.21%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Commissioner of Revenue (SALEM CITY)",
+      "PrecinctsReporting": 11,
+      "PrecinctsParticipating": 11,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Linda M. Carroll",
+          "BallotOrder": 1,
+          "Votes": 6967,
+          "Percentage": "99.27%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 51,
+          "Percentage": "0.73%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Treasurer (SALEM CITY)",
+      "PrecinctsReporting": 11,
+      "PrecinctsParticipating": 11,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Danielle C. Crawford",
+          "BallotOrder": 1,
+          "Votes": 5497,
+          "Percentage": "70.17%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Shatonna R. Stores",
+          "BallotOrder": 2,
+          "Votes": 2314,
+          "Percentage": "29.54%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 23,
+          "Percentage": "0.29%",
+          "PoliticalParty": ""
+        }
+      ]
+    }
+  ]
+}

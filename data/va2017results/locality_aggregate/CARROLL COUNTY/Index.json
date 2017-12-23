@@ -1,0 +1,301 @@
+{
+  "ElectionName": "2017 November General",
+  "ElectionDate": "2017-11-07T00:00:00",
+  "CreateDate": "2017-11-13T19:06:12.3527328-05:00",
+  "Locality": {
+    "LocalityName": "CARROLL COUNTY",
+    "LocalityCode": "035"
+  },
+  "Races": [
+    {
+      "RaceName": "Governor",
+      "PrecinctsReporting": 19,
+      "PrecinctsParticipating": 19,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ralph S. Northam",
+          "BallotOrder": 1,
+          "Votes": 1836,
+          "Percentage": "22.20%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward W. \"Ed\" Gillespie",
+          "BallotOrder": 2,
+          "Votes": 6359,
+          "Percentage": "76.90%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Clifford D. Hyra",
+          "BallotOrder": 3,
+          "Votes": 74,
+          "Percentage": "0.89%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 0,
+          "Percentage": "0.00%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Lieutenant Governor",
+      "PrecinctsReporting": 19,
+      "PrecinctsParticipating": 19,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Justin E. Fairfax",
+          "BallotOrder": 1,
+          "Votes": 1759,
+          "Percentage": "21.45%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jill H. Vogel",
+          "BallotOrder": 2,
+          "Votes": 6440,
+          "Percentage": "78.52%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 3,
+          "Percentage": "0.04%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Attorney General",
+      "PrecinctsReporting": 19,
+      "PrecinctsParticipating": 19,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark R. Herring",
+          "BallotOrder": 1,
+          "Votes": 1865,
+          "Percentage": "22.70%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John D. Adams",
+          "BallotOrder": 2,
+          "Votes": 6347,
+          "Percentage": "77.24%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 5,
+          "Percentage": "0.06%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (006)",
+      "PrecinctsReporting": 19,
+      "PrecinctsParticipating": 19,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Jeffrey L. Campbell",
+          "BallotOrder": 1,
+          "Votes": 6491,
+          "Percentage": "81.55%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Kenneth D. Browning",
+          "BallotOrder": 2,
+          "Votes": 1449,
+          "Percentage": "18.20%",
+          "PoliticalParty": "Independent"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 20,
+          "Percentage": "0.25%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (FANCY GAP DISTRICT)",
+      "PrecinctsReporting": 5,
+      "PrecinctsParticipating": 5,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Phillip R. McCraw",
+          "BallotOrder": 1,
+          "Votes": 1168,
+          "Percentage": "91.46%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 109,
+          "Percentage": "8.54%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (LAUREL FORK DISTRICT)",
+      "PrecinctsReporting": 4,
+      "PrecinctsParticipating": 4,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Joe Neil Webb",
+          "BallotOrder": 1,
+          "Votes": 1543,
+          "Percentage": "98.22%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 28,
+          "Percentage": "1.78%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (PIPERS GAP DISTRICT)",
+      "PrecinctsReporting": 5,
+      "PrecinctsParticipating": 5,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Thomas W. \"Tom\" Littrell",
+          "BallotOrder": 1,
+          "Votes": 1167,
+          "Percentage": "72.67%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Phillip G. Boatman, Sr.",
+          "BallotOrder": 2,
+          "Votes": 432,
+          "Percentage": "26.90%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 7,
+          "Percentage": "0.44%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (FANCY GAP DISTRICT)",
+      "PrecinctsReporting": 5,
+      "PrecinctsParticipating": 5,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Gina S. Hall",
+          "BallotOrder": 1,
+          "Votes": 233,
+          "Percentage": "16.20%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Phillip W. Berrier",
+          "BallotOrder": 2,
+          "Votes": 498,
+          "Percentage": "34.63%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Joey D. Haynes",
+          "BallotOrder": 3,
+          "Votes": 500,
+          "Percentage": "34.77%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Patricia S. Sebens",
+          "BallotOrder": 4,
+          "Votes": 200,
+          "Percentage": "13.91%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 7,
+          "Percentage": "0.49%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (LAUREL FORK DISTRICT)",
+      "PrecinctsReporting": 4,
+      "PrecinctsParticipating": 4,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Virgil R. Hall",
+          "BallotOrder": 1,
+          "Votes": 816,
+          "Percentage": "46.92%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Sanford G. \"Sandy\" Hendrick",
+          "BallotOrder": 2,
+          "Votes": 916,
+          "Percentage": "52.67%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 7,
+          "Percentage": "0.40%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (PIPERS GAP DISTRICT)",
+      "PrecinctsReporting": 5,
+      "PrecinctsParticipating": 5,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Brian E. Spencer",
+          "BallotOrder": 1,
+          "Votes": 1387,
+          "Percentage": "97.74%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 32,
+          "Percentage": "2.26%",
+          "PoliticalParty": ""
+        }
+      ]
+    }
+  ]
+}

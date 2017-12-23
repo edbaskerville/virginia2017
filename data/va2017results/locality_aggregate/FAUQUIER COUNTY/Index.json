@@ -1,0 +1,220 @@
+{
+  "ElectionName": "2017 November General",
+  "ElectionDate": "2017-11-07T00:00:00",
+  "CreateDate": "2017-11-13T19:06:12.8567832-05:00",
+  "Locality": {
+    "LocalityName": "FAUQUIER COUNTY",
+    "LocalityCode": "061"
+  },
+  "Races": [
+    {
+      "RaceName": "Governor",
+      "PrecinctsReporting": 21,
+      "PrecinctsParticipating": 21,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ralph S. Northam",
+          "BallotOrder": 1,
+          "Votes": 9430,
+          "Percentage": "39.23%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward W. \"Ed\" Gillespie",
+          "BallotOrder": 2,
+          "Votes": 14332,
+          "Percentage": "59.62%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Clifford D. Hyra",
+          "BallotOrder": 3,
+          "Votes": 270,
+          "Percentage": "1.12%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 7,
+          "Percentage": "0.03%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Lieutenant Governor",
+      "PrecinctsReporting": 21,
+      "PrecinctsParticipating": 21,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Justin E. Fairfax",
+          "BallotOrder": 1,
+          "Votes": 8962,
+          "Percentage": "37.30%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jill H. Vogel",
+          "BallotOrder": 2,
+          "Votes": 15033,
+          "Percentage": "62.57%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 29,
+          "Percentage": "0.12%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Attorney General",
+      "PrecinctsReporting": 21,
+      "PrecinctsParticipating": 21,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark R. Herring",
+          "BallotOrder": 1,
+          "Votes": 9329,
+          "Percentage": "38.90%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John D. Adams",
+          "BallotOrder": 2,
+          "Votes": 14615,
+          "Percentage": "60.94%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 38,
+          "Percentage": "0.16%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (018)",
+      "PrecinctsReporting": 13,
+      "PrecinctsParticipating": 13,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Tristan D. Shields",
+          "BallotOrder": 1,
+          "Votes": 5442,
+          "Percentage": "36.18%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Michael J. Webert",
+          "BallotOrder": 2,
+          "Votes": 8716,
+          "Percentage": "57.95%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Wilton King",
+          "BallotOrder": 3,
+          "Votes": 867,
+          "Percentage": "5.76%",
+          "PoliticalParty": "Green"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 16,
+          "Percentage": "0.11%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (031)",
+      "PrecinctsReporting": 6,
+      "PrecinctsParticipating": 6,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Elizabeth R. Guzman",
+          "BallotOrder": 1,
+          "Votes": 1906,
+          "Percentage": "30.83%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "L. Scott Lingamfelter",
+          "BallotOrder": 2,
+          "Votes": 4168,
+          "Percentage": "67.41%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Nathan D. Larson",
+          "BallotOrder": 3,
+          "Votes": 102,
+          "Percentage": "1.65%",
+          "PoliticalParty": "Independent"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 7,
+          "Percentage": "0.11%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (088)",
+      "PrecinctsReporting": 4,
+      "PrecinctsParticipating": 4,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Steve R. Aycock",
+          "BallotOrder": 1,
+          "Votes": 756,
+          "Percentage": "27.60%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Mark L. Cole",
+          "BallotOrder": 2,
+          "Votes": 1790,
+          "Percentage": "65.35%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Gerald L. Anderson",
+          "BallotOrder": 3,
+          "Votes": 20,
+          "Percentage": "0.73%",
+          "PoliticalParty": "Green"
+        },
+        {
+          "BallotName": "Amanda M. Blalock",
+          "BallotOrder": 4,
+          "Votes": 165,
+          "Percentage": "6.02%",
+          "PoliticalParty": "Independent"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 8,
+          "Percentage": "0.29%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,272 @@
+{
+  "ElectionName": "2017 November General",
+  "ElectionDate": "2017-11-07T00:00:00",
+  "CreateDate": "2017-11-13T19:06:13.4298405-05:00",
+  "Locality": {
+    "LocalityName": "JAMES CITY COUNTY",
+    "LocalityCode": "095"
+  },
+  "Races": [
+    {
+      "RaceName": "Governor",
+      "PrecinctsReporting": 20,
+      "PrecinctsParticipating": 20,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ralph S. Northam",
+          "BallotOrder": 1,
+          "Votes": 15561,
+          "Percentage": "48.93%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward W. \"Ed\" Gillespie",
+          "BallotOrder": 2,
+          "Votes": 15937,
+          "Percentage": "50.11%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Clifford D. Hyra",
+          "BallotOrder": 3,
+          "Votes": 290,
+          "Percentage": "0.91%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 13,
+          "Percentage": "0.04%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Lieutenant Governor",
+      "PrecinctsReporting": 20,
+      "PrecinctsParticipating": 20,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Justin E. Fairfax",
+          "BallotOrder": 1,
+          "Votes": 14928,
+          "Percentage": "47.15%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jill H. Vogel",
+          "BallotOrder": 2,
+          "Votes": 16710,
+          "Percentage": "52.77%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 26,
+          "Percentage": "0.08%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Attorney General",
+      "PrecinctsReporting": 20,
+      "PrecinctsParticipating": 20,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark R. Herring",
+          "BallotOrder": 1,
+          "Votes": 14944,
+          "Percentage": "47.26%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John D. Adams",
+          "BallotOrder": 2,
+          "Votes": 16648,
+          "Percentage": "52.65%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 29,
+          "Percentage": "0.09%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (093)",
+      "PrecinctsReporting": 8,
+      "PrecinctsParticipating": 8,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Michael P. Mullin",
+          "BallotOrder": 1,
+          "Votes": 4720,
+          "Percentage": "52.10%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Heather L. Cordasco",
+          "BallotOrder": 2,
+          "Votes": 4325,
+          "Percentage": "47.74%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 15,
+          "Percentage": "0.17%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (096)",
+      "PrecinctsReporting": 13,
+      "PrecinctsParticipating": 13,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Kelly A. DeLucia",
+          "BallotOrder": 1,
+          "Votes": 9921,
+          "Percentage": "44.16%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Brenda L. Pogge",
+          "BallotOrder": 2,
+          "Votes": 12511,
+          "Percentage": "55.69%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 33,
+          "Percentage": "0.15%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (JAMESTOWN DISTRICT)",
+      "PrecinctsReporting": 5,
+      "PrecinctsParticipating": 5,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "James O. Icenhour, Jr.",
+          "BallotOrder": 1,
+          "Votes": 3811,
+          "Percentage": "60.13%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Tom M. Phillips",
+          "BallotOrder": 2,
+          "Votes": 2508,
+          "Percentage": "39.57%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 19,
+          "Percentage": "0.30%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (POWHATAN DISTRICT)",
+      "PrecinctsReporting": 5,
+      "PrecinctsParticipating": 5,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Joseph R. Swanenburg",
+          "BallotOrder": 1,
+          "Votes": 2417,
+          "Percentage": "46.08%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Michael J. Hipple, Sr.",
+          "BallotOrder": 2,
+          "Votes": 2795,
+          "Percentage": "53.29%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 33,
+          "Percentage": "0.63%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (JAMESTOWN DISTRICT)",
+      "PrecinctsReporting": 5,
+      "PrecinctsParticipating": 5,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Jim L. Kelly",
+          "BallotOrder": 1,
+          "Votes": 4034,
+          "Percentage": "67.84%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Danon C. Middleton",
+          "BallotOrder": 2,
+          "Votes": 1869,
+          "Percentage": "31.43%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 43,
+          "Percentage": "0.72%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (POWHATAN DISTRICT)",
+      "PrecinctsReporting": 5,
+      "PrecinctsParticipating": 5,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Lisa L. Ownby",
+          "BallotOrder": 1,
+          "Votes": 3631,
+          "Percentage": "76.85%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 1094,
+          "Percentage": "23.15%",
+          "PoliticalParty": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,263 @@
+{
+  "ElectionName": "2017 November General",
+  "ElectionDate": "2017-11-07T00:00:00",
+  "CreateDate": "2017-11-13T19:06:13.804878-05:00",
+  "Locality": {
+    "LocalityName": "MATHEWS COUNTY",
+    "LocalityCode": "115"
+  },
+  "Races": [
+    {
+      "RaceName": "Governor",
+      "PrecinctsReporting": 4,
+      "PrecinctsParticipating": 4,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ralph S. Northam",
+          "BallotOrder": 1,
+          "Votes": 1386,
+          "Percentage": "35.09%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward W. \"Ed\" Gillespie",
+          "BallotOrder": 2,
+          "Votes": 2531,
+          "Percentage": "64.08%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Clifford D. Hyra",
+          "BallotOrder": 3,
+          "Votes": 31,
+          "Percentage": "0.78%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 2,
+          "Percentage": "0.05%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Lieutenant Governor",
+      "PrecinctsReporting": 4,
+      "PrecinctsParticipating": 4,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Justin E. Fairfax",
+          "BallotOrder": 1,
+          "Votes": 1291,
+          "Percentage": "32.95%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jill H. Vogel",
+          "BallotOrder": 2,
+          "Votes": 2624,
+          "Percentage": "66.97%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 3,
+          "Percentage": "0.08%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Attorney General",
+      "PrecinctsReporting": 4,
+      "PrecinctsParticipating": 4,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark R. Herring",
+          "BallotOrder": 1,
+          "Votes": 1330,
+          "Percentage": "33.95%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John D. Adams",
+          "BallotOrder": 2,
+          "Votes": 2583,
+          "Percentage": "65.93%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 5,
+          "Percentage": "0.13%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (098)",
+      "PrecinctsReporting": 4,
+      "PrecinctsParticipating": 4,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Sheila Crowley",
+          "BallotOrder": 1,
+          "Votes": 1258,
+          "Percentage": "32.13%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "M. Keith Hodges",
+          "BallotOrder": 2,
+          "Votes": 2655,
+          "Percentage": "67.82%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 2,
+          "Percentage": "0.05%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors - At Large (MATHEWS COUNTY)",
+      "PrecinctsReporting": 4,
+      "PrecinctsParticipating": 4,
+      "NumberOfSeats": 2,
+      "Candidates": [
+        {
+          "BallotName": "Marion C. \"Pepper\" Love, Jr.",
+          "BallotOrder": 1,
+          "Votes": 1345,
+          "Percentage": "19.34%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Amy Lou H. \"Amy\" Dubois",
+          "BallotOrder": 2,
+          "Votes": 1291,
+          "Percentage": "18.56%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Mike S. Walls",
+          "BallotOrder": 3,
+          "Votes": 1046,
+          "Percentage": "15.04%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "O. J. Cole, Jr.",
+          "BallotOrder": 4,
+          "Votes": 999,
+          "Percentage": "14.36%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Brian N. Hopkins",
+          "BallotOrder": 5,
+          "Votes": 755,
+          "Percentage": "10.86%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Tyrone K. Hudgins",
+          "BallotOrder": 6,
+          "Votes": 933,
+          "Percentage": "13.41%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Lynn C. Jaeger",
+          "BallotOrder": 7,
+          "Votes": 564,
+          "Percentage": "8.11%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 22,
+          "Percentage": "0.32%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board - At Large (MATHEWS COUNTY)",
+      "PrecinctsReporting": 4,
+      "PrecinctsParticipating": 4,
+      "NumberOfSeats": 2,
+      "Candidates": [
+        {
+          "BallotName": "Beth S. Bond",
+          "BallotOrder": 1,
+          "Votes": 1344,
+          "Percentage": "21.72%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Bambi L. Thompson",
+          "BallotOrder": 2,
+          "Votes": 1629,
+          "Percentage": "26.33%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Linda G. Hodges",
+          "BallotOrder": 3,
+          "Votes": 1680,
+          "Percentage": "27.15%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Stephanie M. Armistead",
+          "BallotOrder": 4,
+          "Votes": 1506,
+          "Percentage": "24.34%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 28,
+          "Percentage": "0.45%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board - Special (MATHEWS COUNTY)",
+      "PrecinctsReporting": 4,
+      "PrecinctsParticipating": 4,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Melissa F. Mason",
+          "BallotOrder": 1,
+          "Votes": 2829,
+          "Percentage": "98.09%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 55,
+          "Percentage": "1.91%",
+          "PoliticalParty": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "ElectionName": "2017 November General",
+  "ElectionDate": "2017-11-07T00:00:00",
+  "CreateDate": "2017-11-13T19:06:13.9558931-05:00",
+  "Locality": {
+    "LocalityName": "NEWPORT NEWS CITY",
+    "LocalityCode": "700"
+  },
+  "Races": [
+    {
+      "RaceName": "Governor",
+      "PrecinctsReporting": 46,
+      "PrecinctsParticipating": 46,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ralph S. Northam",
+          "BallotOrder": 1,
+          "Votes": 30356,
+          "Percentage": "64.67%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward W. \"Ed\" Gillespie",
+          "BallotOrder": 2,
+          "Votes": 15978,
+          "Percentage": "34.04%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Clifford D. Hyra",
+          "BallotOrder": 3,
+          "Votes": 576,
+          "Percentage": "1.23%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 31,
+          "Percentage": "0.07%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Lieutenant Governor",
+      "PrecinctsReporting": 46,
+      "PrecinctsParticipating": 46,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Justin E. Fairfax",
+          "BallotOrder": 1,
+          "Votes": 29675,
+          "Percentage": "63.64%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jill H. Vogel",
+          "BallotOrder": 2,
+          "Votes": 16914,
+          "Percentage": "36.27%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 39,
+          "Percentage": "0.08%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Attorney General",
+      "PrecinctsReporting": 46,
+      "PrecinctsParticipating": 46,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark R. Herring",
+          "BallotOrder": 1,
+          "Votes": 29749,
+          "Percentage": "63.87%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John D. Adams",
+          "BallotOrder": 2,
+          "Votes": 16771,
+          "Percentage": "36.01%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 54,
+          "Percentage": "0.12%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (093)",
+      "PrecinctsReporting": 10,
+      "PrecinctsParticipating": 10,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Michael P. Mullin",
+          "BallotOrder": 1,
+          "Votes": 6168,
+          "Percentage": "68.23%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Heather L. Cordasco",
+          "BallotOrder": 2,
+          "Votes": 2858,
+          "Percentage": "31.62%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 14,
+          "Percentage": "0.15%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (094)",
+      "PrecinctsReporting": 24,
+      "PrecinctsParticipating": 24,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Shelly A. Simonds",
+          "BallotOrder": 1,
+          "Votes": 11584,
+          "Percentage": "48.51%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "David E. Yancey",
+          "BallotOrder": 2,
+          "Votes": 11597,
+          "Percentage": "48.57%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Michael D. Bartley",
+          "BallotOrder": 3,
+          "Votes": 675,
+          "Percentage": "2.83%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 22,
+          "Percentage": "0.09%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (095)",
+      "PrecinctsReporting": 23,
+      "PrecinctsParticipating": 23,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Marcia S. \"Cia\" Price",
+          "BallotOrder": 1,
+          "Votes": 11767,
+          "Percentage": "97.25%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 333,
+          "Percentage": "2.75%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Commonwealth's Attorney (NEWPORT NEWS CITY)",
+      "PrecinctsReporting": 46,
+      "PrecinctsParticipating": 46,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Howard E. Gwynn",
+          "BallotOrder": 1,
+          "Votes": 39587,
+          "Percentage": "98.33%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 671,
+          "Percentage": "1.67%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Sheriff (NEWPORT NEWS CITY)",
+      "PrecinctsReporting": 46,
+      "PrecinctsParticipating": 46,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Gabe A. Morgan",
+          "BallotOrder": 1,
+          "Votes": 40183,
+          "Percentage": "98.35%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 676,
+          "Percentage": "1.65%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Commissioner of Revenue (NEWPORT NEWS CITY)",
+      "PrecinctsReporting": 46,
+      "PrecinctsParticipating": 46,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Tiffany M. Boyle",
+          "BallotOrder": 1,
+          "Votes": 27670,
+          "Percentage": "63.48%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Donald W. Woodruff, Jr.",
+          "BallotOrder": 2,
+          "Votes": 15714,
+          "Percentage": "36.05%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 203,
+          "Percentage": "0.47%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Treasurer (NEWPORT NEWS CITY)",
+      "PrecinctsReporting": 46,
+      "PrecinctsParticipating": 46,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Marty G. Eubank",
+          "BallotOrder": 1,
+          "Votes": 40871,
+          "Percentage": "98.45%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 643,
+          "Percentage": "1.55%",
+          "PoliticalParty": ""
+        }
+      ]
+    }
+  ]
+}

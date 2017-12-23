@@ -1,0 +1,2739 @@
+{
+  "ElectionName": "2017 November General",
+  "ElectionDate": "2017-11-07T00:00:00",
+  "CreateDate": "2017-11-13T19:05:21.9316912-05:00",
+  "Races": [
+    {
+      "RaceName": "Member House of Delegates (001)",
+      "PrecinctsReporting": 45,
+      "PrecinctsParticipating": 45,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Alicia D. Kallen",
+          "BallotOrder": 1,
+          "Votes": 4639,
+          "Percentage": "23.75%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Terry G. Kilgore",
+          "BallotOrder": 2,
+          "Votes": 14848,
+          "Percentage": "76.03%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 42,
+          "Percentage": "0.22%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (002)",
+      "PrecinctsReporting": 23,
+      "PrecinctsParticipating": 23,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Jennifer D. Carroll Foy",
+          "BallotOrder": 1,
+          "Votes": 13361,
+          "Percentage": "63.04%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Mike D. Makee",
+          "BallotOrder": 2,
+          "Votes": 7799,
+          "Percentage": "36.80%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 33,
+          "Percentage": "0.16%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (003)",
+      "PrecinctsReporting": 55,
+      "PrecinctsParticipating": 55,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "W. C. \"Bill\" Bunch, Jr.",
+          "BallotOrder": 1,
+          "Votes": 3759,
+          "Percentage": "21.64%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "James W. \"Will\" Morefield",
+          "BallotOrder": 2,
+          "Votes": 13572,
+          "Percentage": "78.13%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 40,
+          "Percentage": "0.23%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (004)",
+      "PrecinctsReporting": 40,
+      "PrecinctsParticipating": 40,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Todd E. Pillion",
+          "BallotOrder": 1,
+          "Votes": 15282,
+          "Percentage": "96.25%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 596,
+          "Percentage": "3.75%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (005)",
+      "PrecinctsReporting": 43,
+      "PrecinctsParticipating": 43,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Israel D. O'Quinn",
+          "BallotOrder": 1,
+          "Votes": 18402,
+          "Percentage": "97.26%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 518,
+          "Percentage": "2.74%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (006)",
+      "PrecinctsReporting": 41,
+      "PrecinctsParticipating": 41,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Jeffrey L. Campbell",
+          "BallotOrder": 1,
+          "Votes": 16792,
+          "Percentage": "81.31%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Kenneth D. Browning",
+          "BallotOrder": 2,
+          "Votes": 3694,
+          "Percentage": "17.89%",
+          "PoliticalParty": "Independent"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 167,
+          "Percentage": "0.81%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (007)",
+      "PrecinctsReporting": 33,
+      "PrecinctsParticipating": 33,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Flourette M. Ketner",
+          "BallotOrder": 1,
+          "Votes": 8878,
+          "Percentage": "33.54%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Larry N. \"Nick\" Rush",
+          "BallotOrder": 2,
+          "Votes": 17560,
+          "Percentage": "66.34%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 30,
+          "Percentage": "0.11%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (008)",
+      "PrecinctsReporting": 40,
+      "PrecinctsParticipating": 40,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Steve G. McBride ",
+          "BallotOrder": 1,
+          "Votes": 10294,
+          "Percentage": "35.92%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Gregory D. Habeeb",
+          "BallotOrder": 2,
+          "Votes": 18311,
+          "Percentage": "63.89%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 54,
+          "Percentage": "0.19%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (009)",
+      "PrecinctsReporting": 42,
+      "PrecinctsParticipating": 42,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Stephanie C. Cook ",
+          "BallotOrder": 1,
+          "Votes": 6916,
+          "Percentage": "29.61%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Charles D. Poindexter",
+          "BallotOrder": 2,
+          "Votes": 16413,
+          "Percentage": "70.27%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 27,
+          "Percentage": "0.12%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (010)",
+      "PrecinctsReporting": 30,
+      "PrecinctsParticipating": 30,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Wendy W. Gooditis",
+          "BallotOrder": 1,
+          "Votes": 15161,
+          "Percentage": "51.90%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "J. Randall Minchew",
+          "BallotOrder": 2,
+          "Votes": 14025,
+          "Percentage": "48.01%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 26,
+          "Percentage": "0.09%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (011)",
+      "PrecinctsReporting": 21,
+      "PrecinctsParticipating": 21,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "S. \"Sam\" Rasoul",
+          "BallotOrder": 1,
+          "Votes": 15667,
+          "Percentage": "96.93%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 496,
+          "Percentage": "3.07%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (012)",
+      "PrecinctsReporting": 35,
+      "PrecinctsParticipating": 35,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Chris L. Hurst",
+          "BallotOrder": 1,
+          "Votes": 12495,
+          "Percentage": "54.35%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Joseph R. Yost",
+          "BallotOrder": 2,
+          "Votes": 10458,
+          "Percentage": "45.49%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 36,
+          "Percentage": "0.16%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (013)",
+      "PrecinctsReporting": 20,
+      "PrecinctsParticipating": 20,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Danica A. Roem",
+          "BallotOrder": 1,
+          "Votes": 12077,
+          "Percentage": "53.72%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Robert G. \"Bob\" Marshall",
+          "BallotOrder": 2,
+          "Votes": 10318,
+          "Percentage": "45.89%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 88,
+          "Percentage": "0.39%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (014)",
+      "PrecinctsReporting": 35,
+      "PrecinctsParticipating": 35,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "D. W. \"Danny\" Marshall III",
+          "BallotOrder": 1,
+          "Votes": 15505,
+          "Percentage": "96.83%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 507,
+          "Percentage": "3.17%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (015)",
+      "PrecinctsReporting": 29,
+      "PrecinctsParticipating": 29,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "C. Todd Gilbert",
+          "BallotOrder": 1,
+          "Votes": 19284,
+          "Percentage": "94.28%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 1171,
+          "Percentage": "5.72%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (016)",
+      "PrecinctsReporting": 44,
+      "PrecinctsParticipating": 44,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Les R. Adams",
+          "BallotOrder": 1,
+          "Votes": 16512,
+          "Percentage": "96.11%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 668,
+          "Percentage": "3.89%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (017)",
+      "PrecinctsReporting": 33,
+      "PrecinctsParticipating": 34,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Djuna L. Osborne",
+          "BallotOrder": 1,
+          "Votes": 10378,
+          "Percentage": "39.29%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Christopher T. Head",
+          "BallotOrder": 2,
+          "Votes": 15997,
+          "Percentage": "60.56%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 39,
+          "Percentage": "0.15%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (018)",
+      "PrecinctsReporting": 31,
+      "PrecinctsParticipating": 31,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Tristan D. Shields",
+          "BallotOrder": 1,
+          "Votes": 9486,
+          "Percentage": "34.32%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Michael J. Webert",
+          "BallotOrder": 2,
+          "Votes": 16686,
+          "Percentage": "60.37%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Wilton King",
+          "BallotOrder": 3,
+          "Votes": 1433,
+          "Percentage": "5.18%",
+          "PoliticalParty": "Green"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 35,
+          "Percentage": "0.13%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (019)",
+      "PrecinctsReporting": 42,
+      "PrecinctsParticipating": 42,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Terry L. Austin",
+          "BallotOrder": 1,
+          "Votes": 20966,
+          "Percentage": "96.31%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 803,
+          "Percentage": "3.69%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (020)",
+      "PrecinctsReporting": 35,
+      "PrecinctsParticipating": 35,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Michele Dixon Edwards",
+          "BallotOrder": 1,
+          "Votes": 11197,
+          "Percentage": "42.57%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Richard P. \"Dickie\" Bell",
+          "BallotOrder": 2,
+          "Votes": 14344,
+          "Percentage": "54.53%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "William M. \"Will\" Hammer",
+          "BallotOrder": 3,
+          "Votes": 745,
+          "Percentage": "2.83%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 19,
+          "Percentage": "0.07%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (021)",
+      "PrecinctsReporting": 20,
+      "PrecinctsParticipating": 20,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Kelly K. Convirs-Fowler",
+          "BallotOrder": 1,
+          "Votes": 12540,
+          "Percentage": "52.46%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Ron A. Villanueva",
+          "BallotOrder": 2,
+          "Votes": 11309,
+          "Percentage": "47.31%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 56,
+          "Percentage": "0.23%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (022)",
+      "PrecinctsReporting": 32,
+      "PrecinctsParticipating": 32,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Kathy J. Byron",
+          "BallotOrder": 1,
+          "Votes": 19014,
+          "Percentage": "96.18%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 755,
+          "Percentage": "3.82%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (023)",
+      "PrecinctsReporting": 30,
+      "PrecinctsParticipating": 30,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Natalie A. Short",
+          "BallotOrder": 1,
+          "Votes": 9050,
+          "Percentage": "34.21%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "T. Scott Garrett",
+          "BallotOrder": 2,
+          "Votes": 17370,
+          "Percentage": "65.66%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 36,
+          "Percentage": "0.14%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (024)",
+      "PrecinctsReporting": 47,
+      "PrecinctsParticipating": 47,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ben L. Cline",
+          "BallotOrder": 1,
+          "Votes": 17351,
+          "Percentage": "71.89%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "John C. Winfrey",
+          "BallotOrder": 2,
+          "Votes": 6683,
+          "Percentage": "27.69%",
+          "PoliticalParty": "Independent"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 101,
+          "Percentage": "0.42%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (025)",
+      "PrecinctsReporting": 27,
+      "PrecinctsParticipating": 27,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Angela M. Lynn",
+          "BallotOrder": 1,
+          "Votes": 12783,
+          "Percentage": "41.90%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "R. Steven \"Steve\" Landes",
+          "BallotOrder": 2,
+          "Votes": 17688,
+          "Percentage": "57.97%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 39,
+          "Percentage": "0.13%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (026)",
+      "PrecinctsReporting": 24,
+      "PrecinctsParticipating": 24,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Brent M. Finnegan",
+          "BallotOrder": 1,
+          "Votes": 9234,
+          "Percentage": "45.33%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Tony O. Wilt",
+          "BallotOrder": 2,
+          "Votes": 11106,
+          "Percentage": "54.52%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 30,
+          "Percentage": "0.15%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (027)",
+      "PrecinctsReporting": 22,
+      "PrecinctsParticipating": 22,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Larry V. Barnett",
+          "BallotOrder": 1,
+          "Votes": 14333,
+          "Percentage": "49.72%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Roxann L. Robinson",
+          "BallotOrder": 2,
+          "Votes": 14461,
+          "Percentage": "50.16%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 35,
+          "Percentage": "0.12%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (028)",
+      "PrecinctsReporting": 23,
+      "PrecinctsParticipating": 23,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Joshua G. Cole",
+          "BallotOrder": 1,
+          "Votes": 11749,
+          "Percentage": "49.73%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Robert M. \"Bob\" Thomas, Jr.",
+          "BallotOrder": 2,
+          "Votes": 11833,
+          "Percentage": "50.08%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 45,
+          "Percentage": "0.19%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (029)",
+      "PrecinctsReporting": 25,
+      "PrecinctsParticipating": 25,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Casey S. Turben",
+          "BallotOrder": 1,
+          "Votes": 8384,
+          "Percentage": "35.57%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Christopher E. Collins",
+          "BallotOrder": 2,
+          "Votes": 15139,
+          "Percentage": "64.22%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 49,
+          "Percentage": "0.21%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (030)",
+      "PrecinctsReporting": 34,
+      "PrecinctsParticipating": 34,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Samuel Ben Hixon",
+          "BallotOrder": 1,
+          "Votes": 9333,
+          "Percentage": "37.77%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Nick J. Freitas",
+          "BallotOrder": 2,
+          "Votes": 15355,
+          "Percentage": "62.14%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 21,
+          "Percentage": "0.08%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (031)",
+      "PrecinctsReporting": 26,
+      "PrecinctsParticipating": 26,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Elizabeth R. Guzman",
+          "BallotOrder": 1,
+          "Votes": 15466,
+          "Percentage": "53.99%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "L. Scott Lingamfelter",
+          "BallotOrder": 2,
+          "Votes": 12658,
+          "Percentage": "44.19%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Nathan D. Larson",
+          "BallotOrder": 3,
+          "Votes": 481,
+          "Percentage": "1.68%",
+          "PoliticalParty": "Independent"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 39,
+          "Percentage": "0.14%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (032)",
+      "PrecinctsReporting": 24,
+      "PrecinctsParticipating": 24,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "David A. Reid",
+          "BallotOrder": 1,
+          "Votes": 17865,
+          "Percentage": "58.47%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Thomas A. \"Tag\" Greason",
+          "BallotOrder": 2,
+          "Votes": 12653,
+          "Percentage": "41.41%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 34,
+          "Percentage": "0.11%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (033)",
+      "PrecinctsReporting": 31,
+      "PrecinctsParticipating": 31,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Tia L. Walbridge",
+          "BallotOrder": 1,
+          "Votes": 13770,
+          "Percentage": "45.09%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Dave A. LaRock",
+          "BallotOrder": 2,
+          "Votes": 16723,
+          "Percentage": "54.76%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 46,
+          "Percentage": "0.15%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (034)",
+      "PrecinctsReporting": 24,
+      "PrecinctsParticipating": 24,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Kathleen J. Murphy",
+          "BallotOrder": 1,
+          "Votes": 20522,
+          "Percentage": "60.92%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Cheryl A. Buford",
+          "BallotOrder": 2,
+          "Votes": 13146,
+          "Percentage": "39.02%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 20,
+          "Percentage": "0.06%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (035)",
+      "PrecinctsReporting": 20,
+      "PrecinctsParticipating": 20,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark L. Keam",
+          "BallotOrder": 1,
+          "Votes": 22596,
+          "Percentage": "92.93%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 1718,
+          "Percentage": "7.07%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (036)",
+      "PrecinctsReporting": 18,
+      "PrecinctsParticipating": 18,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Kenneth R. \"Ken\" Plum",
+          "BallotOrder": 1,
+          "Votes": 24149,
+          "Percentage": "93.01%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 1815,
+          "Percentage": "6.99%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (037)",
+      "PrecinctsReporting": 18,
+      "PrecinctsParticipating": 18,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "David L. Bulova",
+          "BallotOrder": 1,
+          "Votes": 18877,
+          "Percentage": "93.53%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 1305,
+          "Percentage": "6.47%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (038)",
+      "PrecinctsReporting": 20,
+      "PrecinctsParticipating": 20,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "L. Kaye Kory",
+          "BallotOrder": 1,
+          "Votes": 16023,
+          "Percentage": "73.51%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Paul B. Haring",
+          "BallotOrder": 2,
+          "Votes": 5723,
+          "Percentage": "26.26%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 51,
+          "Percentage": "0.23%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (039)",
+      "PrecinctsReporting": 22,
+      "PrecinctsParticipating": 22,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Vivian E. Watts",
+          "BallotOrder": 1,
+          "Votes": 21407,
+          "Percentage": "92.62%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 1705,
+          "Percentage": "7.38%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (040)",
+      "PrecinctsReporting": 23,
+      "PrecinctsParticipating": 23,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Donte T. Tanner",
+          "BallotOrder": 1,
+          "Votes": 15004,
+          "Percentage": "49.74%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Timothy D. \"Tim\" Hugo",
+          "BallotOrder": 2,
+          "Votes": 15110,
+          "Percentage": "50.10%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 48,
+          "Percentage": "0.16%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (041)",
+      "PrecinctsReporting": 19,
+      "PrecinctsParticipating": 19,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Eileen Filler-Corn",
+          "BallotOrder": 1,
+          "Votes": 22985,
+          "Percentage": "90.84%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 2317,
+          "Percentage": "9.16%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (042)",
+      "PrecinctsReporting": 18,
+      "PrecinctsParticipating": 19,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Kathy K. L. Tran",
+          "BallotOrder": 1,
+          "Votes": 18761,
+          "Percentage": "60.97%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Lolita I. Mancheno-Smoak",
+          "BallotOrder": 2,
+          "Votes": 11967,
+          "Percentage": "38.89%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 45,
+          "Percentage": "0.15%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (043)",
+      "PrecinctsReporting": 19,
+      "PrecinctsParticipating": 19,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark D. Sickles",
+          "BallotOrder": 1,
+          "Votes": 22094,
+          "Percentage": "93.34%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 1576,
+          "Percentage": "6.66%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (044)",
+      "PrecinctsReporting": 18,
+      "PrecinctsParticipating": 18,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Paul E. Krizek",
+          "BallotOrder": 1,
+          "Votes": 18243,
+          "Percentage": "92.77%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 1421,
+          "Percentage": "7.23%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (045)",
+      "PrecinctsReporting": 25,
+      "PrecinctsParticipating": 25,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark H. Levine",
+          "BallotOrder": 1,
+          "Votes": 31417,
+          "Percentage": "95.16%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 1599,
+          "Percentage": "4.84%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (046)",
+      "PrecinctsReporting": 14,
+      "PrecinctsParticipating": 14,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Charniele L. Herring",
+          "BallotOrder": 1,
+          "Votes": 18947,
+          "Percentage": "96.41%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 706,
+          "Percentage": "3.59%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (047)",
+      "PrecinctsReporting": 25,
+      "PrecinctsParticipating": 25,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Patrick A. Hope",
+          "BallotOrder": 1,
+          "Votes": 29706,
+          "Percentage": "96.21%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 1171,
+          "Percentage": "3.79%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (048)",
+      "PrecinctsReporting": 23,
+      "PrecinctsParticipating": 23,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "R. C. \"Rip\" Sullivan, Jr.",
+          "BallotOrder": 1,
+          "Votes": 27670,
+          "Percentage": "94.62%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 1573,
+          "Percentage": "5.38%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (049)",
+      "PrecinctsReporting": 21,
+      "PrecinctsParticipating": 21,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Alfonso H. Lopez",
+          "BallotOrder": 1,
+          "Votes": 19308,
+          "Percentage": "81.30%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Adam Roosevelt",
+          "BallotOrder": 2,
+          "Votes": 4391,
+          "Percentage": "18.49%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 51,
+          "Percentage": "0.21%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (050)",
+      "PrecinctsReporting": 16,
+      "PrecinctsParticipating": 16,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Lee J. Carter",
+          "BallotOrder": 1,
+          "Votes": 11366,
+          "Percentage": "54.32%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jackson Hunter Miller",
+          "BallotOrder": 2,
+          "Votes": 9518,
+          "Percentage": "45.49%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 40,
+          "Percentage": "0.19%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (051)",
+      "PrecinctsReporting": 22,
+      "PrecinctsParticipating": 22,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Hala S. Ayala",
+          "BallotOrder": 1,
+          "Votes": 15244,
+          "Percentage": "52.98%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Richard L. Anderson",
+          "BallotOrder": 2,
+          "Votes": 13476,
+          "Percentage": "46.84%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 51,
+          "Percentage": "0.18%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (052)",
+      "PrecinctsReporting": 20,
+      "PrecinctsParticipating": 20,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Luke E. Torian",
+          "BallotOrder": 1,
+          "Votes": 14830,
+          "Percentage": "93.50%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 1031,
+          "Percentage": "6.50%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (053)",
+      "PrecinctsReporting": 20,
+      "PrecinctsParticipating": 20,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Marcus B. Simon",
+          "BallotOrder": 1,
+          "Votes": 19235,
+          "Percentage": "74.28%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Mike S. Casey",
+          "BallotOrder": 2,
+          "Votes": 6362,
+          "Percentage": "24.57%",
+          "PoliticalParty": "Independent"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 298,
+          "Percentage": "1.15%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (054)",
+      "PrecinctsReporting": 20,
+      "PrecinctsParticipating": 20,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Al Durante",
+          "BallotOrder": 1,
+          "Votes": 9982,
+          "Percentage": "41.92%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Robert D. \"Bobby\" Orrock",
+          "BallotOrder": 2,
+          "Votes": 13782,
+          "Percentage": "57.87%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 50,
+          "Percentage": "0.21%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (055)",
+      "PrecinctsReporting": 36,
+      "PrecinctsParticipating": 36,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Morgan K. Goodman",
+          "BallotOrder": 1,
+          "Votes": 12056,
+          "Percentage": "39.91%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "H. F. \"Buddy\" Fowler, Jr.",
+          "BallotOrder": 2,
+          "Votes": 18087,
+          "Percentage": "59.87%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 67,
+          "Percentage": "0.22%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (056)",
+      "PrecinctsReporting": 33,
+      "PrecinctsParticipating": 33,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Melissa M. Dart",
+          "BallotOrder": 1,
+          "Votes": 12761,
+          "Percentage": "40.39%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John J. McGuire III",
+          "BallotOrder": 2,
+          "Votes": 18792,
+          "Percentage": "59.48%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 43,
+          "Percentage": "0.14%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (057)",
+      "PrecinctsReporting": 19,
+      "PrecinctsParticipating": 19,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "David J. Toscano",
+          "BallotOrder": 1,
+          "Votes": 25419,
+          "Percentage": "96.89%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 816,
+          "Percentage": "3.11%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (058)",
+      "PrecinctsReporting": 30,
+      "PrecinctsParticipating": 30,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Kellen J. Squire",
+          "BallotOrder": 1,
+          "Votes": 11797,
+          "Percentage": "38.71%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Robert B. Bell III",
+          "BallotOrder": 2,
+          "Votes": 18652,
+          "Percentage": "61.20%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 26,
+          "Percentage": "0.09%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (059)",
+      "PrecinctsReporting": 45,
+      "PrecinctsParticipating": 45,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Tracy L. Carver",
+          "BallotOrder": 1,
+          "Votes": 8773,
+          "Percentage": "34.08%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "C. Matthew Fariss",
+          "BallotOrder": 2,
+          "Votes": 15758,
+          "Percentage": "61.22%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Marcus T. Sutphin",
+          "BallotOrder": 3,
+          "Votes": 297,
+          "Percentage": "1.15%",
+          "PoliticalParty": "Green"
+        },
+        {
+          "BallotName": "David Wade Ball",
+          "BallotOrder": 4,
+          "Votes": 863,
+          "Percentage": "3.35%",
+          "PoliticalParty": "Independent"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 51,
+          "Percentage": "0.20%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (060)",
+      "PrecinctsReporting": 44,
+      "PrecinctsParticipating": 44,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Jamaal M. Johnston",
+          "BallotOrder": 1,
+          "Votes": 8177,
+          "Percentage": "37.95%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "James E. Edmunds II",
+          "BallotOrder": 2,
+          "Votes": 13330,
+          "Percentage": "61.86%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 41,
+          "Percentage": "0.19%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (061)",
+      "PrecinctsReporting": 57,
+      "PrecinctsParticipating": 57,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Thomas C. Wright, Jr.",
+          "BallotOrder": 1,
+          "Votes": 17507,
+          "Percentage": "97.23%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 498,
+          "Percentage": "2.77%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (062)",
+      "PrecinctsReporting": 26,
+      "PrecinctsParticipating": 26,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Sheila Bynum-Coleman",
+          "BallotOrder": 1,
+          "Votes": 11344,
+          "Percentage": "48.18%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Riley Edward Ingram",
+          "BallotOrder": 2,
+          "Votes": 12163,
+          "Percentage": "51.66%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 37,
+          "Percentage": "0.16%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (063)",
+      "PrecinctsReporting": 31,
+      "PrecinctsParticipating": 31,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Lashrecse D. Aird",
+          "BallotOrder": 1,
+          "Votes": 15623,
+          "Percentage": "95.11%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 804,
+          "Percentage": "4.89%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (064)",
+      "PrecinctsReporting": 51,
+      "PrecinctsParticipating": 51,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Rebecca S. Colaw",
+          "BallotOrder": 1,
+          "Votes": 11551,
+          "Percentage": "37.50%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Emily M. Brewer",
+          "BallotOrder": 2,
+          "Votes": 19223,
+          "Percentage": "62.41%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 25,
+          "Percentage": "0.08%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (065)",
+      "PrecinctsReporting": 33,
+      "PrecinctsParticipating": 33,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Francis M. Stevens",
+          "BallotOrder": 1,
+          "Votes": 12530,
+          "Percentage": "35.82%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "R. Lee Ware, Jr.",
+          "BallotOrder": 2,
+          "Votes": 22394,
+          "Percentage": "64.01%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 59,
+          "Percentage": "0.17%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (066)",
+      "PrecinctsReporting": 20,
+      "PrecinctsParticipating": 20,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Katie A. Sponsler",
+          "BallotOrder": 1,
+          "Votes": 10656,
+          "Percentage": "36.41%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "M. Kirkland \"Kirk\" Cox",
+          "BallotOrder": 2,
+          "Votes": 18572,
+          "Percentage": "63.45%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 40,
+          "Percentage": "0.14%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (067)",
+      "PrecinctsReporting": 21,
+      "PrecinctsParticipating": 21,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Karrie K. Delaney",
+          "BallotOrder": 1,
+          "Votes": 17036,
+          "Percentage": "57.86%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "James M. \"Jim\" LeMunyon",
+          "BallotOrder": 2,
+          "Votes": 12365,
+          "Percentage": "42.00%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 42,
+          "Percentage": "0.14%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (068)",
+      "PrecinctsReporting": 29,
+      "PrecinctsParticipating": 29,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Dawn M. Adams",
+          "BallotOrder": 1,
+          "Votes": 19753,
+          "Percentage": "50.37%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "G. M. \"Manoli\" Loupassi",
+          "BallotOrder": 2,
+          "Votes": 19422,
+          "Percentage": "49.52%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 42,
+          "Percentage": "0.11%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (069)",
+      "PrecinctsReporting": 25,
+      "PrecinctsParticipating": 25,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Betsy B. Carr",
+          "BallotOrder": 1,
+          "Votes": 19760,
+          "Percentage": "86.59%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jacob A. \"Jake\" Crocker",
+          "BallotOrder": 2,
+          "Votes": 1931,
+          "Percentage": "8.46%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Montigue T. Magruder",
+          "BallotOrder": 3,
+          "Votes": 1061,
+          "Percentage": "4.65%",
+          "PoliticalParty": "Green"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 69,
+          "Percentage": "0.30%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (070)",
+      "PrecinctsReporting": 23,
+      "PrecinctsParticipating": 23,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Delores L. McQuinn",
+          "BallotOrder": 1,
+          "Votes": 20387,
+          "Percentage": "96.82%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 670,
+          "Percentage": "3.18%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (071)",
+      "PrecinctsReporting": 29,
+      "PrecinctsParticipating": 29,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Jeff M. Bourne",
+          "BallotOrder": 1,
+          "Votes": 24271,
+          "Percentage": "97.98%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 500,
+          "Percentage": "2.02%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (072)",
+      "PrecinctsReporting": 28,
+      "PrecinctsParticipating": 28,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Schuyler T. VanValkenburg",
+          "BallotOrder": 1,
+          "Votes": 16655,
+          "Percentage": "52.71%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward S. Whitlock III",
+          "BallotOrder": 2,
+          "Votes": 14869,
+          "Percentage": "47.06%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 74,
+          "Percentage": "0.23%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (073)",
+      "PrecinctsReporting": 23,
+      "PrecinctsParticipating": 23,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Debra H. Rodman",
+          "BallotOrder": 1,
+          "Votes": 14697,
+          "Percentage": "51.48%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John M. O'Bannon III",
+          "BallotOrder": 2,
+          "Votes": 13803,
+          "Percentage": "48.35%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 47,
+          "Percentage": "0.16%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (074)",
+      "PrecinctsReporting": 34,
+      "PrecinctsParticipating": 34,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Lamont Bagby",
+          "BallotOrder": 1,
+          "Votes": 20041,
+          "Percentage": "76.00%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Preston T. Brown",
+          "BallotOrder": 2,
+          "Votes": 6146,
+          "Percentage": "23.31%",
+          "PoliticalParty": "Independent"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 183,
+          "Percentage": "0.69%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (075)",
+      "PrecinctsReporting": 78,
+      "PrecinctsParticipating": 78,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Roslyn C. Tyler",
+          "BallotOrder": 1,
+          "Votes": 16245,
+          "Percentage": "94.00%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 1036,
+          "Percentage": "6.00%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (076)",
+      "PrecinctsReporting": 28,
+      "PrecinctsParticipating": 28,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "S. Chris Jones",
+          "BallotOrder": 1,
+          "Votes": 22736,
+          "Percentage": "93.92%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 1471,
+          "Percentage": "6.08%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (077)",
+      "PrecinctsReporting": 27,
+      "PrecinctsParticipating": 27,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "C. E. \"Cliff\" Hayes, Jr.",
+          "BallotOrder": 1,
+          "Votes": 16483,
+          "Percentage": "82.60%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jeff B. Staples",
+          "BallotOrder": 2,
+          "Votes": 3362,
+          "Percentage": "16.85%",
+          "PoliticalParty": "Green"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 110,
+          "Percentage": "0.55%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (078)",
+      "PrecinctsReporting": 24,
+      "PrecinctsParticipating": 24,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "J. A. \"Jay\" Leftwich, Jr.",
+          "BallotOrder": 1,
+          "Votes": 20768,
+          "Percentage": "94.74%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 1152,
+          "Percentage": "5.26%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (079)",
+      "PrecinctsReporting": 18,
+      "PrecinctsParticipating": 18,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Steve E. Heretick",
+          "BallotOrder": 1,
+          "Votes": 12864,
+          "Percentage": "95.29%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 636,
+          "Percentage": "4.71%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (080)",
+      "PrecinctsReporting": 33,
+      "PrecinctsParticipating": 33,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Matthew James",
+          "BallotOrder": 1,
+          "Votes": 20292,
+          "Percentage": "96.94%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 640,
+          "Percentage": "3.06%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (081)",
+      "PrecinctsReporting": 22,
+      "PrecinctsParticipating": 22,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Kimberly Anne Tucker",
+          "BallotOrder": 1,
+          "Votes": 9127,
+          "Percentage": "40.88%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Barry D. Knight",
+          "BallotOrder": 2,
+          "Votes": 13162,
+          "Percentage": "58.95%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 38,
+          "Percentage": "0.17%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (082)",
+      "PrecinctsReporting": 20,
+      "PrecinctsParticipating": 20,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Leigh Anne Bowling",
+          "BallotOrder": 1,
+          "Votes": 11174,
+          "Percentage": "41.01%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jason S. Miyares",
+          "BallotOrder": 2,
+          "Votes": 16048,
+          "Percentage": "58.89%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 27,
+          "Percentage": "0.10%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (083)",
+      "PrecinctsReporting": 22,
+      "PrecinctsParticipating": 22,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "David E. Rose-Carmack",
+          "BallotOrder": 1,
+          "Votes": 10077,
+          "Percentage": "43.29%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Chris P. Stolle",
+          "BallotOrder": 2,
+          "Votes": 13173,
+          "Percentage": "56.59%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 28,
+          "Percentage": "0.12%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (084)",
+      "PrecinctsReporting": 18,
+      "PrecinctsParticipating": 18,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Veronica R. Coleman",
+          "BallotOrder": 1,
+          "Votes": 10093,
+          "Percentage": "48.12%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Glenn R. Davis, Jr.",
+          "BallotOrder": 2,
+          "Votes": 10835,
+          "Percentage": "51.65%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 48,
+          "Percentage": "0.23%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (085)",
+      "PrecinctsReporting": 18,
+      "PrecinctsParticipating": 18,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Cheryl B. Turpin",
+          "BallotOrder": 1,
+          "Votes": 11843,
+          "Percentage": "50.73%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "N. D. \"Rocky\" Holcomb III",
+          "BallotOrder": 2,
+          "Votes": 11454,
+          "Percentage": "49.06%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 48,
+          "Percentage": "0.21%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (086)",
+      "PrecinctsReporting": 17,
+      "PrecinctsParticipating": 17,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Jennifer B. Boysko",
+          "BallotOrder": 1,
+          "Votes": 16865,
+          "Percentage": "68.52%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Linda C. Schulz",
+          "BallotOrder": 2,
+          "Votes": 7707,
+          "Percentage": "31.31%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 40,
+          "Percentage": "0.16%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (087)",
+      "PrecinctsReporting": 29,
+      "PrecinctsParticipating": 29,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "John J. Bell",
+          "BallotOrder": 1,
+          "Votes": 18234,
+          "Percentage": "61.71%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Subba R. Kolla",
+          "BallotOrder": 2,
+          "Votes": 11246,
+          "Percentage": "38.06%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 66,
+          "Percentage": "0.22%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (088)",
+      "PrecinctsReporting": 27,
+      "PrecinctsParticipating": 27,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Steve R. Aycock",
+          "BallotOrder": 1,
+          "Votes": 9912,
+          "Percentage": "37.27%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Mark L. Cole",
+          "BallotOrder": 2,
+          "Votes": 14018,
+          "Percentage": "52.71%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Gerald L. Anderson",
+          "BallotOrder": 3,
+          "Votes": 255,
+          "Percentage": "0.96%",
+          "PoliticalParty": "Green"
+        },
+        {
+          "BallotName": "Amanda M. Blalock",
+          "BallotOrder": 4,
+          "Votes": 2373,
+          "Percentage": "8.92%",
+          "PoliticalParty": "Independent"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 37,
+          "Percentage": "0.14%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (089)",
+      "PrecinctsReporting": 22,
+      "PrecinctsParticipating": 22,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Jerrauld C. \"Jay\" Jones",
+          "BallotOrder": 1,
+          "Votes": 16541,
+          "Percentage": "84.49%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Terry Richard Hurst",
+          "BallotOrder": 2,
+          "Votes": 2944,
+          "Percentage": "15.04%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 92,
+          "Percentage": "0.47%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (090)",
+      "PrecinctsReporting": 20,
+      "PrecinctsParticipating": 20,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Joseph C. \"Joe\" Lindsey",
+          "BallotOrder": 1,
+          "Votes": 15996,
+          "Percentage": "97.29%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 446,
+          "Percentage": "2.71%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (091)",
+      "PrecinctsReporting": 19,
+      "PrecinctsParticipating": 19,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Michael B. Wade",
+          "BallotOrder": 1,
+          "Votes": 10764,
+          "Percentage": "43.61%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Gordon C. Helsel, Jr.",
+          "BallotOrder": 2,
+          "Votes": 13877,
+          "Percentage": "56.22%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 43,
+          "Percentage": "0.17%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (092)",
+      "PrecinctsReporting": 19,
+      "PrecinctsParticipating": 19,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Jeion A. Ward",
+          "BallotOrder": 1,
+          "Votes": 18873,
+          "Percentage": "97.33%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 517,
+          "Percentage": "2.67%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (093)",
+      "PrecinctsReporting": 25,
+      "PrecinctsParticipating": 25,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Michael P. Mullin",
+          "BallotOrder": 1,
+          "Votes": 15985,
+          "Percentage": "59.99%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Heather L. Cordasco",
+          "BallotOrder": 2,
+          "Votes": 10622,
+          "Percentage": "39.86%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 40,
+          "Percentage": "0.15%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (094)",
+      "PrecinctsReporting": 24,
+      "PrecinctsParticipating": 24,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Shelly A. Simonds",
+          "BallotOrder": 1,
+          "Votes": 11584,
+          "Percentage": "48.51%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "David E. Yancey",
+          "BallotOrder": 2,
+          "Votes": 11597,
+          "Percentage": "48.57%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Michael D. Bartley",
+          "BallotOrder": 3,
+          "Votes": 675,
+          "Percentage": "2.83%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 22,
+          "Percentage": "0.09%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (095)",
+      "PrecinctsReporting": 27,
+      "PrecinctsParticipating": 27,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Marcia S. \"Cia\" Price",
+          "BallotOrder": 1,
+          "Votes": 15766,
+          "Percentage": "97.11%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 469,
+          "Percentage": "2.89%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (096)",
+      "PrecinctsReporting": 22,
+      "PrecinctsParticipating": 22,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Kelly A. DeLucia",
+          "BallotOrder": 1,
+          "Votes": 14947,
+          "Percentage": "42.90%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Brenda L. Pogge",
+          "BallotOrder": 2,
+          "Votes": 19841,
+          "Percentage": "56.94%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 56,
+          "Percentage": "0.16%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (097)",
+      "PrecinctsReporting": 34,
+      "PrecinctsParticipating": 34,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Cori E. Johnson",
+          "BallotOrder": 1,
+          "Votes": 9319,
+          "Percentage": "27.62%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Christopher K. Peace",
+          "BallotOrder": 2,
+          "Votes": 24363,
+          "Percentage": "72.20%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 62,
+          "Percentage": "0.18%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (098)",
+      "PrecinctsReporting": 37,
+      "PrecinctsParticipating": 37,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Sheila Crowley",
+          "BallotOrder": 1,
+          "Votes": 9945,
+          "Percentage": "34.85%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "M. Keith Hodges",
+          "BallotOrder": 2,
+          "Votes": 18561,
+          "Percentage": "65.05%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 28,
+          "Percentage": "0.10%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (099)",
+      "PrecinctsReporting": 40,
+      "PrecinctsParticipating": 40,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Francis Nicholas Edwards",
+          "BallotOrder": 1,
+          "Votes": 10043,
+          "Percentage": "37.72%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Margaret Bevans Ransone",
+          "BallotOrder": 2,
+          "Votes": 16548,
+          "Percentage": "62.16%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 32,
+          "Percentage": "0.12%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (100)",
+      "PrecinctsReporting": 32,
+      "PrecinctsParticipating": 32,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Willie C. Randall",
+          "BallotOrder": 1,
+          "Votes": 10720,
+          "Percentage": "47.69%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Robert S. Bloxom, Jr.",
+          "BallotOrder": 2,
+          "Votes": 11720,
+          "Percentage": "52.14%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 40,
+          "Percentage": "0.18%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    }
+  ]
+}

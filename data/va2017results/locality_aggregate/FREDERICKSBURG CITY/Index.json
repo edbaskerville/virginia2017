@@ -1,0 +1,279 @@
+{
+  "ElectionName": "2017 November General",
+  "ElectionDate": "2017-11-07T00:00:00",
+  "CreateDate": "2017-11-13T19:06:13.0077983-05:00",
+  "Locality": {
+    "LocalityName": "FREDERICKSBURG CITY",
+    "LocalityCode": "630"
+  },
+  "Races": [
+    {
+      "RaceName": "Governor",
+      "PrecinctsReporting": 6,
+      "PrecinctsParticipating": 6,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ralph S. Northam",
+          "BallotOrder": 1,
+          "Votes": 4649,
+          "Percentage": "64.38%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward W. \"Ed\" Gillespie",
+          "BallotOrder": 2,
+          "Votes": 2463,
+          "Percentage": "34.11%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Clifford D. Hyra",
+          "BallotOrder": 3,
+          "Votes": 107,
+          "Percentage": "1.48%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 2,
+          "Percentage": "0.03%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Lieutenant Governor",
+      "PrecinctsReporting": 6,
+      "PrecinctsParticipating": 6,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Justin E. Fairfax",
+          "BallotOrder": 1,
+          "Votes": 4564,
+          "Percentage": "63.89%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jill H. Vogel",
+          "BallotOrder": 2,
+          "Votes": 2571,
+          "Percentage": "35.99%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 8,
+          "Percentage": "0.11%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Attorney General",
+      "PrecinctsReporting": 6,
+      "PrecinctsParticipating": 6,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark R. Herring",
+          "BallotOrder": 1,
+          "Votes": 4584,
+          "Percentage": "64.20%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John D. Adams",
+          "BallotOrder": 2,
+          "Votes": 2549,
+          "Percentage": "35.70%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 7,
+          "Percentage": "0.10%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (028)",
+      "PrecinctsReporting": 4,
+      "PrecinctsParticipating": 4,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Joshua G. Cole",
+          "BallotOrder": 1,
+          "Votes": 2050,
+          "Percentage": "70.50%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Robert M. \"Bob\" Thomas, Jr.",
+          "BallotOrder": 2,
+          "Votes": 855,
+          "Percentage": "29.40%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 3,
+          "Percentage": "0.10%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (088)",
+      "PrecinctsReporting": 6,
+      "PrecinctsParticipating": 6,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Steve R. Aycock",
+          "BallotOrder": 1,
+          "Votes": 2206,
+          "Percentage": "52.40%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Mark L. Cole",
+          "BallotOrder": 2,
+          "Votes": 1538,
+          "Percentage": "36.53%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Gerald L. Anderson",
+          "BallotOrder": 3,
+          "Votes": 70,
+          "Percentage": "1.66%",
+          "PoliticalParty": "Green"
+        },
+        {
+          "BallotName": "Amanda M. Blalock",
+          "BallotOrder": 4,
+          "Votes": 389,
+          "Percentage": "9.24%",
+          "PoliticalParty": "Independent"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 7,
+          "Percentage": "0.17%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Commonwealth's Attorney (FREDERICKSBURG CITY)",
+      "PrecinctsReporting": 6,
+      "PrecinctsParticipating": 6,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "LaBravia J. Jenkins",
+          "BallotOrder": 1,
+          "Votes": 4296,
+          "Percentage": "62.89%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Joseph E. \"Jeh\" Hicks",
+          "BallotOrder": 2,
+          "Votes": 2505,
+          "Percentage": "36.67%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 30,
+          "Percentage": "0.44%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Sheriff (FREDERICKSBURG CITY)",
+      "PrecinctsReporting": 6,
+      "PrecinctsParticipating": 6,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Paul W. Higgs",
+          "BallotOrder": 1,
+          "Votes": 5972,
+          "Percentage": "97.89%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 129,
+          "Percentage": "2.11%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Commissioner of Revenue (FREDERICKSBURG CITY)",
+      "PrecinctsReporting": 6,
+      "PrecinctsParticipating": 6,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Lois B. Jacob",
+          "BallotOrder": 1,
+          "Votes": 4590,
+          "Percentage": "68.89%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "E. Thomas Blalock II",
+          "BallotOrder": 2,
+          "Votes": 2031,
+          "Percentage": "30.48%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 42,
+          "Percentage": "0.63%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Treasurer (FREDERICKSBURG CITY)",
+      "PrecinctsReporting": 6,
+      "PrecinctsParticipating": 6,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Brenda A. Wood",
+          "BallotOrder": 1,
+          "Votes": 6202,
+          "Percentage": "98.38%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 102,
+          "Percentage": "1.62%",
+          "PoliticalParty": ""
+        }
+      ]
+    }
+  ]
+}

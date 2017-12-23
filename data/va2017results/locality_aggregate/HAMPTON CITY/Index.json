@@ -1,0 +1,273 @@
+{
+  "ElectionName": "2017 November General",
+  "ElectionDate": "2017-11-07T00:00:00",
+  "CreateDate": "2017-11-13T19:06:13.2328208-05:00",
+  "Locality": {
+    "LocalityName": "HAMPTON CITY",
+    "LocalityCode": "650"
+  },
+  "Races": [
+    {
+      "RaceName": "Governor",
+      "PrecinctsReporting": 31,
+      "PrecinctsParticipating": 31,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ralph S. Northam",
+          "BallotOrder": 1,
+          "Votes": 28906,
+          "Percentage": "71.59%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward W. \"Ed\" Gillespie",
+          "BallotOrder": 2,
+          "Votes": 11050,
+          "Percentage": "27.37%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Clifford D. Hyra",
+          "BallotOrder": 3,
+          "Votes": 399,
+          "Percentage": "0.99%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 23,
+          "Percentage": "0.06%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Lieutenant Governor",
+      "PrecinctsReporting": 31,
+      "PrecinctsParticipating": 31,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Justin E. Fairfax",
+          "BallotOrder": 1,
+          "Votes": 28488,
+          "Percentage": "70.92%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jill H. Vogel",
+          "BallotOrder": 2,
+          "Votes": 11656,
+          "Percentage": "29.02%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 23,
+          "Percentage": "0.06%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Attorney General",
+      "PrecinctsReporting": 31,
+      "PrecinctsParticipating": 31,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark R. Herring",
+          "BallotOrder": 1,
+          "Votes": 28499,
+          "Percentage": "71.03%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John D. Adams",
+          "BallotOrder": 2,
+          "Votes": 11583,
+          "Percentage": "28.87%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 42,
+          "Percentage": "0.10%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (091)",
+      "PrecinctsReporting": 10,
+      "PrecinctsParticipating": 10,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Michael B. Wade",
+          "BallotOrder": 1,
+          "Votes": 7020,
+          "Percentage": "55.13%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Gordon C. Helsel, Jr.",
+          "BallotOrder": 2,
+          "Votes": 5692,
+          "Percentage": "44.70%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 21,
+          "Percentage": "0.16%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (092)",
+      "PrecinctsReporting": 19,
+      "PrecinctsParticipating": 19,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Jeion A. Ward",
+          "BallotOrder": 1,
+          "Votes": 18873,
+          "Percentage": "97.33%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 517,
+          "Percentage": "2.67%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (095)",
+      "PrecinctsReporting": 4,
+      "PrecinctsParticipating": 4,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Marcia S. \"Cia\" Price",
+          "BallotOrder": 1,
+          "Votes": 3999,
+          "Percentage": "96.71%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 136,
+          "Percentage": "3.29%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Commonwealth's Attorney (HAMPTON CITY)",
+      "PrecinctsReporting": 31,
+      "PrecinctsParticipating": 31,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Anton A. Bell",
+          "BallotOrder": 1,
+          "Votes": 25568,
+          "Percentage": "67.72%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Nick R. Hobbs",
+          "BallotOrder": 2,
+          "Votes": 12020,
+          "Percentage": "31.84%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 166,
+          "Percentage": "0.44%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Sheriff (HAMPTON CITY)",
+      "PrecinctsReporting": 31,
+      "PrecinctsParticipating": 31,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "B. J. Roberts",
+          "BallotOrder": 1,
+          "Votes": 34531,
+          "Percentage": "97.61%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 845,
+          "Percentage": "2.39%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Commissioner of Revenue (HAMPTON CITY)",
+      "PrecinctsReporting": 31,
+      "PrecinctsParticipating": 31,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ross A. Mugler",
+          "BallotOrder": 1,
+          "Votes": 34801,
+          "Percentage": "98.50%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 530,
+          "Percentage": "1.50%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Treasurer (HAMPTON CITY)",
+      "PrecinctsReporting": 31,
+      "PrecinctsParticipating": 31,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Molly Joseph Ward",
+          "BallotOrder": 1,
+          "Votes": 34658,
+          "Percentage": "98.01%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 703,
+          "Percentage": "1.99%",
+          "PoliticalParty": ""
+        }
+      ]
+    }
+  ]
+}

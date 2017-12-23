@@ -1,0 +1,344 @@
+{
+  "ElectionName": "2017 November General",
+  "ElectionDate": "2017-11-07T00:00:00",
+  "CreateDate": "2017-11-13T19:06:12.2767252-05:00",
+  "Locality": {
+    "LocalityName": "BUENA VISTA CITY",
+    "LocalityCode": "530"
+  },
+  "Races": [
+    {
+      "RaceName": "Governor",
+      "PrecinctsReporting": 2,
+      "PrecinctsParticipating": 2,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ralph S. Northam",
+          "BallotOrder": 1,
+          "Votes": 529,
+          "Percentage": "31.96%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward W. \"Ed\" Gillespie",
+          "BallotOrder": 2,
+          "Votes": 1090,
+          "Percentage": "65.86%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Clifford D. Hyra",
+          "BallotOrder": 3,
+          "Votes": 33,
+          "Percentage": "1.99%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 3,
+          "Percentage": "0.18%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Lieutenant Governor",
+      "PrecinctsReporting": 2,
+      "PrecinctsParticipating": 2,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Justin E. Fairfax",
+          "BallotOrder": 1,
+          "Votes": 485,
+          "Percentage": "29.92%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jill H. Vogel",
+          "BallotOrder": 2,
+          "Votes": 1135,
+          "Percentage": "70.02%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 1,
+          "Percentage": "0.06%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Attorney General",
+      "PrecinctsReporting": 2,
+      "PrecinctsParticipating": 2,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark R. Herring",
+          "BallotOrder": 1,
+          "Votes": 537,
+          "Percentage": "33.42%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John D. Adams",
+          "BallotOrder": 2,
+          "Votes": 1068,
+          "Percentage": "66.46%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 2,
+          "Percentage": "0.12%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (024)",
+      "PrecinctsReporting": 2,
+      "PrecinctsParticipating": 2,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ben L. Cline",
+          "BallotOrder": 1,
+          "Votes": 1216,
+          "Percentage": "76.24%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "John C. Winfrey",
+          "BallotOrder": 2,
+          "Votes": 377,
+          "Percentage": "23.64%",
+          "PoliticalParty": "Independent"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 2,
+          "Percentage": "0.13%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Commonwealth's Attorney (BUENA VISTA CITY)",
+      "PrecinctsReporting": 2,
+      "PrecinctsParticipating": 2,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Jared L. Moon",
+          "BallotOrder": 1,
+          "Votes": 734,
+          "Percentage": "45.22%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Christopher B. Russell",
+          "BallotOrder": 2,
+          "Votes": 888,
+          "Percentage": "54.71%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 1,
+          "Percentage": "0.06%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Sheriff (BUENA VISTA CITY)",
+      "PrecinctsReporting": 2,
+      "PrecinctsParticipating": 2,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "W. R. \"Randy\" Hamilton",
+          "BallotOrder": 1,
+          "Votes": 1486,
+          "Percentage": "97.83%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 33,
+          "Percentage": "2.17%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Commissioner of Revenue (BUENA VISTA CITY)",
+      "PrecinctsReporting": 2,
+      "PrecinctsParticipating": 2,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mar Vita L. Flint",
+          "BallotOrder": 1,
+          "Votes": 1468,
+          "Percentage": "98.99%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 15,
+          "Percentage": "1.01%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Treasurer (BUENA VISTA CITY)",
+      "PrecinctsReporting": 2,
+      "PrecinctsParticipating": 2,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mary Lee Huffman",
+          "BallotOrder": 1,
+          "Votes": 1513,
+          "Percentage": "99.28%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 11,
+          "Percentage": "0.72%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Mayor (BUENA VISTA CITY)",
+      "PrecinctsReporting": 2,
+      "PrecinctsParticipating": 2,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "William H. Fitzgerald",
+          "BallotOrder": 1,
+          "Votes": 972,
+          "Percentage": "61.32%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Larry F. Tolley",
+          "BallotOrder": 2,
+          "Votes": 597,
+          "Percentage": "37.67%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 16,
+          "Percentage": "1.01%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member City Council (BUENA VISTA CITY)",
+      "PrecinctsReporting": 2,
+      "PrecinctsParticipating": 2,
+      "NumberOfSeats": 3,
+      "Candidates": [
+        {
+          "BallotName": "Melvin E. Henson",
+          "BallotOrder": 1,
+          "Votes": 867,
+          "Percentage": "26.82%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Daniel L. \"Danny\" Staton",
+          "BallotOrder": 2,
+          "Votes": 1011,
+          "Percentage": "31.27%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Tyson T. Cooper",
+          "BallotOrder": 3,
+          "Votes": 242,
+          "Percentage": "7.49%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 1113,
+          "Percentage": "34.43%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (BUENA VISTA CITY)",
+      "PrecinctsReporting": 2,
+      "PrecinctsParticipating": 2,
+      "NumberOfSeats": 4,
+      "Candidates": [
+        {
+          "BallotName": "John S. Butler",
+          "BallotOrder": 1,
+          "Votes": 809,
+          "Percentage": "17.02%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "John H. Rice",
+          "BallotOrder": 2,
+          "Votes": 925,
+          "Percentage": "19.46%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Lisa B. Kerr",
+          "BallotOrder": 3,
+          "Votes": 1158,
+          "Percentage": "24.36%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "John S. Roberts",
+          "BallotOrder": 4,
+          "Votes": 894,
+          "Percentage": "18.81%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Roy E. Mohler",
+          "BallotOrder": 5,
+          "Votes": 837,
+          "Percentage": "17.61%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 130,
+          "Percentage": "2.74%",
+          "PoliticalParty": ""
+        }
+      ]
+    }
+  ]
+}

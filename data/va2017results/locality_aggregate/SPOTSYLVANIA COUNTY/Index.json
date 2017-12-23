@@ -1,0 +1,423 @@
+{
+  "ElectionName": "2017 November General",
+  "ElectionDate": "2017-11-07T00:00:00",
+  "CreateDate": "2017-11-13T19:06:14.8629838-05:00",
+  "Locality": {
+    "LocalityName": "SPOTSYLVANIA COUNTY",
+    "LocalityCode": "177"
+  },
+  "Races": [
+    {
+      "RaceName": "Governor",
+      "PrecinctsReporting": 27,
+      "PrecinctsParticipating": 27,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ralph S. Northam",
+          "BallotOrder": 1,
+          "Votes": 15869,
+          "Percentage": "43.12%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward W. \"Ed\" Gillespie",
+          "BallotOrder": 2,
+          "Votes": 20481,
+          "Percentage": "55.66%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Clifford D. Hyra",
+          "BallotOrder": 3,
+          "Votes": 426,
+          "Percentage": "1.16%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 22,
+          "Percentage": "0.06%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Lieutenant Governor",
+      "PrecinctsReporting": 27,
+      "PrecinctsParticipating": 27,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Justin E. Fairfax",
+          "BallotOrder": 1,
+          "Votes": 15531,
+          "Percentage": "42.41%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jill H. Vogel",
+          "BallotOrder": 2,
+          "Votes": 21026,
+          "Percentage": "57.42%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 60,
+          "Percentage": "0.16%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Attorney General",
+      "PrecinctsReporting": 27,
+      "PrecinctsParticipating": 27,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark R. Herring",
+          "BallotOrder": 1,
+          "Votes": 15713,
+          "Percentage": "42.91%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John D. Adams",
+          "BallotOrder": 2,
+          "Votes": 20869,
+          "Percentage": "56.99%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 37,
+          "Percentage": "0.10%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (054)",
+      "PrecinctsReporting": 18,
+      "PrecinctsParticipating": 18,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Al Durante",
+          "BallotOrder": 1,
+          "Votes": 9773,
+          "Percentage": "42.22%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Robert D. \"Bobby\" Orrock",
+          "BallotOrder": 2,
+          "Votes": 13327,
+          "Percentage": "57.57%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 49,
+          "Percentage": "0.21%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (055)",
+      "PrecinctsReporting": 4,
+      "PrecinctsParticipating": 4,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Morgan K. Goodman",
+          "BallotOrder": 1,
+          "Votes": 699,
+          "Percentage": "27.94%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "H. F. \"Buddy\" Fowler, Jr.",
+          "BallotOrder": 2,
+          "Votes": 1794,
+          "Percentage": "71.70%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 9,
+          "Percentage": "0.36%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (056)",
+      "PrecinctsReporting": 3,
+      "PrecinctsParticipating": 3,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Melissa M. Dart",
+          "BallotOrder": 1,
+          "Votes": 416,
+          "Percentage": "29.76%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John J. McGuire III",
+          "BallotOrder": 2,
+          "Votes": 982,
+          "Percentage": "70.24%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 0,
+          "Percentage": "0.00%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (088)",
+      "PrecinctsReporting": 8,
+      "PrecinctsParticipating": 8,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Steve R. Aycock",
+          "BallotOrder": 1,
+          "Votes": 3078,
+          "Percentage": "32.42%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Mark L. Cole",
+          "BallotOrder": 2,
+          "Votes": 5025,
+          "Percentage": "52.93%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Gerald L. Anderson",
+          "BallotOrder": 3,
+          "Votes": 86,
+          "Percentage": "0.91%",
+          "PoliticalParty": "Green"
+        },
+        {
+          "BallotName": "Amanda M. Blalock",
+          "BallotOrder": 4,
+          "Votes": 1294,
+          "Percentage": "13.63%",
+          "PoliticalParty": "Independent"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 11,
+          "Percentage": "0.12%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (BATTLEFIELD DISTRICT)",
+      "PrecinctsReporting": 5,
+      "PrecinctsParticipating": 5,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Christopher J. \"Yak\" Yakabouski",
+          "BallotOrder": 1,
+          "Votes": 3102,
+          "Percentage": "56.90%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "William Nightingale, Jr.",
+          "BallotOrder": 2,
+          "Votes": 2300,
+          "Percentage": "42.19%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 50,
+          "Percentage": "0.92%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (BERKELEY DISTRICT)",
+      "PrecinctsReporting": 5,
+      "PrecinctsParticipating": 5,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Deborah Curcie",
+          "BallotOrder": 1,
+          "Votes": 1456,
+          "Percentage": "30.40%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Kevin W. Marshall",
+          "BallotOrder": 2,
+          "Votes": 1617,
+          "Percentage": "33.76%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Gregory L. \"Greg\" Cebula",
+          "BallotOrder": 3,
+          "Votes": 1033,
+          "Percentage": "21.57%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Nelson W. Gentry",
+          "BallotOrder": 4,
+          "Votes": 657,
+          "Percentage": "13.72%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 27,
+          "Percentage": "0.56%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Board of Supervisors (LEE HILL DISTRICT)",
+      "PrecinctsReporting": 4,
+      "PrecinctsParticipating": 4,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Michael P. Berry",
+          "BallotOrder": 1,
+          "Votes": 1863,
+          "Percentage": "38.00%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Todd A. Rump",
+          "BallotOrder": 2,
+          "Votes": 752,
+          "Percentage": "15.34%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Gary F. Skinner",
+          "BallotOrder": 3,
+          "Votes": 2253,
+          "Percentage": "45.95%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 35,
+          "Percentage": "0.71%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (BATTLEFIELD DISTRICT)",
+      "PrecinctsReporting": 5,
+      "PrecinctsParticipating": 5,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Baron P. Braswell",
+          "BallotOrder": 1,
+          "Votes": 4771,
+          "Percentage": "97.09%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 143,
+          "Percentage": "2.91%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (BERKELEY DISTRICT)",
+      "PrecinctsReporting": 5,
+      "PrecinctsParticipating": 5,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "April M. Gillespie",
+          "BallotOrder": 1,
+          "Votes": 2233,
+          "Percentage": "47.22%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Erin K. Grampp",
+          "BallotOrder": 2,
+          "Votes": 2468,
+          "Percentage": "52.19%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 28,
+          "Percentage": "0.59%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member School Board (LEE HILL DISTRICT)",
+      "PrecinctsReporting": 4,
+      "PrecinctsParticipating": 4,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Lisa A. Phelps",
+          "BallotOrder": 1,
+          "Votes": 2696,
+          "Percentage": "56.03%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Kathryn A. \"Kassie\" Palmer",
+          "BallotOrder": 2,
+          "Votes": 2076,
+          "Percentage": "43.14%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 40,
+          "Percentage": "0.83%",
+          "PoliticalParty": ""
+        }
+      ]
+    }
+  ]
+}

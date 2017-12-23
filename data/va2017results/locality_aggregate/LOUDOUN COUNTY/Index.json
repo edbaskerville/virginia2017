@@ -1,0 +1,403 @@
+{
+  "ElectionName": "2017 November General",
+  "ElectionDate": "2017-11-07T00:00:00",
+  "CreateDate": "2017-11-13T19:06:13.6028578-05:00",
+  "Locality": {
+    "LocalityName": "LOUDOUN COUNTY",
+    "LocalityCode": "107"
+  },
+  "Races": [
+    {
+      "RaceName": "Governor",
+      "PrecinctsReporting": 97,
+      "PrecinctsParticipating": 97,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Ralph S. Northam",
+          "BallotOrder": 1,
+          "Votes": 69778,
+          "Percentage": "59.40%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Edward W. \"Ed\" Gillespie",
+          "BallotOrder": 2,
+          "Votes": 46396,
+          "Percentage": "39.49%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Clifford D. Hyra",
+          "BallotOrder": 3,
+          "Votes": 1258,
+          "Percentage": "1.07%",
+          "PoliticalParty": "Libertarian"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 45,
+          "Percentage": "0.04%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Lieutenant Governor",
+      "PrecinctsReporting": 97,
+      "PrecinctsParticipating": 97,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Justin E. Fairfax",
+          "BallotOrder": 1,
+          "Votes": 67768,
+          "Percentage": "57.96%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Jill H. Vogel",
+          "BallotOrder": 2,
+          "Votes": 49066,
+          "Percentage": "41.97%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 84,
+          "Percentage": "0.07%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Attorney General",
+      "PrecinctsReporting": 97,
+      "PrecinctsParticipating": 97,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Mark R. Herring",
+          "BallotOrder": 1,
+          "Votes": 69514,
+          "Percentage": "59.51%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "John D. Adams",
+          "BallotOrder": 2,
+          "Votes": 47220,
+          "Percentage": "40.42%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 85,
+          "Percentage": "0.07%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (010)",
+      "PrecinctsReporting": 22,
+      "PrecinctsParticipating": 22,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Wendy W. Gooditis",
+          "BallotOrder": 1,
+          "Votes": 12916,
+          "Percentage": "55.35%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "J. Randall Minchew",
+          "BallotOrder": 2,
+          "Votes": 10397,
+          "Percentage": "44.56%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 22,
+          "Percentage": "0.09%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (032)",
+      "PrecinctsReporting": 24,
+      "PrecinctsParticipating": 24,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "David A. Reid",
+          "BallotOrder": 1,
+          "Votes": 17865,
+          "Percentage": "58.47%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Thomas A. \"Tag\" Greason",
+          "BallotOrder": 2,
+          "Votes": 12653,
+          "Percentage": "41.41%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 34,
+          "Percentage": "0.11%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (033)",
+      "PrecinctsReporting": 18,
+      "PrecinctsParticipating": 18,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Tia L. Walbridge",
+          "BallotOrder": 1,
+          "Votes": 10075,
+          "Percentage": "47.43%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Dave A. LaRock",
+          "BallotOrder": 2,
+          "Votes": 11136,
+          "Percentage": "52.43%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 30,
+          "Percentage": "0.14%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (034)",
+      "PrecinctsReporting": 8,
+      "PrecinctsParticipating": 8,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Kathleen J. Murphy",
+          "BallotOrder": 1,
+          "Votes": 6163,
+          "Percentage": "62.16%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Cheryl A. Buford",
+          "BallotOrder": 2,
+          "Votes": 3747,
+          "Percentage": "37.80%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 4,
+          "Percentage": "0.04%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (067)",
+      "PrecinctsReporting": 4,
+      "PrecinctsParticipating": 4,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Karrie K. Delaney",
+          "BallotOrder": 1,
+          "Votes": 1779,
+          "Percentage": "53.70%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "James M. \"Jim\" LeMunyon",
+          "BallotOrder": 2,
+          "Votes": 1528,
+          "Percentage": "46.12%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 6,
+          "Percentage": "0.18%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (086)",
+      "PrecinctsReporting": 3,
+      "PrecinctsParticipating": 3,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Jennifer B. Boysko",
+          "BallotOrder": 1,
+          "Votes": 1679,
+          "Percentage": "62.93%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Linda C. Schulz",
+          "BallotOrder": 2,
+          "Votes": 983,
+          "Percentage": "36.84%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 6,
+          "Percentage": "0.22%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member House of Delegates (087)",
+      "PrecinctsReporting": 25,
+      "PrecinctsParticipating": 25,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "John J. Bell",
+          "BallotOrder": 1,
+          "Votes": 16490,
+          "Percentage": "63.99%",
+          "PoliticalParty": "Democratic"
+        },
+        {
+          "BallotName": "Subba R. Kolla",
+          "BallotOrder": 2,
+          "Votes": 9225,
+          "Percentage": "35.80%",
+          "PoliticalParty": "Republican"
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 56,
+          "Percentage": "0.22%",
+          "PoliticalParty": "Write-In"
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Town Council - Leesburg - Special (LEESBURG)",
+      "PrecinctsReporting": 12,
+      "PrecinctsParticipating": 12,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Joshua P. Thiel",
+          "BallotOrder": 1,
+          "Votes": 5924,
+          "Percentage": "47.64%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Vanessa Richardson Maddox",
+          "BallotOrder": 2,
+          "Votes": 6420,
+          "Percentage": "51.62%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 92,
+          "Percentage": "0.74%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Member Town Council - Round Hill - Special (ROUND HILL)",
+      "PrecinctsReporting": 2,
+      "PrecinctsParticipating": 2,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Michael B. Hummel",
+          "BallotOrder": 1,
+          "Votes": 207,
+          "Percentage": "94.95%",
+          "PoliticalParty": ""
+        },
+        {
+          "BallotName": "Write In",
+          "BallotOrder": 2147483647,
+          "Votes": 11,
+          "Percentage": "5.05%",
+          "PoliticalParty": ""
+        }
+      ]
+    },
+    {
+      "RaceName": "Public Safety Projects (LOUDOUN COUNTY)",
+      "PrecinctsReporting": 97,
+      "PrecinctsParticipating": 97,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Yes",
+          "BallotOrder": 1,
+          "Votes": 86671,
+          "Percentage": "75.16%",
+          "PoliticalParty": null
+        },
+        {
+          "BallotName": "No",
+          "BallotOrder": 2,
+          "Votes": 28642,
+          "Percentage": "24.84%",
+          "PoliticalParty": null
+        }
+      ]
+    },
+    {
+      "RaceName": "School Projects (LOUDOUN COUNTY)",
+      "PrecinctsReporting": 97,
+      "PrecinctsParticipating": 97,
+      "NumberOfSeats": 1,
+      "Candidates": [
+        {
+          "BallotName": "Yes",
+          "BallotOrder": 1,
+          "Votes": 84375,
+          "Percentage": "73.60%",
+          "PoliticalParty": null
+        },
+        {
+          "BallotName": "No",
+          "BallotOrder": 2,
+          "Votes": 30269,
+          "Percentage": "26.40%",
+          "PoliticalParty": null
+        }
+      ]
+    }
+  ]
+}
