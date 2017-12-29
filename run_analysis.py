@@ -28,32 +28,28 @@ def main():
     
     # Greedy agglomeration step: start with each precinct in its own district,
     # and join neighbors according to some criterion until we have N_DISTRICTS districts.
-    for agglom_func in (
+    for agglom_func, swap_func in (
         # Minimize total distance between people within district.
-        #agglomerate_mindist,
+        (agglomerate_mindist, swap_mindist),
         
         # Maximize population balance entropy
-        agglomerate_balance,
+        (agglomerate_balance, swap_balance),
+        
+        # Stepwise minimize average rank of min. dist, max. entropy
+        (agglomerate_hybrid, swap_hybrid),
     ):
         print('Agglomerating using {}...'.format(agglom_func.__name__))
         D_agglomerated = agglom_func(D0, N_DISTRICTS)
+        D_agglomerated.verify()
         write_districting_results(D_agglomerated, agglom_func.__name__, votes_by_precinct)
         
-        # Greedy swap step: swap precincts between neighboring districts according to
-        # improve some criterion until it cannot be improved.
-        for swap_func in (
-            # Minimize total distance between people within district.
-            #swap_mindist,
-            
-            # Maximize population entropy
-            swap_balance,
-        ):
-            print('Swapping using {}...'.format(swap_func.__name__))
-            D_swapped = swap_func(D_agglomerated)
-            write_districting_results(D_swapped, '{}+{}'.format(
-                agglom_func.__name__,
-                swap_func.__name__
-            ), votes_by_precinct)
+        print('Swapping using {}...'.format(swap_func.__name__))
+        D_swapped = swap_func(D_agglomerated)
+        D_swapped.verify()
+        write_districting_results(D_swapped, '{}+{}'.format(
+            agglom_func.__name__,
+            swap_func.__name__
+        ), votes_by_precinct)
 
 def iter_precincts_2010():
     vtd_pop_dict = load_vtd_populations()
@@ -163,13 +159,16 @@ def write_districting_results(D, name, votes_by_precinct):
             for p in D.district_regions(d):
                 c.execute('INSERT INTO district_precincts VALUES (?,?)', (d, p.id))
         
-        c.execute('CREATE TABLE districts (id, population, dem_votes, rep_votes)')
+        c.execute('CREATE TABLE districts (id, population, area, avg_distance, dem_votes, rep_votes)')
         c.execute('CREATE INDEX idx_districts ON districts (id, dem_votes, rep_votes)')
         
         for d, votes_by_party in votes_by_district.items():
             dem_votes = votes_by_party['Democratic'] if 'Democratic' in votes_by_party else 0
             rep_votes = votes_by_party['Republican'] if 'Republican' in votes_by_party else 0
-            c.execute('INSERT INTO districts VALUES (?,?,?,?)', (d, D.district_population(d), dem_votes, rep_votes))
+            c.execute(
+                'INSERT INTO districts VALUES (?,?,?,?,?,?)',
+                (d, D.district_population(d), D.district_area(d), D.district_average_distance(d), dem_votes, rep_votes)
+            )
         
         c.execute('CREATE TABLE power (dem_seats, rep_seats, dem_pop, rep_pop, dem_power, rep_power)')
         

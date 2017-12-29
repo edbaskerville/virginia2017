@@ -4,6 +4,7 @@ SCRIPT_DIR = os.path.dirname(__file__)
 sys.path.append(SCRIPT_DIR)
 from geometry import *
 import sqlite3
+from collections import deque
 from sortedcontainers import SortedListWithKey
 
 class Region:
@@ -69,7 +70,9 @@ class Region:
         return self.id < other.id
     
     def __eq__(self, other):
-        return self.id == other.id
+        if isinstance(other, Region):
+            return self.id == other.id
+        return False
     
     def __hash__(self):
         return int(self.id)
@@ -210,6 +213,28 @@ class Districting:
         self._move_distance_deltas = _move_distance_deltas
         
         self._district_populations = None
+        
+        self._set = None
+        self._colors = None
+    
+    def verify(self):
+        self.verify_contiguity()
+    
+    def verify_contiguity(self):
+        for d in self.districts:
+            # Make sure we hit every region in the district
+            visited = set()
+            q = deque()
+            q.append(next(iter(self.district_regions(d))))
+            while len(q) > 0:
+                r = q.popleft()
+                visited.add(r)
+                for rn in self.neighbor_regions(r):
+                    if not rn in visited and self.region_district(rn) == d:
+                        q.append(rn)
+            print(len(self.district_regions(d)), len(visited))
+            assert len(self.district_regions(d) & visited) == len(self.district_regions(d))
+            assert len(self.district_regions(d) - visited) == 0
     
     @property
     def total_distance(self):
@@ -218,6 +243,12 @@ class Districting:
                 self.compute_total_distance(d, d) / 2.0 for d in self.districts
             )
         return self._total_distance
+    
+    def district_average_distance(self, d):
+        return self.compute_total_distance(d, d) / (self.district_population(d)**2.0)
+    
+    def district_area(self, d):
+        return sum(abs(r.area) for r in self.district_regions(d))
     
     def merge_distance_delta(self, d1, d2):
         k = sorted_tuple(d1, d2)
@@ -451,8 +482,24 @@ class Districting:
             if self.region_count(d) > 1:
                 for r in self.boundary_regions(d):
                     for dn in set(self.region_district(rn) for rn in self.neighbor_regions(r)):
-                        if dn != d:
+                        if dn != d and not self.removal_disconnects_district(r):
                             yield (r, dn)
+    
+    def removal_disconnects_district(self, region):
+        d = self.region_district(region)
+        q = deque()
+        visited = set()
+        for r in self.neighbor_regions(region):
+            if self.region_district(r) == d:
+                q.append(r)
+                break
+        while len(q) > 0:
+            r = q.popleft()
+            visited.add(r)
+            for rn in self.neighbor_regions(r):
+                if rn != region and not rn in visited and self.region_district(rn) == d:
+                    q.append(rn)
+        return len(visited) < len(self.district_regions(d)) - 1
     
     def districts_are_neighbors(self, d1, d2):
         return d2 in self.neighbor_districts(d1)
@@ -478,6 +525,32 @@ class Districting:
                         if rn not in self.district_region_map[di]:
                             self._neighbor_districts[di].add(self.region_district_map[rn])
         return self._neighbor_districts[d]
+    
+    @property
+    def colors(self):
+        if self._colors is None:
+            colors = {}
+            for d in self.districts:
+                try:
+                    colors[d] = max(
+                        colors[dn] for dn in self.neighbor_districts(d)
+                        if dn in colors
+                    ) + 1
+                except:
+                    colors[d] = 0
+            self._colors = colors
+        return self._colors
+    
+    def district_polygon(self, d):
+        segment_count = {}
+        for r in self.district_regions(d):
+            for i in range(len(r.polygon) - 1):
+                segment = sorted_tuple(*r.polygon[i:i+2])
+                if segment in segment_count:
+                    segment_count[segment] += 1
+                else:
+                    segment_count[segment] = 1
+        return [segment for segment, count in segment_count.items() if count == 1]
     
     @property
     def region_graph(self):
@@ -528,6 +601,46 @@ class Districting:
                 for d in self.districts
             }
         return self._district_populations
+    
+    @property
+    def set(self):
+        if self._set is None:
+            self._set = frozenset(
+                frozenset(r.id for r in self.district_regions(d))
+                for d in self.districts
+            )
+        return self._set
+
+def inverse_permutation(l):
+    l2 = [-1] * len(l)
+    for i, li in enumerate(l):
+        l2[li] = i
+    return l2
+
+def sorted_rank(l, key):
+    return inverse_permutation([
+        i for i, li in sorted(enumerate(l), key = lambda pair: key(pair[1]))
+    ])
+
+def agglomerate_hybrid(D0, k, mindist_weight = 0.5):
+    Di = D0
+    
+    w = mindist_weight
+    while Di.district_count > k:
+        merges = list(Di.iter_all_merges())
+        rank_mindist = sorted_rank(
+            merges, key = lambda m : Di.merge_distance_delta(*m)
+        )
+        rank_balance = sorted_rank(
+            merges, key = lambda m : -Di.merge_entropy_delta(*m)
+        )
+        d1, d2 = min(
+            enumerate(merges),
+            key = lambda pair: w * rank_mindist[pair[0]] + (1.0 - w) * rank_balance[pair[0]]
+        )[1]
+        Di = Di.merge_districts(d1, d2)
+    return Di
+    
 
 def agglomerate_mindist(D0, k):
     Di = D0
@@ -576,3 +689,35 @@ def swap_balance(D0):
             print(Di.population_entropy)
         else:
             return Di
+
+def swap_hybrid(D0, mindist_weight = 0.5):
+    w = mindist_weight
+    Di = D0
+    
+    visited = set()
+    
+    while True:
+        moves = list(Di.iter_all_moves())
+        rank_mindist = sorted_rank(
+            moves, key = lambda m : Di.move_distance_delta(*m)
+        )
+        rank_balance = sorted_rank(
+            moves, key = lambda m : -Di.move_entropy_delta(*m)
+        )
+        r, d = min(
+            enumerate(moves),
+            key = lambda pair: w * rank_mindist[pair[0]] + (1.0 - w) * rank_balance[pair[0]]
+        )[1]
+        distance_delta = Di.move_distance_delta(r, d)
+        entropy_delta = Di.move_entropy_delta(r, d)
+        if distance_delta < 0 or entropy_delta > 0:
+            print(distance_delta, entropy_delta)
+            Di = Di.move_region(r, d)
+        else:
+            break
+        
+        if Di.set in visited:
+            break
+        visited.add(Di.set)
+    
+    return Di

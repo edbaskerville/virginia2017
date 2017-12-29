@@ -2,6 +2,8 @@ import os
 from collections import OrderedDict
 import json
 import sqlite3
+from geography import *
+from districting import *
 from download import download_url
 
 DATA_DIR = os.path.join(os.path.dirname(__file__), 'data', 'va2017results')
@@ -143,11 +145,25 @@ LOCALITIES = [
     'YORK COUNTY',
 ]
 
+def load_votes_by_precinct(precinct_map):
+    # Count votes in 2010 precincts
+    votes_by_precinct = {}
+    for precinct in precinct_map.values():
+        votes_by_precinct[precinct] = {}
+    with sqlite3.connect(va2017results.results_db_filename()) as db:
+        for precinct_id, party, votes in db.execute('''
+            SELECT precinct_id, party, votes FROM votes, candidates WHERE candidate_id = candidates.id
+        '''):
+            precinct = precinct_map[precinct_id]
+            if not party in votes_by_precinct[precinct]:
+                votes_by_precinct[precinct][party] = 0
+            votes_by_precinct[precinct][party] += int(votes)
+    return votes_by_precinct
+
 def results_db_filename():
     filename = os.path.join(DATA_DIR, 'va2017results.sqlite')
     
     if not os.path.exists(filename):
-        
         with sqlite3.connect(filename) as db:
             c = db.cursor()
         
@@ -173,6 +189,34 @@ def results_db_filename():
                     contest = race_obj['RaceName']
                     if contest.startswith('Member House of Delegates'):
                         load_contest_into_db(locality, contest, c)
+        
+            precinct_map = load_precinct_map(list(iter_precincts_2010()))
+            
+            # Count votes in 2010 precincts
+            votes_by_precinct = {}
+            for precinct in precinct_map.values():
+                votes_by_precinct[precinct] = {}
+            for precinct_id_2016, party, votes in c.execute('''
+                SELECT precinct_id, party, votes FROM votes, candidates WHERE candidate_id = candidates.id
+            '''):
+                precinct_2010 = precinct_map[precinct_id_2016]
+                if not party in votes_by_precinct[precinct_2010]:
+                    votes_by_precinct[precinct_2010][party] = 0
+                votes_by_precinct[precinct_2010][party] += int(votes)
+            
+            c.execute('''CREATE TABLE votes_2010precincts (
+                precinct_id, population, dem_votes, rep_votes
+            )''')
+            c.execute('''CREATE INDEX idx_votes_2010precincts ON votes_2010precincts (
+                precinct_id, dem_votes, rep_votes
+            )''')
+            for precinct_2010, precinct_votes in votes_by_precinct.items():
+                dem_votes = precinct_votes['Democratic'] if 'Democratic' in precinct_votes else 0
+                rep_votes = precinct_votes['Republican'] if 'Republican' in precinct_votes else 0
+                
+                c.execute('INSERT INTO votes_2010precincts VALUES (?,?,?,?)', (
+                    precinct_2010.id, precinct_2010.population, dem_votes, rep_votes
+                ))
     
     assert os.path.exists(filename)
     return filename
